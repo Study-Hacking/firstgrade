@@ -6,11 +6,11 @@ questions = []
 
 def get_look_looks(subject):
     subject = subject.lower()
-    # Third person singular check
-    if subject in ['i', 'you', 'we', 'they', 'these pens', 'those bikes', 'my friends', 'the cats', 'you and i', 'ken and tom', 'those apples', 'the rooms']:
+    # Plural subjects (look)
+    if subject in ['i', 'you', 'we', 'they', 'these pens', 'those bikes', 'my friends', 'the cats', 'you and i', 'ken and tom', 'those apples', 'the rooms', 'the flowers', 'my parents', 'his eyes', 'these pens', 'my friends', 'those bikes', 'the cats', 'these books', 'those boys', 'the dogs']:
         return 'look'
-    else:
-        return 'looks'
+    # Singular subjects (looks)
+    return 'looks'
 
 def parse_line(line):
     parts = re.split(r'\t+', line.strip())
@@ -140,7 +140,12 @@ def parse_line(line):
                 if match:
                     wrong_verb = match.group(1).strip()
                     # Heuristic for base form
-                    if wrong_verb.endswith('ied'): base = wrong_verb[:-3] + 'y'
+                    if wrong_verb == 'lived': base = 'live'
+                    elif wrong_verb == 'used': base = 'use'
+                    elif wrong_verb == 'liked': base = 'like'
+                    elif wrong_verb == 'loved': base = 'love'
+                    elif wrong_verb == 'hoped': base = 'hope'
+                    elif wrong_verb.endswith('ied'): base = wrong_verb[:-3] + 'y'
                     elif wrong_verb.endswith('ed'): base = wrong_verb[:-2]
                     elif wrong_verb == 'went': base = 'go'
                     elif wrong_verb == 'came': base = 'come'
@@ -281,9 +286,18 @@ def parse_line(line):
                     opts = ["looks", "look", "looking", "looked"]
                 elif "look" in q_text:
                     correct = "Did"
-                    opts = ["Did", "Was", "Were", "Does"]
-                elif any(x in q_text for x in ["play", "go", "cry", "study", "rain", "run", "do", "eat", "meet"]):
-                    correct = "Did" if "you" in q_text or "he" in q_text or "she" in q_text or "they" in q_text or "it" in q_text else "did"
+                    # Avoid 'Does' to prevent ambiguity with Present Tense
+                    opts = ["Did", "Was", "Were", "Had"]
+                elif any(x in q_text for x in ["play", "go", "cry", "study", "rain", "run", "do", "eat", "meet", "watch"]):
+                    # Check if 'rain' is used as a noun (The rain...) or verb (Did it rain?)
+                    if "rain" in q_text and "The rain" in q_text:
+                         # "The rain ( ) cold." -> looks (handled in Block 1 actually, but if it appears here...)
+                         # Wait, Q46 is Block 1. Q279 is "Did it rain?".
+                         # If "rain" is present, it's likely a verb here unless "The rain" is subject.
+                         correct = "Did"
+                    else:
+                         correct = "Did" if "you" in q_text or "he" in q_text or "she" in q_text or "they" in q_text or "it" in q_text else "did"
+                    
                     opts = ["Did", "Was", "Were", "Do"]
                 else:
                     if "you" in q_text or "they" in q_text: correct = "Were"
@@ -293,12 +307,15 @@ def parse_line(line):
                 if q_num_col3 < 299 and (q_text.startswith("What") or q_text.startswith("Where") or q_text.startswith("Who") or q_text.startswith("How")):
                     correct = correct.lower()
                     opts = [o.lower() for o in opts]
+                
                 if q_num_col3 >= 299:
                     hint_text = "Subject 'That' -> looks"
                 elif "look" in q_text:
-                    hint_text = "Action verb -> Did, State/Adjective -> Was/Were"
+                    hint_text = "Action verb 'look' -> Did"
+                elif correct in ["Did", "did"]:
+                    hint_text = "Action verb -> Did"
                 else:
-                    hint_text = "Action verb -> Did, State/Adjective -> Was/Were"
+                    hint_text = "State/Adjective -> Was/Were"
                 
                 random.shuffle(opts)
                 questions.append({
