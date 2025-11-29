@@ -163,6 +163,7 @@ class QuizGame {
     endGame() {
         // Show Results Screen
         this.dom.resultsScreen.classList.remove('hidden');
+        this.dom.resultsScreen.style.display = 'flex'; // Ensure flex display
 
         // Update Score
         this.dom.resultScore.textContent = this.correctCount;
@@ -170,18 +171,30 @@ class QuizGame {
 
         // Message & Celebration & Buttons
         const percentage = (this.correctCount / this.questions.length) * 100;
+        console.log(`Game Over. Score: ${this.correctCount}/${this.questions.length} (${percentage}%)`);
 
-        // Reset visibility
+        // Reset visibility (Hide all first)
         this.dom.celebration.classList.add('hidden');
+        this.dom.celebration.style.display = 'none';
+
         this.dom.nextChallengeBtn.classList.add('hidden');
+        this.dom.nextChallengeBtn.style.display = 'none';
+
         this.dom.retryMistakesBtn.classList.add('hidden');
+        this.dom.retryMistakesBtn.style.display = 'none';
+
         this.dom.reviewSection.classList.add('hidden');
+        this.dom.reviewSection.style.display = 'none';
 
         if (percentage === 100) {
             // Perfect Case
             this.dom.resultMessage.textContent = "Amazing! Perfect Score! 🏆";
+
             this.dom.celebration.classList.remove('hidden');
+            this.dom.celebration.style.display = 'block';
+
             this.dom.nextChallengeBtn.classList.remove('hidden');
+            this.dom.nextChallengeBtn.style.display = 'block'; // or inline-block/flex depending on CSS
         } else {
             // Imperfect Case
             if (percentage >= 80) {
@@ -191,7 +204,10 @@ class QuizGame {
             }
 
             this.dom.retryMistakesBtn.classList.remove('hidden');
+            this.dom.retryMistakesBtn.style.display = 'block'; // or inline-block
+
             this.showReview();
+            this.dom.reviewSection.style.display = 'block';
         }
     }
 
