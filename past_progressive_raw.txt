@@ -1,0 +1,101 @@
+No.	Q. ing形 / be動詞は？	No.	Q. 文を完成させなさい(進行形)	No.	Q. 疑問文・否定文・日本語訳
+1	play → ( )	101	I ( play ) tennis. → ( )	201	I was sleeping. (否定) → I ( )
+2	watch → ( )	102	You ( play ) baseball. → ( )	202	You were studying. (否定) → You ( )
+3	cook → ( )	103	He ( play ) guitar. → ( )	203	He was eating. (否定) → He ( )
+4	read → ( )	104	She ( play ) piano. → ( )	204	She was running. (否定) → She ( )
+5	study → ( )	105	We ( play ) games. → ( )	205	We were watching. (否定) → We ( )
+6	make → ( )	106	They ( play ) cards. → ( )	206	They were swimming. (否定) → They ( )
+7	take → ( )	107	Ken ( play ) soccer. → ( )	207	Ken was cooking. (否定) → Ken ( )
+8	write → ( )	108	I ( watch ) TV. → ( )	208	The dog was barking. (否定) → The dog ( )
+9	use → ( )	109	You ( watch ) movie. → ( )	209	It was raining. (否定) → It ( )
+10	come → ( )	110	He ( watch ) YouTube. → ( )	210	I ( ) reading. (短縮)
+11	run → ( )	111	She ( watch ) news. → ( )	211	You ( ) listening. (短縮)
+12	swim → ( )	112	We ( watch ) game. → ( )	212	He ( ) working. (短縮)
+13	sit → ( )	113	They ( watch ) stars. → ( )	213	She ( ) crying. (短縮)
+14	stop → ( )	114	Father ( watch ) TV. → ( )	214	We ( ) talking. (短縮)
+15	get → ( )	115	I ( study ) English. → ( )	215	They ( ) using. (短縮)
+16	cut → ( )	116	You ( study ) math. → ( )	216	You were sleeping. (疑問) → ( )
+17	put → ( )	117	He ( study ) hard. → ( )	217	He was studying. (疑問) → ( )
+18	have → ( )	118	She ( study ) history. → ( )	218	She was cooking. (疑問) → ( )
+19	dance → ( )	119	We ( study ) together. → ( )	219	They were running. (疑問) → ( )
+20	practice → ( )	120	They ( study ) Japanese. → ( )	220	Ken was reading. (疑問) → ( )
+21	eat → ( )	121	I ( cook ) dinner. → ( )	221	It was raining. (疑問) → ( )
+22	drink → ( )	122	You ( cook ) lunch. → ( )	222	You were listening. (疑問) → ( )
+23	go → ( )	123	He ( cook ) breakfast. → ( )	223	Tom was watching. (疑問) → ( )
+24	do → ( )	124	She ( make ) cake. → ( )	224	Your mother was working. (疑問) → ( )
+25	sleep → ( )	125	We ( make ) cookies. → ( )	225	The students were singing. (疑問) → ( )
+26	listen → ( )	126	They ( make ) plan. → ( )	226	Were you studying? - Yes, I ( ).
+27	look → ( )	127	I ( use ) computer. → ( )	227	Were you studying? - No, I ( ).
+28	walk → ( )	128	You ( use ) pen. → ( )	228	Was he sleeping? - Yes, he ( ).
+29	talk → ( )	129	He ( use ) camera. → ( )	229	Was he sleeping? - No, he ( ).
+30	speak → ( )	130	She ( take ) pictures. → ( )	230	Were they running? - Yes, they ( ).
+31	sing → ( )	131	We ( take ) bus. → ( )	231	Were they running? - No, they ( ).
+32	wait → ( )	132	They ( take ) walk. → ( )	232	私はテニスをしていました。→ I ( ) ( ) tennis.
+33	wash → ( )	133	I ( run ) in park. → ( )	233	あなたは本を読んでいました。→ You ( ) ( ) book.
+34	clean → ( )	134	You ( run ) fast. → ( )	234	彼は寝ていました。→ He ( ) ( ).
+35	help → ( )	135	He ( run ) to school. → ( )	235	彼女は走っていました。→ She ( ) ( ).
+36	open → ( )	136	She ( swim ) in pool. → ( )	236	私たちは勉強していました。→ We ( ) ( ).
+37	close → ( )	137	We ( swim ) in sea. → ( )	237	彼らは歌っていました。→ They ( ) ( ).
+38	smile → ( )	138	They ( swim ) well. → ( )	238	ケンはテレビを見ていました。→ Ken ( ) ( ) TV.
+39	shine → ( )	139	I ( read ) book. → ( )	239	雨が降っていました。→ It ( ) ( ).
+40	drive → ( )	140	You ( read ) magazine. → ( )	240	雪が降っていました。→ It ( ) ( ).
+41	live → ( )	141	He ( write ) letter. → ( )	241	私は食べていました。→ I ( ) ( ).
+42	give → ( )	142	She ( write ) email. → ( )	242	私はお風呂に入っていました。→ I ( ) ( ) bath.
+43	move → ( )	143	We ( listen ) music. → ( )	243	私たちはスキーをしていました。→ We ( ) ( ).
+44	change → ( )	144	They ( listen ) radio. → ( )	244	あなたは聴いていましたか？→ ( ) you ( )?
+45	die → ( )	145	I ( eat ) lunch. → ( )	245	彼は何をしていましたか？→ What ( ) he ( )?
+46	lie → ( )	146	You ( eat ) dinner. → ( )	246	あなたは何をしていましたか？→ What ( ) you ( )?
+47	ski → ( )	147	He ( eat ) apple. → ( )	247	私は宿題をしていました。→ I ( ) ( ) homework.
+48	see → ( )	148	She ( drink ) tea. → ( )	248	私はソバを作っていました。→ I ( ) ( ) soba.
+49	visit → ( )	149	We ( drink ) coffee. → ( )	249	彼は演奏していました。→ He ( ) ( ).
+50	enjoy → ( )	150	They ( drink ) milk. → ( )	250	私は卓球をしていました。→ I ( ) ( ) table tennis.
+51	I ( ) playing.	151	I ( sleep ) in bed. → ( )	251	I ( study ) then. → I ( ) ( ) then.
+52	You ( ) playing.	152	You ( sleep ) on sofa. → ( )	252	You ( watch ) then. → You ( ) ( ) then.
+53	He ( ) playing.	153	Baby ( sleep ) well. → ( )	253	He ( play ) then. → He ( ) ( ) then.
+54	She ( ) playing.	154	Cat ( sleep ) under table. → ( )	254	She ( cook ) then. → She ( ) ( ) then.
+55	It ( ) playing.	155	I ( wait ) for you. → ( )	255	We ( run ) then. → We ( ) ( ) then.
+56	We ( ) playing.	156	You ( wait ) for bus. → ( )	256	They ( swim ) then. → They ( ) ( ) then.
+57	They ( ) playing.	157	He ( talk ) with Ken. → ( )	257	( ) you busy yesterday?
+58	Ken ( ) playing.	158	She ( talk ) on phone. → ( )	258	( ) you play yesterday?
+59	Emi ( ) playing.	159	We ( talk ) about trip. → ( )	259	( ) you playing then?
+60	My father ( ) playing.	160	They ( talk ) loudly. → ( )	260	I ( play ) yesterday. → I ( )
+61	Parents ( ) playing.	161	I ( clean ) room. → ( )	261	I ( play ) then. → I ( ) ( )
+62	The dog ( ) running.	162	You ( clean ) house. → ( )	262	He ( use ) yesterday. → He ( )
+63	The dogs ( ) running.	163	He ( wash ) car. → ( )	263	He ( use ) then. → He ( ) ( )
+64	The cat ( ) sleeping.	164	She ( wash ) hands. → ( )	264	We ( make ) yesterday. → We ( )
+65	The cats ( ) sleeping.	165	We ( wash ) dishes. → ( )	265	We ( make ) then. → We ( ) ( )
+66	The bird ( ) flying.	166	It ( rain ). → ( )	266	She ( run ) yesterday. → She ( )
+67	The birds ( ) flying.	167	It ( snow ). → ( )	267	She ( run ) then. → She ( ) ( )
+68	The car ( ) moving.	168	Wind ( blow ). → ( )	268	They ( have ) yesterday. → They ( )
+69	The cars ( ) moving.	169	Sun ( shine ). → ( )	269	They ( have ) then. → They ( ) ( )
+70	People ( ) waiting.	170	Stars ( shine ). → ( )	270	I ( listen ) to music. → I ( ) ( )
+71	Everyone ( ) watching.	171	I ( practice ) piano. → ( )	271	You ( not / watch ). → You ( ) ( )
+72	Someone ( ) calling.	172	You ( practice ) judo. → ( )	272	( he / study )? → ( ) he ( )?
+73	Who ( ) talking?	173	He ( sing ) song. → ( )	273	What ( you / do )? → What ( ) you ( )?
+74	What ( ) happening?	174	She ( dance ) well. → ( )	274	I ( write ) a letter. → I ( ) ( )
+75	Ken and I ( ) studying.	175	We ( enjoy ) music. → ( )	275	He ( sit ) on sofa. → He ( ) ( )
+76	You and I ( ) talking.	176	They ( enjoy ) party. → ( )	276	We ( stop ) car. → We ( ) ( )
+77	Tom and Jerry ( ) fighting.	177	I ( sit ) on chair. → ( )	277	The bird ( fly ). → The bird ( ) ( )
+78	My sister ( ) crying.	178	You ( sit ) on floor. → ( )	278	The sun ( rise ). → The sun ( ) ( )
+79	My brothers ( ) laughing.	179	He ( stand ) by door. → ( )	279	People ( walk ). → People ( ) ( )
+80	The student ( ) reading.	180	She ( stand ) there. → ( )	280	A man ( stand ). → A man ( ) ( )
+81	The students ( ) reading.	181	I ( help ) mother. → ( )	281	Two dogs ( run ). → Two dogs ( ) ( )
+82	Mr. Tanaka ( ) teaching.	182	You ( help ) me. → ( )	282	My phone ( ring ). → My phone ( ) ( )
+83	Ms. Sato ( ) cooking.	183	We ( do ) homework. → ( )	283	I was ( tired / tiring ). → ( )
+84	I ( )	184	They ( do ) cleaning. → ( )	284	I was ( excited / exciting ). → ( )
+85	You ( )	185	Bus ( come ). → ( )	285	Movie was ( excited / exciting ). → ( )
+86	He ( )	186	Train ( stop ). → ( )	286	( ) he happy?
+87	She ( )	187	I ( look ) at sky. → ( )	287	( ) he playing?
+88	It ( )	188	You ( look ) for key. → ( )	288	( ) you tired?
+89	We ( )	189	He ( shop ). → ( )	289	( ) you running?
+90	They ( )	190	She ( ski ). → ( )	290	( ) they students?
+91	Ken ( )	191	I ( walk ) dog. → ( )	291	( ) they studying?
+92	The boy ( )	192	You ( cut ) paper. → ( )	292	Where ( ) you?
+93	The boys ( )	193	He ( put ) on desk. → ( )	293	Where ( ) you going?
+94	The girl ( )	194	She ( open ) box. → ( )	294	What ( ) that?
+95	The girls ( )	195	We ( close ) store. → ( )	295	What ( ) you doing?
+96	This man ( )	196	They ( visit ) Kyoto. → ( )	296	Who ( ) he?
+97	These men ( )	197	I ( think ) about you. → ( )	297	Who ( ) talking?
+98	That woman ( )	198	You ( say ) something. → ( )	298	Why ( ) you sad?
+99	Those women ( )	199	He ( go ) home. → ( )	299	Why ( ) you crying?
+100	All of us ( )	200	She ( come ) back. → ( )	300	I ( ) happy to see you.

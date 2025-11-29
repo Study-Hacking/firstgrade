@@ -1,0 +1,2620 @@
+[
+    {
+        "question": "play \u2192 ( ? )",
+        "options": [
+            "playeing",
+            "played",
+            "playing",
+            "plays"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'play' is 'playing'."
+    },
+    {
+        "question": "I ( play ) tennis. \u2192 ( ? )",
+        "options": [
+            "were playing",
+            "was play",
+            "was played",
+            "was playing"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + playing"
+    },
+    {
+        "question": "I was sleeping. (\u5426\u5b9a) \u2192 I ( ? )",
+        "options": [
+            "wasn't sleeping",
+            "was not sleeping",
+            "wasn't sleeping",
+            "didn't sleeping"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't sleeping"
+    },
+    {
+        "question": "watch \u2192 ( ? )",
+        "options": [
+            "watched",
+            "watching",
+            "watchs",
+            "watcheing"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'watch' is 'watching'."
+    },
+    {
+        "question": "You ( play ) baseball. \u2192 ( ? )",
+        "options": [
+            "was playing",
+            "were playing",
+            "were play",
+            "were played"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + playing"
+    },
+    {
+        "question": "You were studying. (\u5426\u5b9a) \u2192 You ( ? )",
+        "options": [
+            "weren't studying",
+            "were not studying",
+            "wasn't studying",
+            "didn't studying"
+        ],
+        "answer": 0,
+        "hint": "Answer: weren't studying"
+    },
+    {
+        "question": "cook \u2192 ( ? )",
+        "options": [
+            "cookeing",
+            "cooked",
+            "cooking",
+            "cooks"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'cook' is 'cooking'."
+    },
+    {
+        "question": "He ( play ) guitar. \u2192 ( ? )",
+        "options": [
+            "was playing",
+            "was played",
+            "was play",
+            "were playing"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + playing"
+    },
+    {
+        "question": "He was eating. (\u5426\u5b9a) \u2192 He ( ? )",
+        "options": [
+            "wasn't eating",
+            "was not eating",
+            "wasn't eating",
+            "didn't eating"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't eating"
+    },
+    {
+        "question": "read \u2192 ( ? )",
+        "options": [
+            "reads",
+            "readed",
+            "readeing",
+            "reading"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'read' is 'reading'."
+    },
+    {
+        "question": "She ( play ) piano. \u2192 ( ? )",
+        "options": [
+            "was played",
+            "was playing",
+            "were playing",
+            "was play"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + playing"
+    },
+    {
+        "question": "She was running. (\u5426\u5b9a) \u2192 She ( ? )",
+        "options": [
+            "wasn't running",
+            "was not running",
+            "wasn't running",
+            "didn't running"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't running"
+    },
+    {
+        "question": "study \u2192 ( ? )",
+        "options": [
+            "studyed",
+            "studying",
+            "studyeing",
+            "studys"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'study' is 'studying'."
+    },
+    {
+        "question": "We ( play ) games. \u2192 ( ? )",
+        "options": [
+            "were play",
+            "were playing",
+            "were played",
+            "was playing"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + playing"
+    },
+    {
+        "question": "We were watching. (\u5426\u5b9a) \u2192 We ( ? )",
+        "options": [
+            "weren't watching",
+            "were not watching",
+            "wasn't watching",
+            "didn't watching"
+        ],
+        "answer": 0,
+        "hint": "Answer: weren't watching"
+    },
+    {
+        "question": "make \u2192 ( ? )",
+        "options": [
+            "making",
+            "makeing",
+            "makeed",
+            "makes"
+        ],
+        "answer": 0,
+        "hint": "The -ing form of 'make' is 'making'."
+    },
+    {
+        "question": "They ( play ) cards. \u2192 ( ? )",
+        "options": [
+            "was playing",
+            "were play",
+            "were playing",
+            "were played"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + playing"
+    },
+    {
+        "question": "They were swimming. (\u5426\u5b9a) \u2192 They ( ? )",
+        "options": [
+            "weren't swimming",
+            "were not swimming",
+            "wasn't swimming",
+            "didn't swimming"
+        ],
+        "answer": 0,
+        "hint": "Answer: weren't swimming"
+    },
+    {
+        "question": "take \u2192 ( ? )",
+        "options": [
+            "takeing",
+            "takes",
+            "taking",
+            "takeed"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'take' is 'taking'."
+    },
+    {
+        "question": "Ken ( play ) soccer. \u2192 ( ? )",
+        "options": [
+            "were playing",
+            "was played",
+            "was playing",
+            "was play"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + playing"
+    },
+    {
+        "question": "Ken was cooking. (\u5426\u5b9a) \u2192 Ken ( ? )",
+        "options": [
+            "wasn't cooking",
+            "was not cooking",
+            "wasn't cooking",
+            "didn't cooking"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't cooking"
+    },
+    {
+        "question": "write \u2192 ( ? )",
+        "options": [
+            "writeed",
+            "writing",
+            "writes",
+            "writeing"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'write' is 'writing'."
+    },
+    {
+        "question": "I ( watch ) TV. \u2192 ( ? )",
+        "options": [
+            "was watch",
+            "was watching",
+            "was watched",
+            "were watching"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + watching"
+    },
+    {
+        "question": "The dog was barking. (\u5426\u5b9a) \u2192 The dog ( ? )",
+        "options": [
+            "wasn't barking",
+            "was not barking",
+            "wasn't barking",
+            "didn't barking"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't barking"
+    },
+    {
+        "question": "use \u2192 ( ? )",
+        "options": [
+            "useing",
+            "useed",
+            "uses",
+            "using"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'use' is 'using'."
+    },
+    {
+        "question": "You ( watch ) movie. \u2192 ( ? )",
+        "options": [
+            "were watch",
+            "were watched",
+            "were watching",
+            "was watching"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + watching"
+    },
+    {
+        "question": "It was raining. (\u5426\u5b9a) \u2192 It ( ? )",
+        "options": [
+            "wasn't raining",
+            "was not raining",
+            "wasn't raining",
+            "didn't raining"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't raining"
+    },
+    {
+        "question": "come \u2192 ( ? )",
+        "options": [
+            "coming",
+            "comes",
+            "comeing",
+            "comeed"
+        ],
+        "answer": 0,
+        "hint": "The -ing form of 'come' is 'coming'."
+    },
+    {
+        "question": "He ( watch ) YouTube. \u2192 ( ? )",
+        "options": [
+            "were watching",
+            "was watching",
+            "was watch",
+            "was watched"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + watching"
+    },
+    {
+        "question": "I ( ? ) reading. (\u77ed\u7e2e)",
+        "options": [
+            "wasn't",
+            "weren't",
+            "isn't",
+            "aren't"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't"
+    },
+    {
+        "question": "run \u2192 ( ? )",
+        "options": [
+            "runing",
+            "runed",
+            "runs",
+            "running"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'run' is 'running'."
+    },
+    {
+        "question": "She ( watch ) news. \u2192 ( ? )",
+        "options": [
+            "was watch",
+            "was watched",
+            "were watching",
+            "was watching"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + watching"
+    },
+    {
+        "question": "You ( ? ) listening. (\u77ed\u7e2e)",
+        "options": [
+            "weren't",
+            "wasn't",
+            "aren't",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Answer: weren't"
+    },
+    {
+        "question": "swim \u2192 ( ? )",
+        "options": [
+            "swimed",
+            "swiming",
+            "swimming",
+            "swims"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'swim' is 'swimming'."
+    },
+    {
+        "question": "We ( watch ) game. \u2192 ( ? )",
+        "options": [
+            "were watching",
+            "were watch",
+            "was watching",
+            "were watched"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + watching"
+    },
+    {
+        "question": "He ( ? ) working. (\u77ed\u7e2e)",
+        "options": [
+            "wasn't",
+            "weren't",
+            "isn't",
+            "aren't"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't"
+    },
+    {
+        "question": "sit \u2192 ( ? )",
+        "options": [
+            "sited",
+            "sitting",
+            "sits",
+            "siting"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'sit' is 'sitting'."
+    },
+    {
+        "question": "They ( watch ) stars. \u2192 ( ? )",
+        "options": [
+            "were watch",
+            "were watching",
+            "was watching",
+            "were watched"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + watching"
+    },
+    {
+        "question": "She ( ? ) crying. (\u77ed\u7e2e)",
+        "options": [
+            "wasn't",
+            "weren't",
+            "isn't",
+            "aren't"
+        ],
+        "answer": 0,
+        "hint": "Answer: wasn't"
+    },
+    {
+        "question": "stop \u2192 ( ? )",
+        "options": [
+            "stops",
+            "stopping",
+            "stoped",
+            "stoping"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'stop' is 'stopping'."
+    },
+    {
+        "question": "Father ( watch ) TV. \u2192 ( ? )",
+        "options": [
+            "was watching",
+            "were watching",
+            "were watched",
+            "were watch"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + watching"
+    },
+    {
+        "question": "We ( ? ) talking. (\u77ed\u7e2e)",
+        "options": [
+            "weren't",
+            "wasn't",
+            "aren't",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Answer: weren't"
+    },
+    {
+        "question": "get \u2192 ( ? )",
+        "options": [
+            "getting",
+            "geted",
+            "gets",
+            "geting"
+        ],
+        "answer": 0,
+        "hint": "The -ing form of 'get' is 'getting'."
+    },
+    {
+        "question": "I ( study ) English. \u2192 ( ? )",
+        "options": [
+            "was studyed",
+            "were studying",
+            "was studying",
+            "was study"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + studying"
+    },
+    {
+        "question": "They ( ? ) using. (\u77ed\u7e2e)",
+        "options": [
+            "weren't",
+            "wasn't",
+            "aren't",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Answer: weren't"
+    },
+    {
+        "question": "cut \u2192 ( ? )",
+        "options": [
+            "cuts",
+            "cuting",
+            "cutting",
+            "cuted"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'cut' is 'cutting'."
+    },
+    {
+        "question": "You ( study ) math. \u2192 ( ? )",
+        "options": [
+            "were studyed",
+            "were studying",
+            "was studying",
+            "were study"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + studying"
+    },
+    {
+        "question": "You were sleeping. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Were you sleeping?",
+            "Were you sleeping.",
+            "Did you sleeping?",
+            "Were you sleep?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Were you sleeping?"
+    },
+    {
+        "question": "put \u2192 ( ? )",
+        "options": [
+            "puted",
+            "puts",
+            "puting",
+            "putting"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'put' is 'putting'."
+    },
+    {
+        "question": "He ( study ) hard. \u2192 ( ? )",
+        "options": [
+            "was studying",
+            "were studying",
+            "was study",
+            "was studyed"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + studying"
+    },
+    {
+        "question": "He was studying. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Was he studying?",
+            "Was he studying.",
+            "Did he studying?",
+            "Was he study?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Was he studying?"
+    },
+    {
+        "question": "have \u2192 ( ? )",
+        "options": [
+            "haves",
+            "having",
+            "haveed",
+            "haveing"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'have' is 'having'."
+    },
+    {
+        "question": "She ( study ) history. \u2192 ( ? )",
+        "options": [
+            "was studyed",
+            "were studying",
+            "was studying",
+            "was study"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + studying"
+    },
+    {
+        "question": "She was cooking. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Was she cooking?",
+            "Was she cooking.",
+            "Did she cooking?",
+            "Was she cook?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Was she cooking?"
+    },
+    {
+        "question": "dance \u2192 ( ? )",
+        "options": [
+            "danceing",
+            "dancing",
+            "danceed",
+            "dances"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'dance' is 'dancing'."
+    },
+    {
+        "question": "We ( study ) together. \u2192 ( ? )",
+        "options": [
+            "were studying",
+            "were studyed",
+            "were study",
+            "was studying"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + studying"
+    },
+    {
+        "question": "They were running. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Were they running?",
+            "Were they running.",
+            "Did they running?",
+            "Were they runn?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Were they running?"
+    },
+    {
+        "question": "practice \u2192 ( ? )",
+        "options": [
+            "practiceing",
+            "practiceed",
+            "practicing",
+            "practices"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'practice' is 'practicing'."
+    },
+    {
+        "question": "They ( study ) Japanese. \u2192 ( ? )",
+        "options": [
+            "were study",
+            "were studyed",
+            "were studying",
+            "was studying"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + studying"
+    },
+    {
+        "question": "Ken was reading. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Was ken reading?",
+            "Was ken reading.",
+            "Did ken reading?",
+            "Was ken read?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Was ken reading?"
+    },
+    {
+        "question": "eat \u2192 ( ? )",
+        "options": [
+            "eats",
+            "eated",
+            "eating",
+            "eateing"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'eat' is 'eating'."
+    },
+    {
+        "question": "I ( cook ) dinner. \u2192 ( ? )",
+        "options": [
+            "was cooked",
+            "were cooking",
+            "was cook",
+            "was cooking"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + cooking"
+    },
+    {
+        "question": "It was raining. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Was it raining?",
+            "Was it raining.",
+            "Did it raining?",
+            "Was it rain?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Was it raining?"
+    },
+    {
+        "question": "drink \u2192 ( ? )",
+        "options": [
+            "drinks",
+            "drinking",
+            "drinked",
+            "drinkeing"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'drink' is 'drinking'."
+    },
+    {
+        "question": "You ( cook ) lunch. \u2192 ( ? )",
+        "options": [
+            "were cooking",
+            "was cooking",
+            "were cooked",
+            "were cook"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + cooking"
+    },
+    {
+        "question": "You were listening. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Were you listening?",
+            "Were you listening.",
+            "Did you listening?",
+            "Were you listen?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Were you listening?"
+    },
+    {
+        "question": "go \u2192 ( ? )",
+        "options": [
+            "goed",
+            "going",
+            "gos",
+            "goeing"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'go' is 'going'."
+    },
+    {
+        "question": "He ( cook ) breakfast. \u2192 ( ? )",
+        "options": [
+            "were cooking",
+            "was cooked",
+            "was cooking",
+            "was cook"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + cooking"
+    },
+    {
+        "question": "Tom was watching. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Was tom watching?",
+            "Was tom watching.",
+            "Did tom watching?",
+            "Was tom watch?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Was tom watching?"
+    },
+    {
+        "question": "do \u2192 ( ? )",
+        "options": [
+            "doeing",
+            "dos",
+            "doing",
+            "doed"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'do' is 'doing'."
+    },
+    {
+        "question": "She ( make ) cake. \u2192 ( ? )",
+        "options": [
+            "were making",
+            "was makeed",
+            "was make",
+            "was making"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + making"
+    },
+    {
+        "question": "Your mother was working. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Was mother working?",
+            "Was mother working.",
+            "Did mother working?",
+            "Was mother work?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Was mother working?"
+    },
+    {
+        "question": "sleep \u2192 ( ? )",
+        "options": [
+            "sleeped",
+            "sleeps",
+            "sleepeing",
+            "sleeping"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'sleep' is 'sleeping'."
+    },
+    {
+        "question": "We ( make ) cookies. \u2192 ( ? )",
+        "options": [
+            "were making",
+            "were make",
+            "was making",
+            "were makeed"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + making"
+    },
+    {
+        "question": "The students were singing. (\u7591\u554f) \u2192 ( ? )",
+        "options": [
+            "Were students singing?",
+            "Were students singing.",
+            "Did students singing?",
+            "Were students s?"
+        ],
+        "answer": 0,
+        "hint": "Answer: Were students singing?"
+    },
+    {
+        "question": "listen \u2192 ( ? )",
+        "options": [
+            "listened",
+            "listens",
+            "listeneing",
+            "listening"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'listen' is 'listening'."
+    },
+    {
+        "question": "They ( make ) plan. \u2192 ( ? )",
+        "options": [
+            "was making",
+            "were makeed",
+            "were make",
+            "were making"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + making"
+    },
+    {
+        "question": "Were you studying? - Yes, I ( ? ).",
+        "options": [
+            "was",
+            "wasn't",
+            "were",
+            "weren't"
+        ],
+        "answer": 0,
+        "hint": "Answer: was"
+    },
+    {
+        "question": "look \u2192 ( ? )",
+        "options": [
+            "looking",
+            "lookeing",
+            "looked",
+            "looks"
+        ],
+        "answer": 0,
+        "hint": "The -ing form of 'look' is 'looking'."
+    },
+    {
+        "question": "I ( use ) computer. \u2192 ( ? )",
+        "options": [
+            "was using",
+            "was useed",
+            "was use",
+            "were using"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + using"
+    },
+    {
+        "question": "Were you studying? - No, I ( ? ).",
+        "options": [
+            "was",
+            "wasn't",
+            "were",
+            "weren't"
+        ],
+        "answer": 1,
+        "hint": "Answer: wasn't"
+    },
+    {
+        "question": "walk \u2192 ( ? )",
+        "options": [
+            "walkeing",
+            "walking",
+            "walks",
+            "walked"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'walk' is 'walking'."
+    },
+    {
+        "question": "You ( use ) pen. \u2192 ( ? )",
+        "options": [
+            "were using",
+            "were useed",
+            "were use",
+            "was using"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + using"
+    },
+    {
+        "question": "Was he sleeping? - Yes, he ( ? ).",
+        "options": [
+            "was",
+            "wasn't",
+            "were",
+            "weren't"
+        ],
+        "answer": 0,
+        "hint": "Answer: was"
+    },
+    {
+        "question": "talk \u2192 ( ? )",
+        "options": [
+            "talkeing",
+            "talked",
+            "talks",
+            "talking"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'talk' is 'talking'."
+    },
+    {
+        "question": "He ( use ) camera. \u2192 ( ? )",
+        "options": [
+            "was using",
+            "were using",
+            "was use",
+            "was useed"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + using"
+    },
+    {
+        "question": "Was he sleeping? - No, he ( ? ).",
+        "options": [
+            "was",
+            "wasn't",
+            "were",
+            "weren't"
+        ],
+        "answer": 1,
+        "hint": "Answer: wasn't"
+    },
+    {
+        "question": "speak \u2192 ( ? )",
+        "options": [
+            "speaks",
+            "speakeing",
+            "speaked",
+            "speaking"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'speak' is 'speaking'."
+    },
+    {
+        "question": "She ( take ) pictures. \u2192 ( ? )",
+        "options": [
+            "was taking",
+            "were taking",
+            "was take",
+            "was takeed"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + taking"
+    },
+    {
+        "question": "Were they running? - Yes, they ( ? ).",
+        "options": [
+            "was",
+            "wasn't",
+            "were",
+            "weren't"
+        ],
+        "answer": 2,
+        "hint": "Answer: were"
+    },
+    {
+        "question": "sing \u2192 ( ? )",
+        "options": [
+            "sings",
+            "singed",
+            "singeing",
+            "singing"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'sing' is 'singing'."
+    },
+    {
+        "question": "We ( take ) bus. \u2192 ( ? )",
+        "options": [
+            "were takeed",
+            "were take",
+            "was taking",
+            "were taking"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + taking"
+    },
+    {
+        "question": "Were they running? - No, they ( ? ).",
+        "options": [
+            "was",
+            "wasn't",
+            "were",
+            "weren't"
+        ],
+        "answer": 3,
+        "hint": "Answer: weren't"
+    },
+    {
+        "question": "wait \u2192 ( ? )",
+        "options": [
+            "waiteing",
+            "waiting",
+            "waited",
+            "waits"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'wait' is 'waiting'."
+    },
+    {
+        "question": "They ( take ) walk. \u2192 ( ? )",
+        "options": [
+            "were take",
+            "were taking",
+            "was taking",
+            "were takeed"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + taking"
+    },
+    {
+        "question": "\u79c1\u306f\u30c6\u30cb\u30b9\u3092\u3057\u3066\u3044\u307e\u3057\u305f\u3002\u2192 I ( ? ) ( ? ) tennis.",
+        "options": [
+            "is playing",
+            "played",
+            "was played",
+            "was playing"
+        ],
+        "answer": 3,
+        "hint": "Answer: was playing"
+    },
+    {
+        "question": "wash \u2192 ( ? )",
+        "options": [
+            "washeing",
+            "washs",
+            "washed",
+            "washing"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'wash' is 'washing'."
+    },
+    {
+        "question": "I ( run ) in park. \u2192 ( ? )",
+        "options": [
+            "was running",
+            "were running",
+            "was run",
+            "was runed"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + running"
+    },
+    {
+        "question": "\u3042\u306a\u305f\u306f\u672c\u3092\u8aad\u3093\u3067\u3044\u307e\u3057\u305f\u3002\u2192 You ( ? ) ( ? ) book.",
+        "options": [
+            "were readed",
+            "were reading",
+            "played",
+            "were reading"
+        ],
+        "answer": 1,
+        "hint": "Answer: were reading"
+    },
+    {
+        "question": "clean \u2192 ( ? )",
+        "options": [
+            "cleans",
+            "cleaned",
+            "cleaneing",
+            "cleaning"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'clean' is 'cleaning'."
+    },
+    {
+        "question": "You ( run ) fast. \u2192 ( ? )",
+        "options": [
+            "were running",
+            "were run",
+            "were runed",
+            "was running"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + running"
+    },
+    {
+        "question": "help \u2192 ( ? )",
+        "options": [
+            "helps",
+            "helpeing",
+            "helped",
+            "helping"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'help' is 'helping'."
+    },
+    {
+        "question": "He ( run ) to school. \u2192 ( ? )",
+        "options": [
+            "were running",
+            "was running",
+            "was run",
+            "was runed"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + running"
+    },
+    {
+        "question": "open \u2192 ( ? )",
+        "options": [
+            "opens",
+            "opening",
+            "opened",
+            "openeing"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'open' is 'opening'."
+    },
+    {
+        "question": "She ( swim ) in pool. \u2192 ( ? )",
+        "options": [
+            "was swim",
+            "were swimming",
+            "was swimed",
+            "was swimming"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + swimming"
+    },
+    {
+        "question": "close \u2192 ( ? )",
+        "options": [
+            "closeing",
+            "closes",
+            "closeed",
+            "closing"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'close' is 'closing'."
+    },
+    {
+        "question": "We ( swim ) in sea. \u2192 ( ? )",
+        "options": [
+            "were swim",
+            "were swimming",
+            "was swimming",
+            "were swimed"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + swimming"
+    },
+    {
+        "question": "smile \u2192 ( ? )",
+        "options": [
+            "smileed",
+            "smileing",
+            "smiles",
+            "smiling"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'smile' is 'smiling'."
+    },
+    {
+        "question": "They ( swim ) well. \u2192 ( ? )",
+        "options": [
+            "was swimming",
+            "were swim",
+            "were swimed",
+            "were swimming"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + swimming"
+    },
+    {
+        "question": "\u30b1\u30f3\u306f\u30c6\u30ec\u30d3\u3092\u898b\u3066\u3044\u307e\u3057\u305f\u3002\u2192 Ken ( ? ) ( ? ) TV.",
+        "options": [
+            "is watching",
+            "played",
+            "was watching",
+            "was watched"
+        ],
+        "answer": 2,
+        "hint": "Answer: was watching"
+    },
+    {
+        "question": "shine \u2192 ( ? )",
+        "options": [
+            "shines",
+            "shineing",
+            "shineed",
+            "shining"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'shine' is 'shining'."
+    },
+    {
+        "question": "I ( read ) book. \u2192 ( ? )",
+        "options": [
+            "was reading",
+            "was readed",
+            "was read",
+            "were reading"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + reading"
+    },
+    {
+        "question": "drive \u2192 ( ? )",
+        "options": [
+            "drives",
+            "driveing",
+            "driveed",
+            "driving"
+        ],
+        "answer": 3,
+        "hint": "The -ing form of 'drive' is 'driving'."
+    },
+    {
+        "question": "You ( read ) magazine. \u2192 ( ? )",
+        "options": [
+            "were read",
+            "was reading",
+            "were readed",
+            "were reading"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + reading"
+    },
+    {
+        "question": "live \u2192 ( ? )",
+        "options": [
+            "liveing",
+            "living",
+            "lives",
+            "liveed"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'live' is 'living'."
+    },
+    {
+        "question": "He ( write ) letter. \u2192 ( ? )",
+        "options": [
+            "were writing",
+            "was write",
+            "was writing",
+            "was writeed"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + writing"
+    },
+    {
+        "question": "give \u2192 ( ? )",
+        "options": [
+            "giving",
+            "giveing",
+            "gives",
+            "giveed"
+        ],
+        "answer": 0,
+        "hint": "The -ing form of 'give' is 'giving'."
+    },
+    {
+        "question": "She ( write ) email. \u2192 ( ? )",
+        "options": [
+            "was writeed",
+            "were writing",
+            "was write",
+            "was writing"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + writing"
+    },
+    {
+        "question": "\u79c1\u306f\u304a\u98a8\u5442\u306b\u5165\u3063\u3066\u3044\u307e\u3057\u305f\u3002\u2192 I ( ? ) ( ? ) bath.",
+        "options": [
+            "was taking",
+            "is taking",
+            "was taked",
+            "played"
+        ],
+        "answer": 0,
+        "hint": "Answer: was taking"
+    },
+    {
+        "question": "move \u2192 ( ? )",
+        "options": [
+            "moves",
+            "moveed",
+            "moving",
+            "moveing"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'move' is 'moving'."
+    },
+    {
+        "question": "We ( listen ) music. \u2192 ( ? )",
+        "options": [
+            "were listened",
+            "was listening",
+            "were listen",
+            "were listening"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + listening"
+    },
+    {
+        "question": "change \u2192 ( ? )",
+        "options": [
+            "changeed",
+            "changing",
+            "changeing",
+            "changes"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'change' is 'changing'."
+    },
+    {
+        "question": "They ( listen ) radio. \u2192 ( ? )",
+        "options": [
+            "were listening",
+            "was listening",
+            "were listened",
+            "were listen"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + listening"
+    },
+    {
+        "question": "die \u2192 ( ? )",
+        "options": [
+            "dying",
+            "dies",
+            "dieed",
+            "dieing"
+        ],
+        "answer": 0,
+        "hint": "The -ing form of 'die' is 'dying'."
+    },
+    {
+        "question": "I ( eat ) lunch. \u2192 ( ? )",
+        "options": [
+            "was eated",
+            "were eating",
+            "was eat",
+            "was eating"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + eating"
+    },
+    {
+        "question": "lie \u2192 ( ? )",
+        "options": [
+            "lies",
+            "lieed",
+            "lying",
+            "lieing"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'lie' is 'lying'."
+    },
+    {
+        "question": "You ( eat ) dinner. \u2192 ( ? )",
+        "options": [
+            "were eat",
+            "were eating",
+            "was eating",
+            "were eated"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + eating"
+    },
+    {
+        "question": "ski \u2192 ( ? )",
+        "options": [
+            "skieing",
+            "skiing",
+            "skied",
+            "skis"
+        ],
+        "answer": 1,
+        "hint": "The -ing form of 'ski' is 'skiing'."
+    },
+    {
+        "question": "He ( eat ) apple. \u2192 ( ? )",
+        "options": [
+            "was eating",
+            "were eating",
+            "was eat",
+            "was eated"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + eating"
+    },
+    {
+        "question": "\u79c1\u306f\u5bbf\u984c\u3092\u3057\u3066\u3044\u307e\u3057\u305f\u3002\u2192 I ( ? ) ( ? ) homework.",
+        "options": [
+            "was doing",
+            "played",
+            "was doed",
+            "is doing"
+        ],
+        "answer": 0,
+        "hint": "Answer: was doing"
+    },
+    {
+        "question": "see \u2192 ( ? )",
+        "options": [
+            "dummy",
+            "seeed",
+            "seeing",
+            "sees"
+        ],
+        "answer": 2,
+        "hint": "The -ing form of 'see' is 'seeing'."
+    },
+    {
+        "question": "She ( drink ) tea. \u2192 ( ? )",
+        "options": [
+            "was drinked",
+            "was drinking",
+            "was drink",
+            "were drinking"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + drinking"
+    },
+    {
+        "question": "\u79c1\u306f\u30bd\u30d0\u3092\u4f5c\u3063\u3066\u3044\u307e\u3057\u305f\u3002\u2192 I ( ? ) ( ? ) soba.",
+        "options": [
+            "was maked",
+            "was making",
+            "played",
+            "is making"
+        ],
+        "answer": 1,
+        "hint": "Answer: was making"
+    },
+    {
+        "question": "visit \u2192 ( ? )",
+        "options": [
+            "visiting",
+            "visited",
+            "visiteing",
+            "visits"
+        ],
+        "answer": 0,
+        "hint": "The -ing form of 'visit' is 'visiting'."
+    },
+    {
+        "question": "We ( drink ) coffee. \u2192 ( ? )",
+        "options": [
+            "were drink",
+            "were drinked",
+            "were drinking",
+            "was drinking"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + drinking"
+    },
+    {
+        "question": "enjoy \u2192 ( ? )",
+        "options": [
+            "enjoying",
+            "enjoys",
+            "enjoyed",
+            "enjoyeing"
+        ],
+        "answer": 0,
+        "hint": "The -ing form of 'enjoy' is 'enjoying'."
+    },
+    {
+        "question": "They ( drink ) milk. \u2192 ( ? )",
+        "options": [
+            "were drink",
+            "was drinking",
+            "were drinking",
+            "were drinked"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + drinking"
+    },
+    {
+        "question": "\u79c1\u306f\u5353\u7403\u3092\u3057\u3066\u3044\u307e\u3057\u305f\u3002\u2192 I ( ? ) ( ? ) table tennis.",
+        "options": [
+            "was playing",
+            "is playing",
+            "played",
+            "was played"
+        ],
+        "answer": 0,
+        "hint": "Answer: was playing"
+    },
+    {
+        "question": "I ( ? ) playing.",
+        "options": [
+            "were",
+            "are",
+            "was",
+            "is"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'I' is 'was'."
+    },
+    {
+        "question": "I ( sleep ) in bed. \u2192 ( ? )",
+        "options": [
+            "was sleeped",
+            "was sleeping",
+            "were sleeping",
+            "was sleep"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + sleeping"
+    },
+    {
+        "question": "You ( ? ) playing.",
+        "options": [
+            "was",
+            "are",
+            "is",
+            "were"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'You' is 'were'."
+    },
+    {
+        "question": "You ( sleep ) on sofa. \u2192 ( ? )",
+        "options": [
+            "was sleeping",
+            "were sleep",
+            "were sleeped",
+            "were sleeping"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + sleeping"
+    },
+    {
+        "question": "He ( ? ) playing.",
+        "options": [
+            "are",
+            "was",
+            "is",
+            "were"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'He' is 'was'."
+    },
+    {
+        "question": "Baby ( sleep ) well. \u2192 ( ? )",
+        "options": [
+            "was sleeping",
+            "were sleeped",
+            "were sleeping",
+            "were sleep"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + sleeping"
+    },
+    {
+        "question": "She ( ? ) playing.",
+        "options": [
+            "was",
+            "is",
+            "are",
+            "were"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'She' is 'was'."
+    },
+    {
+        "question": "Cat ( sleep ) under table. \u2192 ( ? )",
+        "options": [
+            "were sleep",
+            "were sleeped",
+            "was sleeping",
+            "were sleeping"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + sleeping"
+    },
+    {
+        "question": "It ( ? ) playing.",
+        "options": [
+            "are",
+            "were",
+            "is",
+            "was"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'It' is 'was'."
+    },
+    {
+        "question": "I ( wait ) for you. \u2192 ( ? )",
+        "options": [
+            "was waiting",
+            "was waited",
+            "were waiting",
+            "was wait"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + waiting"
+    },
+    {
+        "question": "We ( ? ) playing.",
+        "options": [
+            "was",
+            "is",
+            "were",
+            "are"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'We' is 'were'."
+    },
+    {
+        "question": "You ( wait ) for bus. \u2192 ( ? )",
+        "options": [
+            "were waiting",
+            "was waiting",
+            "were wait",
+            "were waited"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + waiting"
+    },
+    {
+        "question": "They ( ? ) playing.",
+        "options": [
+            "was",
+            "were",
+            "are",
+            "is"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'They' is 'were'."
+    },
+    {
+        "question": "He ( talk ) with Ken. \u2192 ( ? )",
+        "options": [
+            "was talk",
+            "were talking",
+            "was talked",
+            "was talking"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + talking"
+    },
+    {
+        "question": "Ken ( ? ) playing.",
+        "options": [
+            "were",
+            "are",
+            "was",
+            "is"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'Ken' is 'was'."
+    },
+    {
+        "question": "She ( talk ) on phone. \u2192 ( ? )",
+        "options": [
+            "were talking",
+            "was talked",
+            "was talk",
+            "was talking"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + talking"
+    },
+    {
+        "question": "Emi ( ? ) playing.",
+        "options": [
+            "is",
+            "were",
+            "are",
+            "was"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'Emi' is 'was'."
+    },
+    {
+        "question": "We ( talk ) about trip. \u2192 ( ? )",
+        "options": [
+            "were talked",
+            "were talk",
+            "were talking",
+            "was talking"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + talking"
+    },
+    {
+        "question": "My father ( ? ) playing.",
+        "options": [
+            "were",
+            "was",
+            "is",
+            "are"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'My father' is 'was'."
+    },
+    {
+        "question": "They ( talk ) loudly. \u2192 ( ? )",
+        "options": [
+            "was talking",
+            "were talked",
+            "were talking",
+            "were talk"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + talking"
+    },
+    {
+        "question": "Parents ( ? ) playing.",
+        "options": [
+            "are",
+            "is",
+            "were",
+            "was"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'Parents' is 'were'."
+    },
+    {
+        "question": "I ( clean ) room. \u2192 ( ? )",
+        "options": [
+            "was cleaned",
+            "was cleaning",
+            "was clean",
+            "were cleaning"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + cleaning"
+    },
+    {
+        "question": "The dog ( ? ) running.",
+        "options": [
+            "was",
+            "is",
+            "are",
+            "were"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'The dog' is 'was'."
+    },
+    {
+        "question": "You ( clean ) house. \u2192 ( ? )",
+        "options": [
+            "was cleaning",
+            "were cleaning",
+            "were cleaned",
+            "were clean"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + cleaning"
+    },
+    {
+        "question": "The dogs ( ? ) running.",
+        "options": [
+            "are",
+            "were",
+            "is",
+            "was"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'The dogs' is 'were'."
+    },
+    {
+        "question": "He ( wash ) car. \u2192 ( ? )",
+        "options": [
+            "was washing",
+            "was washed",
+            "was wash",
+            "were washing"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + washing"
+    },
+    {
+        "question": "The cat ( ? ) sleeping.",
+        "options": [
+            "is",
+            "were",
+            "was",
+            "are"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'The cat' is 'was'."
+    },
+    {
+        "question": "She ( wash ) hands. \u2192 ( ? )",
+        "options": [
+            "was wash",
+            "was washed",
+            "was washing",
+            "were washing"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + washing"
+    },
+    {
+        "question": "The cats ( ? ) sleeping.",
+        "options": [
+            "are",
+            "was",
+            "were",
+            "is"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'The cats' is 'were'."
+    },
+    {
+        "question": "We ( wash ) dishes. \u2192 ( ? )",
+        "options": [
+            "were washing",
+            "were wash",
+            "were washed",
+            "was washing"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + washing"
+    },
+    {
+        "question": "The bird ( ? ) flying.",
+        "options": [
+            "was",
+            "are",
+            "were",
+            "is"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'The bird' is 'was'."
+    },
+    {
+        "question": "It ( rain ). \u2192 ( ? )",
+        "options": [
+            "was rain",
+            "was rained",
+            "were raining",
+            "was raining"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + raining"
+    },
+    {
+        "question": "The birds ( ? ) flying.",
+        "options": [
+            "are",
+            "were",
+            "is",
+            "was"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'The birds' is 'were'."
+    },
+    {
+        "question": "It ( snow ). \u2192 ( ? )",
+        "options": [
+            "was snowed",
+            "was snow",
+            "was snowing",
+            "were snowing"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + snowing"
+    },
+    {
+        "question": "The car ( ? ) moving.",
+        "options": [
+            "was",
+            "were",
+            "is",
+            "are"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'The car' is 'was'."
+    },
+    {
+        "question": "Wind ( blow ). \u2192 ( ? )",
+        "options": [
+            "were blowed",
+            "was blowing",
+            "were blowing",
+            "were blow"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + blowing"
+    },
+    {
+        "question": "The cars ( ? ) moving.",
+        "options": [
+            "are",
+            "is",
+            "was",
+            "were"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'The cars' is 'were'."
+    },
+    {
+        "question": "Sun ( shine ). \u2192 ( ? )",
+        "options": [
+            "was shining",
+            "were shining",
+            "were shineed",
+            "were shine"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + shining"
+    },
+    {
+        "question": "People ( ? ) waiting.",
+        "options": [
+            "are",
+            "is",
+            "was",
+            "were"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'People' is 'were'."
+    },
+    {
+        "question": "Stars ( shine ). \u2192 ( ? )",
+        "options": [
+            "were shine",
+            "were shining",
+            "were shineed",
+            "was shining"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + shining"
+    },
+    {
+        "question": "Everyone ( ? ) watching.",
+        "options": [
+            "is",
+            "was",
+            "were",
+            "are"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'Everyone' is 'were'."
+    },
+    {
+        "question": "I ( practice ) piano. \u2192 ( ? )",
+        "options": [
+            "was practice",
+            "was practicing",
+            "were practicing",
+            "was practiceed"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + practicing"
+    },
+    {
+        "question": "Someone ( ? ) calling.",
+        "options": [
+            "was",
+            "are",
+            "is",
+            "were"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'Someone' is 'was'."
+    },
+    {
+        "question": "You ( practice ) judo. \u2192 ( ? )",
+        "options": [
+            "was practicing",
+            "were practice",
+            "were practiceed",
+            "were practicing"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + practicing"
+    },
+    {
+        "question": "Who ( ? ) talking?",
+        "options": [
+            "was",
+            "are",
+            "were",
+            "is"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'Who' is 'was'."
+    },
+    {
+        "question": "He ( sing ) song. \u2192 ( ? )",
+        "options": [
+            "was singing",
+            "was sing",
+            "was singed",
+            "were singing"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + singing"
+    },
+    {
+        "question": "What ( ? ) happening?",
+        "options": [
+            "are",
+            "was",
+            "were",
+            "is"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'What' is 'was'."
+    },
+    {
+        "question": "She ( dance ) well. \u2192 ( ? )",
+        "options": [
+            "were dancing",
+            "was danceed",
+            "was dancing",
+            "was dance"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + dancing"
+    },
+    {
+        "question": "Ken and I ( ? ) studying.",
+        "options": [
+            "were",
+            "is",
+            "are",
+            "was"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'Ken and I' is 'were'."
+    },
+    {
+        "question": "We ( enjoy ) music. \u2192 ( ? )",
+        "options": [
+            "were enjoyed",
+            "were enjoy",
+            "was enjoying",
+            "were enjoying"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + enjoying"
+    },
+    {
+        "question": "You and I ( ? ) talking.",
+        "options": [
+            "was",
+            "is",
+            "are",
+            "were"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'You and I' is 'were'."
+    },
+    {
+        "question": "They ( enjoy ) party. \u2192 ( ? )",
+        "options": [
+            "were enjoying",
+            "were enjoyed",
+            "were enjoy",
+            "was enjoying"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + enjoying"
+    },
+    {
+        "question": "Tom and Jerry ( ? ) fighting.",
+        "options": [
+            "was",
+            "are",
+            "were",
+            "is"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'Tom and Jerry' is 'were'."
+    },
+    {
+        "question": "I ( sit ) on chair. \u2192 ( ? )",
+        "options": [
+            "was sit",
+            "was sited",
+            "was sitting",
+            "were sitting"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + sitting"
+    },
+    {
+        "question": "My sister ( ? ) crying.",
+        "options": [
+            "are",
+            "was",
+            "is",
+            "were"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'My sister' is 'were'."
+    },
+    {
+        "question": "You ( sit ) on floor. \u2192 ( ? )",
+        "options": [
+            "were sitting",
+            "were sited",
+            "were sit",
+            "was sitting"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + sitting"
+    },
+    {
+        "question": "My brothers ( ? ) laughing.",
+        "options": [
+            "were",
+            "are",
+            "is",
+            "was"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'My brothers' is 'were'."
+    },
+    {
+        "question": "He ( stand ) by door. \u2192 ( ? )",
+        "options": [
+            "was stand",
+            "was standed",
+            "were standing",
+            "was standing"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + standing"
+    },
+    {
+        "question": "The student ( ? ) reading.",
+        "options": [
+            "were",
+            "is",
+            "was",
+            "are"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'The student' is 'was'."
+    },
+    {
+        "question": "She ( stand ) there. \u2192 ( ? )",
+        "options": [
+            "was standed",
+            "was stand",
+            "were standing",
+            "was standing"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + standing"
+    },
+    {
+        "question": "The students ( ? ) reading.",
+        "options": [
+            "is",
+            "were",
+            "was",
+            "are"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'The students' is 'were'."
+    },
+    {
+        "question": "I ( help ) mother. \u2192 ( ? )",
+        "options": [
+            "was helping",
+            "were helping",
+            "was helped",
+            "was help"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + helping"
+    },
+    {
+        "question": "Mr. Tanaka ( ? ) teaching.",
+        "options": [
+            "was",
+            "are",
+            "were",
+            "is"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'Mr. Tanaka' is 'was'."
+    },
+    {
+        "question": "You ( help ) me. \u2192 ( ? )",
+        "options": [
+            "was helping",
+            "were helping",
+            "were help",
+            "were helped"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: were + helping"
+    },
+    {
+        "question": "Ms. Sato ( ? ) cooking.",
+        "options": [
+            "are",
+            "was",
+            "were",
+            "is"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'Ms. Sato' is 'was'."
+    },
+    {
+        "question": "We ( do ) homework. \u2192 ( ? )",
+        "options": [
+            "were do",
+            "were doed",
+            "were doing",
+            "was doing"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + doing"
+    },
+    {
+        "question": "I ( ? )",
+        "options": [
+            "was",
+            "are",
+            "is",
+            "were"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'I' is 'was'."
+    },
+    {
+        "question": "They ( do ) cleaning. \u2192 ( ? )",
+        "options": [
+            "was doing",
+            "were doed",
+            "were doing",
+            "were do"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + doing"
+    },
+    {
+        "question": "You ( ? )",
+        "options": [
+            "are",
+            "were",
+            "was",
+            "is"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'You' is 'were'."
+    },
+    {
+        "question": "Bus ( come ). \u2192 ( ? )",
+        "options": [
+            "were comeed",
+            "was coming",
+            "were coming",
+            "were come"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + coming"
+    },
+    {
+        "question": "He ( ? )",
+        "options": [
+            "was",
+            "were",
+            "is",
+            "are"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'He' is 'was'."
+    },
+    {
+        "question": "Train ( stop ). \u2192 ( ? )",
+        "options": [
+            "were stopping",
+            "were stop",
+            "were stoped",
+            "was stopping"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + stopping"
+    },
+    {
+        "question": "She ( ? )",
+        "options": [
+            "were",
+            "are",
+            "is",
+            "was"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'She' is 'was'."
+    },
+    {
+        "question": "I ( look ) at sky. \u2192 ( ? )",
+        "options": [
+            "was looking",
+            "were looking",
+            "was looked",
+            "was look"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: was + looking"
+    },
+    {
+        "question": "It ( ? )",
+        "options": [
+            "were",
+            "was",
+            "are",
+            "is"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'It' is 'was'."
+    },
+    {
+        "question": "You ( look ) for key. \u2192 ( ? )",
+        "options": [
+            "were look",
+            "were looked",
+            "were looking",
+            "was looking"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + looking"
+    },
+    {
+        "question": "We ( ? )",
+        "options": [
+            "were",
+            "are",
+            "was",
+            "is"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'We' is 'were'."
+    },
+    {
+        "question": "He ( shop ). \u2192 ( ? )",
+        "options": [
+            "was shop",
+            "was shoped",
+            "were shopping",
+            "was shopping"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + shopping"
+    },
+    {
+        "question": "They ( ? )",
+        "options": [
+            "is",
+            "was",
+            "were",
+            "are"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'They' is 'were'."
+    },
+    {
+        "question": "She ( ski ). \u2192 ( ? )",
+        "options": [
+            "was skied",
+            "was skiing",
+            "was ski",
+            "were skiing"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + skiing"
+    },
+    {
+        "question": "Ken ( ? )",
+        "options": [
+            "was",
+            "is",
+            "were",
+            "are"
+        ],
+        "answer": 0,
+        "hint": "The past be verb for 'Ken' is 'was'."
+    },
+    {
+        "question": "I ( walk ) dog. \u2192 ( ? )",
+        "options": [
+            "was walked",
+            "was walking",
+            "was walk",
+            "were walking"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + walking"
+    },
+    {
+        "question": "The boy ( ? )",
+        "options": [
+            "are",
+            "was",
+            "is",
+            "were"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'The boy' is 'was'."
+    },
+    {
+        "question": "You ( cut ) paper. \u2192 ( ? )",
+        "options": [
+            "was cutting",
+            "were cuted",
+            "were cutting",
+            "were cut"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: were + cutting"
+    },
+    {
+        "question": "The boys ( ? )",
+        "options": [
+            "are",
+            "is",
+            "was",
+            "were"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'The boys' is 'were'."
+    },
+    {
+        "question": "He ( put ) on desk. \u2192 ( ? )",
+        "options": [
+            "was puted",
+            "was putting",
+            "was put",
+            "were putting"
+        ],
+        "answer": 1,
+        "hint": "Past Progressive: was + putting"
+    },
+    {
+        "question": "The girl ( ? )",
+        "options": [
+            "is",
+            "are",
+            "were",
+            "was"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'The girl' is 'was'."
+    },
+    {
+        "question": "She ( open ) box. \u2192 ( ? )",
+        "options": [
+            "was opened",
+            "was open",
+            "was opening",
+            "were opening"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + opening"
+    },
+    {
+        "question": "The girls ( ? )",
+        "options": [
+            "was",
+            "were",
+            "are",
+            "is"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'The girls' is 'were'."
+    },
+    {
+        "question": "We ( close ) store. \u2192 ( ? )",
+        "options": [
+            "were closeed",
+            "were close",
+            "was closing",
+            "were closing"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + closing"
+    },
+    {
+        "question": "This man ( ? )",
+        "options": [
+            "are",
+            "were",
+            "was",
+            "is"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'This man' is 'was'."
+    },
+    {
+        "question": "They ( visit ) Kyoto. \u2192 ( ? )",
+        "options": [
+            "were visiting",
+            "were visit",
+            "were visited",
+            "was visiting"
+        ],
+        "answer": 0,
+        "hint": "Past Progressive: were + visiting"
+    },
+    {
+        "question": "These men ( ? )",
+        "options": [
+            "is",
+            "are",
+            "was",
+            "were"
+        ],
+        "answer": 3,
+        "hint": "The past be verb for 'These men' is 'were'."
+    },
+    {
+        "question": "I ( think ) about you. \u2192 ( ? )",
+        "options": [
+            "was thinked",
+            "were thinking",
+            "was think",
+            "was thinking"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + thinking"
+    },
+    {
+        "question": "That woman ( ? )",
+        "options": [
+            "are",
+            "was",
+            "were",
+            "is"
+        ],
+        "answer": 1,
+        "hint": "The past be verb for 'That woman' is 'was'."
+    },
+    {
+        "question": "You ( say ) something. \u2192 ( ? )",
+        "options": [
+            "were say",
+            "was saying",
+            "were sayed",
+            "were saying"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: were + saying"
+    },
+    {
+        "question": "Those women ( ? )",
+        "options": [
+            "was",
+            "are",
+            "were",
+            "is"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'Those women' is 'were'."
+    },
+    {
+        "question": "He ( go ) home. \u2192 ( ? )",
+        "options": [
+            "was go",
+            "was goed",
+            "was going",
+            "were going"
+        ],
+        "answer": 2,
+        "hint": "Past Progressive: was + going"
+    },
+    {
+        "question": "All of us ( ? )",
+        "options": [
+            "was",
+            "is",
+            "were",
+            "are"
+        ],
+        "answer": 2,
+        "hint": "The past be verb for 'All of us' is 'were'."
+    },
+    {
+        "question": "She ( come ) back. \u2192 ( ? )",
+        "options": [
+            "was come",
+            "was comeed",
+            "were coming",
+            "was coming"
+        ],
+        "answer": 3,
+        "hint": "Past Progressive: was + coming"
+    }
+]
