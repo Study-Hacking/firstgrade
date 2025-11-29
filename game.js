@@ -1,5 +1,3 @@
-// import { quizData } from './data.js'; // Removed for local file compatibility
-
 class QuizGame {
     constructor(subject) {
         this.subject = subject;
@@ -68,11 +66,6 @@ class QuizGame {
         // Bind Events
         this.dom.hintToggle.addEventListener('click', () => this.toggleHint());
         this.dom.nextBtn.addEventListener('click', () => this.nextQuestion());
-        // Removed modalNextBtn event listener as modal is no longer used for explanations
-        // this.dom.modalNextBtn.addEventListener('click', () => {
-        //     this.dom.modal.classList.add('hidden');
-        //     this.nextQuestion();
-        // });
 
         // Result Events
         this.dom.retryMistakesBtn.addEventListener('click', () => this.retryMistakes());
@@ -218,7 +211,6 @@ class QuizGame {
 
         // Message & Celebration & Buttons
         const percentage = (this.correctCount / this.questions.length) * 100;
-        console.log(`Game Over. Score: ${this.correctCount}/${this.questions.length} (${percentage}%)`);
 
         // Reset visibility (Hide all first)
         this.dom.celebration.classList.add('hidden');
