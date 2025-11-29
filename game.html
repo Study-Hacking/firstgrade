@@ -58,6 +58,32 @@
         </footer>
     </div>
 
+    <!-- Results Screen -->
+    <div class="results-screen hidden" id="results-screen">
+        <div class="results-content">
+            <h1 id="result-title">Result</h1>
+            <div class="score-display">
+                <span id="result-score">0</span> / <span id="result-total">10</span>
+            </div>
+            <p id="result-message" class="result-message">Message</p>
+
+            <div id="celebration" class="celebration hidden">🎉 Perfect! 🎉</div>
+
+            <div id="review-section" class="review-section hidden">
+                <h3>Review Mistakes</h3>
+                <div id="review-list" class="review-list">
+                    <!-- Mistakes injected here -->
+                </div>
+            </div>
+
+            <div class="action-buttons">
+                <button id="retry-mistakes-btn" class="action-btn secondary hidden">Retry Mistakes</button>
+                <button id="next-challenge-btn" class="action-btn primary hidden">Next Challenge</button>
+                <button id="home-btn" class="action-btn outline">Back to Home</button>
+            </div>
+        </div>
+    </div>
+
     <script src="data.js"></script>
     <script src="game.js"></script>
 </body>
