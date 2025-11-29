@@ -29,11 +29,20 @@
         </section>
 
         <nav class="toc-nav">
-            <div class="subject-card" onclick="window.location.href='game.html?subject=english_be_past'">
+            <div class="subject-card" onclick="selectTopic('english_be_past')">
                 <div class="card-icon" style="background-color: #FCE7F3; color: #DB2777;">🅰️</div>
-                <div class="card-content">
+                <div class="topic-card" onclick="selectTopic('english_be_past')">
                     <h2>be動詞の過去形</h2>
-                    <p>Past Tense (was/were)</p>
+                    <p>was / were</p>
+                </div>
+                <div class="arrow">→</div>
+            </div>
+
+            <div class="subject-card" onclick="selectTopic('english_regular_past')">
+                <div class="card-icon" style="background-color: #E0F2FE; color: #0284C7;">📝</div>
+                <div class="topic-card" onclick="selectTopic('english_regular_past')">
+                    <h2>規則動詞の過去形</h2>
+                    <p>played / watched etc.</p>
                 </div>
                 <div class="arrow">→</div>
             </div>
@@ -52,6 +61,12 @@
     <footer class="footer">
         <p>&copy; 2024 Study Hacker</p>
     </footer>
+
+    <script>
+        function selectTopic(topic) {
+            window.location.href = `game.html?subject=${topic}`;
+        }
+    </script>
 </body>
 
 </html>
