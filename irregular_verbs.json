@@ -1,0 +1,3302 @@
+[
+    {
+        "question": "go \u2192 ( ? )",
+        "options": [
+            "go",
+            "went",
+            "gos",
+            "goed"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "went \u2192 ( ? )",
+        "options": [
+            "go",
+            "wents",
+            "wenting",
+            "went"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'went' is 'go'."
+    },
+    {
+        "question": "I ( go ) to the park. \u2192 ( ? )",
+        "options": [
+            "goed",
+            "gos",
+            "go",
+            "went"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "come \u2192 ( ? )",
+        "options": [
+            "comed",
+            "come",
+            "came",
+            "comes"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "came \u2192 ( ? )",
+        "options": [
+            "cameing",
+            "come",
+            "came",
+            "cames"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'came' is 'come'."
+    },
+    {
+        "question": "You ( go ) to school. \u2192 ( ? )",
+        "options": [
+            "go",
+            "goed",
+            "went",
+            "gos"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "see \u2192 ( ? )",
+        "options": [
+            "see",
+            "sees",
+            "seing",
+            "saw"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "saw \u2192 ( ? )",
+        "options": [
+            "see",
+            "sawing",
+            "saws",
+            "saw"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'saw' is 'see'."
+    },
+    {
+        "question": "He ( go ) to Tokyo. \u2192 ( ? )",
+        "options": [
+            "goed",
+            "went",
+            "go",
+            "gos"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "have \u2192 ( ? )",
+        "options": [
+            "have",
+            "haves",
+            "having",
+            "had"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "had \u2192 ( ? )",
+        "options": [
+            "have",
+            "hads",
+            "had",
+            "hading"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'had' is 'have'."
+    },
+    {
+        "question": "She ( go ) library. \u2192 ( ? )",
+        "options": [
+            "went",
+            "gos",
+            "go",
+            "goed"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "eat \u2192 ( ? )",
+        "options": [
+            "ate",
+            "eating",
+            "eated",
+            "eat"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "ate \u2192 ( ? )",
+        "options": [
+            "ate",
+            "ates",
+            "eat",
+            "ateing"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'ate' is 'eat'."
+    },
+    {
+        "question": "We ( go ) shopping. \u2192 ( ? )",
+        "options": [
+            "go",
+            "goed",
+            "went",
+            "gos"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "get \u2192 ( ? )",
+        "options": [
+            "gets",
+            "geting",
+            "geted",
+            "got"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "got \u2192 ( ? )",
+        "options": [
+            "got",
+            "get",
+            "goting",
+            "gots"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'got' is 'get'."
+    },
+    {
+        "question": "They ( go ) home. \u2192 ( ? )",
+        "options": [
+            "went",
+            "gos",
+            "goed",
+            "go"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "take \u2192 ( ? )",
+        "options": [
+            "takes",
+            "taked",
+            "took",
+            "taking"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "took \u2192 ( ? )",
+        "options": [
+            "took",
+            "tooks",
+            "tooking",
+            "take"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'took' is 'take'."
+    },
+    {
+        "question": "I ( come ) here. \u2192 ( ? )",
+        "options": [
+            "came",
+            "comes",
+            "comed",
+            "come"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "make \u2192 ( ? )",
+        "options": [
+            "making",
+            "make",
+            "makes",
+            "made"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "made \u2192 ( ? )",
+        "options": [
+            "madeing",
+            "made",
+            "mades",
+            "make"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'made' is 'make'."
+    },
+    {
+        "question": "You ( come ) house. \u2192 ( ? )",
+        "options": [
+            "comed",
+            "comes",
+            "come",
+            "came"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "say \u2192 ( ? )",
+        "options": [
+            "sayed",
+            "said",
+            "saying",
+            "say"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'say' is 'said'."
+    },
+    {
+        "question": "said \u2192 ( ? )",
+        "options": [
+            "saiding",
+            "said",
+            "say",
+            "saids"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'said' is 'say'."
+    },
+    {
+        "question": "He ( come ) to party. \u2192 ( ? )",
+        "options": [
+            "came",
+            "come",
+            "comes",
+            "comed"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "do \u2192 ( ? )",
+        "options": [
+            "doed",
+            "did",
+            "do",
+            "doing"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'do' is 'did'."
+    },
+    {
+        "question": "did \u2192 ( ? )",
+        "options": [
+            "did",
+            "dids",
+            "do",
+            "diding"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'did' is 'do'."
+    },
+    {
+        "question": "She ( come ) late. \u2192 ( ? )",
+        "options": [
+            "comes",
+            "came",
+            "come",
+            "comed"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "buy \u2192 ( ? )",
+        "options": [
+            "buys",
+            "buyed",
+            "buy",
+            "bought"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'buy' is 'bought'."
+    },
+    {
+        "question": "bought \u2192 ( ? )",
+        "options": [
+            "buy",
+            "bought",
+            "boughting",
+            "boughts"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'bought' is 'buy'."
+    },
+    {
+        "question": "We ( come ) by bus. \u2192 ( ? )",
+        "options": [
+            "comed",
+            "come",
+            "came",
+            "comes"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "read \u2192 ( ? )",
+        "options": [
+            "readed",
+            "reads",
+            "reading",
+            "read"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'read' is 'read'."
+    },
+    {
+        "question": "read \u2192 ( ? )",
+        "options": [
+            "read",
+            "reading",
+            "reads",
+            "readed"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'read' is 'read'."
+    },
+    {
+        "question": "They ( come ) by train. \u2192 ( ? )",
+        "options": [
+            "came",
+            "come",
+            "comes",
+            "comed"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "run \u2192 ( ? )",
+        "options": [
+            "runing",
+            "run",
+            "ran",
+            "runs"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'run' is 'ran'."
+    },
+    {
+        "question": "ran \u2192 ( ? )",
+        "options": [
+            "ran",
+            "run",
+            "rans",
+            "raning"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'ran' is 'run'."
+    },
+    {
+        "question": "I ( see ) a bird. \u2192 ( ? )",
+        "options": [
+            "see",
+            "sees",
+            "saw",
+            "seing"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "write \u2192 ( ? )",
+        "options": [
+            "write",
+            "writing",
+            "writes",
+            "wrote"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'write' is 'wrote'."
+    },
+    {
+        "question": "wrote \u2192 ( ? )",
+        "options": [
+            "wrote",
+            "wrotes",
+            "wroteing",
+            "write"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'wrote' is 'write'."
+    },
+    {
+        "question": "You ( see ) the movie. \u2192 ( ? )",
+        "options": [
+            "see",
+            "seing",
+            "saw",
+            "sees"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "speak \u2192 ( ? )",
+        "options": [
+            "spoke",
+            "speaks",
+            "speaking",
+            "speak"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'speak' is 'spoke'."
+    },
+    {
+        "question": "spoke \u2192 ( ? )",
+        "options": [
+            "spoke",
+            "spokes",
+            "spokeing",
+            "speak"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'spoke' is 'speak'."
+    },
+    {
+        "question": "He ( see ) his friend. \u2192 ( ? )",
+        "options": [
+            "see",
+            "sees",
+            "seing",
+            "saw"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "know \u2192 ( ? )",
+        "options": [
+            "knowed",
+            "knew",
+            "know",
+            "knowing"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'know' is 'knew'."
+    },
+    {
+        "question": "knew \u2192 ( ? )",
+        "options": [
+            "knews",
+            "know",
+            "knewing",
+            "knew"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'knew' is 'know'."
+    },
+    {
+        "question": "She ( see ) the picture. \u2192 ( ? )",
+        "options": [
+            "seing",
+            "saw",
+            "sees",
+            "see"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "give \u2192 ( ? )",
+        "options": [
+            "giving",
+            "gave",
+            "give",
+            "gived"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'give' is 'gave'."
+    },
+    {
+        "question": "gave \u2192 ( ? )",
+        "options": [
+            "give",
+            "gave",
+            "gaveing",
+            "gaves"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'gave' is 'give'."
+    },
+    {
+        "question": "We ( see ) Mt. Fuji. \u2192 ( ? )",
+        "options": [
+            "sees",
+            "see",
+            "seing",
+            "saw"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "swim \u2192 ( ? )",
+        "options": [
+            "swimed",
+            "swiming",
+            "swim",
+            "swam"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'swim' is 'swam'."
+    },
+    {
+        "question": "swam \u2192 ( ? )",
+        "options": [
+            "swams",
+            "swam",
+            "swaming",
+            "swim"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'swam' is 'swim'."
+    },
+    {
+        "question": "They ( see ) a rainbow. \u2192 ( ? )",
+        "options": [
+            "seing",
+            "saw",
+            "sees",
+            "see"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "meet \u2192 ( ? )",
+        "options": [
+            "meeted",
+            "met",
+            "meets",
+            "meet"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'meet' is 'met'."
+    },
+    {
+        "question": "met \u2192 ( ? )",
+        "options": [
+            "meting",
+            "met",
+            "meet",
+            "mets"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'met' is 'meet'."
+    },
+    {
+        "question": "I ( have ) breakfast. \u2192 ( ? )",
+        "options": [
+            "have",
+            "having",
+            "haves",
+            "had"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "sing \u2192 ( ? )",
+        "options": [
+            "singing",
+            "sing",
+            "singed",
+            "sang"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'sing' is 'sang'."
+    },
+    {
+        "question": "sang \u2192 ( ? )",
+        "options": [
+            "sing",
+            "sanging",
+            "sang",
+            "sangs"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'sang' is 'sing'."
+    },
+    {
+        "question": "You ( have ) lunch. \u2192 ( ? )",
+        "options": [
+            "having",
+            "haves",
+            "have",
+            "had"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "stand \u2192 ( ? )",
+        "options": [
+            "stood",
+            "standing",
+            "stand",
+            "stands"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'stand' is 'stood'."
+    },
+    {
+        "question": "stood \u2192 ( ? )",
+        "options": [
+            "stoods",
+            "stooding",
+            "stand",
+            "stood"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'stood' is 'stand'."
+    },
+    {
+        "question": "He ( have ) dinner. \u2192 ( ? )",
+        "options": [
+            "haves",
+            "had",
+            "having",
+            "have"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "sit \u2192 ( ? )",
+        "options": [
+            "sited",
+            "sat",
+            "sits",
+            "siting"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'sit' is 'sat'."
+    },
+    {
+        "question": "sat \u2192 ( ? )",
+        "options": [
+            "sat",
+            "sats",
+            "sating",
+            "sit"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'sat' is 'sit'."
+    },
+    {
+        "question": "She ( have ) a good time. \u2192 ( ? )",
+        "options": [
+            "having",
+            "had",
+            "have",
+            "haves"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "sleep \u2192 ( ? )",
+        "options": [
+            "slept",
+            "sleeps",
+            "sleeping",
+            "sleeped"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'sleep' is 'slept'."
+    },
+    {
+        "question": "slept \u2192 ( ? )",
+        "options": [
+            "slepting",
+            "slept",
+            "slepts",
+            "sleep"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'slept' is 'sleep'."
+    },
+    {
+        "question": "We ( have ) a test. \u2192 ( ? )",
+        "options": [
+            "having",
+            "have",
+            "had",
+            "haves"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "drink \u2192 ( ? )",
+        "options": [
+            "drank",
+            "drink",
+            "drinks",
+            "drinked"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'drink' is 'drank'."
+    },
+    {
+        "question": "drank \u2192 ( ? )",
+        "options": [
+            "dranks",
+            "drank",
+            "dranking",
+            "drink"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'drank' is 'drink'."
+    },
+    {
+        "question": "They ( have ) a dog. \u2192 ( ? )",
+        "options": [
+            "haves",
+            "have",
+            "had",
+            "having"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "find \u2192 ( ? )",
+        "options": [
+            "finded",
+            "found",
+            "finding",
+            "find"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'find' is 'found'."
+    },
+    {
+        "question": "found \u2192 ( ? )",
+        "options": [
+            "founds",
+            "find",
+            "found",
+            "founding"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'found' is 'find'."
+    },
+    {
+        "question": "I ( eat ) an apple. \u2192 ( ? )",
+        "options": [
+            "ate",
+            "eated",
+            "eat",
+            "eating"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "win \u2192 ( ? )",
+        "options": [
+            "wining",
+            "won",
+            "wins",
+            "wined"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'win' is 'won'."
+    },
+    {
+        "question": "won \u2192 ( ? )",
+        "options": [
+            "woning",
+            "win",
+            "wons",
+            "won"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'won' is 'win'."
+    },
+    {
+        "question": "You ( eat ) sushi. \u2192 ( ? )",
+        "options": [
+            "eat",
+            "eating",
+            "ate",
+            "eated"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "lose \u2192 ( ? )",
+        "options": [
+            "lose",
+            "lost",
+            "losing",
+            "loses"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'lose' is 'lost'."
+    },
+    {
+        "question": "lost \u2192 ( ? )",
+        "options": [
+            "lost",
+            "lose",
+            "losting",
+            "losts"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'lost' is 'lose'."
+    },
+    {
+        "question": "He ( eat ) pizza. \u2192 ( ? )",
+        "options": [
+            "eating",
+            "eated",
+            "ate",
+            "eat"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "catch \u2192 ( ? )",
+        "options": [
+            "caught",
+            "catching",
+            "catched",
+            "catchs"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'catch' is 'caught'."
+    },
+    {
+        "question": "caught \u2192 ( ? )",
+        "options": [
+            "caughts",
+            "caught",
+            "caughting",
+            "catch"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'caught' is 'catch'."
+    },
+    {
+        "question": "She ( eat ) cake. \u2192 ( ? )",
+        "options": [
+            "eat",
+            "eating",
+            "ate",
+            "eated"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "teach \u2192 ( ? )",
+        "options": [
+            "taught",
+            "teaching",
+            "teachs",
+            "teach"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'teach' is 'taught'."
+    },
+    {
+        "question": "taught \u2192 ( ? )",
+        "options": [
+            "teach",
+            "taughts",
+            "taught",
+            "taughting"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'taught' is 'teach'."
+    },
+    {
+        "question": "We ( eat ) ramen. \u2192 ( ? )",
+        "options": [
+            "eat",
+            "ate",
+            "eated",
+            "eating"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "leave \u2192 ( ? )",
+        "options": [
+            "leaved",
+            "leaving",
+            "leaves",
+            "left"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'leave' is 'left'."
+    },
+    {
+        "question": "left \u2192 ( ? )",
+        "options": [
+            "lefts",
+            "leave",
+            "left",
+            "lefting"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'left' is 'leave'."
+    },
+    {
+        "question": "They ( eat ) curry. \u2192 ( ? )",
+        "options": [
+            "eated",
+            "eating",
+            "eat",
+            "ate"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "think \u2192 ( ? )",
+        "options": [
+            "thinks",
+            "thought",
+            "thinked",
+            "think"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'think' is 'thought'."
+    },
+    {
+        "question": "thought \u2192 ( ? )",
+        "options": [
+            "thoughts",
+            "thought",
+            "think",
+            "thoughting"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'thought' is 'think'."
+    },
+    {
+        "question": "I ( get ) up early. \u2192 ( ? )",
+        "options": [
+            "geted",
+            "got",
+            "geting",
+            "gets"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "tell \u2192 ( ? )",
+        "options": [
+            "told",
+            "telling",
+            "tell",
+            "telled"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'tell' is 'told'."
+    },
+    {
+        "question": "told \u2192 ( ? )",
+        "options": [
+            "told",
+            "tolds",
+            "tell",
+            "tolding"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'told' is 'tell'."
+    },
+    {
+        "question": "You ( get ) a present. \u2192 ( ? )",
+        "options": [
+            "got",
+            "gets",
+            "geting",
+            "geted"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "hear \u2192 ( ? )",
+        "options": [
+            "heard",
+            "hear",
+            "heared",
+            "hears"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'hear' is 'heard'."
+    },
+    {
+        "question": "heard \u2192 ( ? )",
+        "options": [
+            "heard",
+            "heards",
+            "hear",
+            "hearding"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'heard' is 'hear'."
+    },
+    {
+        "question": "He ( get ) to the station. \u2192 ( ? )",
+        "options": [
+            "geted",
+            "gets",
+            "got",
+            "geting"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "feel \u2192 ( ? )",
+        "options": [
+            "felt",
+            "feel",
+            "feeling",
+            "feels"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'feel' is 'felt'."
+    },
+    {
+        "question": "felt \u2192 ( ? )",
+        "options": [
+            "felting",
+            "felt",
+            "felts",
+            "feel"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'felt' is 'feel'."
+    },
+    {
+        "question": "She ( get ) angry. \u2192 ( ? )",
+        "options": [
+            "geted",
+            "got",
+            "geting",
+            "gets"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "keep \u2192 ( ? )",
+        "options": [
+            "keep",
+            "kept",
+            "keeped",
+            "keeping"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'keep' is 'kept'."
+    },
+    {
+        "question": "kept \u2192 ( ? )",
+        "options": [
+            "kept",
+            "kepts",
+            "keep",
+            "kepting"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'kept' is 'keep'."
+    },
+    {
+        "question": "We ( get ) tired. \u2192 ( ? )",
+        "options": [
+            "gets",
+            "geting",
+            "geted",
+            "got"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "begin \u2192 ( ? )",
+        "options": [
+            "begining",
+            "began",
+            "begin",
+            "begins"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'begin' is 'began'."
+    },
+    {
+        "question": "began \u2192 ( ? )",
+        "options": [
+            "begin",
+            "beganing",
+            "begans",
+            "began"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'began' is 'begin'."
+    },
+    {
+        "question": "They ( get ) new books. \u2192 ( ? )",
+        "options": [
+            "gets",
+            "got",
+            "geted",
+            "geting"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "break \u2192 ( ? )",
+        "options": [
+            "breaking",
+            "breaked",
+            "broke",
+            "breaks"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'break' is 'broke'."
+    },
+    {
+        "question": "broke \u2192 ( ? )",
+        "options": [
+            "break",
+            "brokes",
+            "broke",
+            "brokeing"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'broke' is 'break'."
+    },
+    {
+        "question": "I ( take ) a picture. \u2192 ( ? )",
+        "options": [
+            "takes",
+            "taked",
+            "taking",
+            "took"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "bring \u2192 ( ? )",
+        "options": [
+            "brought",
+            "bringed",
+            "bringing",
+            "brings"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'bring' is 'brought'."
+    },
+    {
+        "question": "brought \u2192 ( ? )",
+        "options": [
+            "broughting",
+            "bring",
+            "brought",
+            "broughts"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'brought' is 'bring'."
+    },
+    {
+        "question": "You ( take ) a bus. \u2192 ( ? )",
+        "options": [
+            "taking",
+            "taked",
+            "took",
+            "takes"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "build \u2192 ( ? )",
+        "options": [
+            "builded",
+            "builds",
+            "built",
+            "building"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'build' is 'built'."
+    },
+    {
+        "question": "built \u2192 ( ? )",
+        "options": [
+            "builts",
+            "build",
+            "builting",
+            "built"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'built' is 'build'."
+    },
+    {
+        "question": "He ( take ) a bath. \u2192 ( ? )",
+        "options": [
+            "taking",
+            "takes",
+            "taked",
+            "took"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "become \u2192 ( ? )",
+        "options": [
+            "became",
+            "becomed",
+            "become",
+            "becoming"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'become' is 'became'."
+    },
+    {
+        "question": "became \u2192 ( ? )",
+        "options": [
+            "become",
+            "becames",
+            "became",
+            "becameing"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'became' is 'become'."
+    },
+    {
+        "question": "She ( take ) a walk. \u2192 ( ? )",
+        "options": [
+            "took",
+            "taked",
+            "taking",
+            "takes"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "put \u2192 ( ? )",
+        "options": [
+            "puted",
+            "put",
+            "puting",
+            "puts"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'put' is 'put'."
+    },
+    {
+        "question": "put \u2192 ( ? )",
+        "options": [
+            "put",
+            "puts",
+            "puted",
+            "puting"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'put' is 'put'."
+    },
+    {
+        "question": "We ( take ) him there. \u2192 ( ? )",
+        "options": [
+            "took",
+            "taking",
+            "takes",
+            "taked"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "cut \u2192 ( ? )",
+        "options": [
+            "cuts",
+            "cuted",
+            "cut",
+            "cuting"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'cut' is 'cut'."
+    },
+    {
+        "question": "cut \u2192 ( ? )",
+        "options": [
+            "cut",
+            "cuted",
+            "cuting",
+            "cuts"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'cut' is 'cut'."
+    },
+    {
+        "question": "They ( take ) the train. \u2192 ( ? )",
+        "options": [
+            "taking",
+            "takes",
+            "took",
+            "taked"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "hit \u2192 ( ? )",
+        "options": [
+            "hiting",
+            "hit",
+            "hited",
+            "hits"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'hit' is 'hit'."
+    },
+    {
+        "question": "hit \u2192 ( ? )",
+        "options": [
+            "hiting",
+            "hited",
+            "hit",
+            "hits"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'hit' is 'hit'."
+    },
+    {
+        "question": "I ( make ) lunch. \u2192 ( ? )",
+        "options": [
+            "made",
+            "make",
+            "makes",
+            "making"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "go \u2192 ( ? )",
+        "options": [
+            "gos",
+            "go",
+            "went",
+            "goed"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "went \u2192 ( ? )",
+        "options": [
+            "go",
+            "wents",
+            "went",
+            "wenting"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'went' is 'go'."
+    },
+    {
+        "question": "You ( make ) a card. \u2192 ( ? )",
+        "options": [
+            "make",
+            "making",
+            "makes",
+            "made"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "come \u2192 ( ? )",
+        "options": [
+            "came",
+            "comes",
+            "comed",
+            "come"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "came \u2192 ( ? )",
+        "options": [
+            "came",
+            "come",
+            "cameing",
+            "cames"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'came' is 'come'."
+    },
+    {
+        "question": "He ( make ) a robot. \u2192 ( ? )",
+        "options": [
+            "making",
+            "made",
+            "make",
+            "makes"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "see \u2192 ( ? )",
+        "options": [
+            "sees",
+            "see",
+            "seing",
+            "saw"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "saw \u2192 ( ? )",
+        "options": [
+            "see",
+            "saws",
+            "sawing",
+            "saw"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'saw' is 'see'."
+    },
+    {
+        "question": "She ( make ) cookies. \u2192 ( ? )",
+        "options": [
+            "makes",
+            "made",
+            "make",
+            "making"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "have \u2192 ( ? )",
+        "options": [
+            "have",
+            "had",
+            "having",
+            "haves"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "had \u2192 ( ? )",
+        "options": [
+            "have",
+            "hading",
+            "hads",
+            "had"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'had' is 'have'."
+    },
+    {
+        "question": "We ( make ) a plan. \u2192 ( ? )",
+        "options": [
+            "makes",
+            "making",
+            "make",
+            "made"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "eat \u2192 ( ? )",
+        "options": [
+            "eat",
+            "eating",
+            "eated",
+            "ate"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "ate \u2192 ( ? )",
+        "options": [
+            "eat",
+            "ateing",
+            "ates",
+            "ate"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'ate' is 'eat'."
+    },
+    {
+        "question": "They ( make ) a noise. \u2192 ( ? )",
+        "options": [
+            "making",
+            "makes",
+            "made",
+            "make"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "get \u2192 ( ? )",
+        "options": [
+            "geted",
+            "gets",
+            "got",
+            "geting"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "got \u2192 ( ? )",
+        "options": [
+            "get",
+            "gots",
+            "got",
+            "goting"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'got' is 'get'."
+    },
+    {
+        "question": "I ( say ) hello. \u2192 ( ? )",
+        "options": [
+            "saying",
+            "said",
+            "sayed",
+            "say"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'say' is 'said'."
+    },
+    {
+        "question": "take \u2192 ( ? )",
+        "options": [
+            "took",
+            "taking",
+            "taked",
+            "takes"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "took \u2192 ( ? )",
+        "options": [
+            "took",
+            "take",
+            "tooking",
+            "tooks"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'took' is 'take'."
+    },
+    {
+        "question": "You ( say ) goodbye. \u2192 ( ? )",
+        "options": [
+            "sayed",
+            "say",
+            "saying",
+            "said"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'say' is 'said'."
+    },
+    {
+        "question": "make \u2192 ( ? )",
+        "options": [
+            "make",
+            "made",
+            "makes",
+            "making"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "made \u2192 ( ? )",
+        "options": [
+            "madeing",
+            "make",
+            "made",
+            "mades"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'made' is 'make'."
+    },
+    {
+        "question": "He ( say ) yes. \u2192 ( ? )",
+        "options": [
+            "said",
+            "say",
+            "sayed",
+            "saying"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'say' is 'said'."
+    },
+    {
+        "question": "say \u2192 ( ? )",
+        "options": [
+            "said",
+            "saying",
+            "say",
+            "sayed"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'say' is 'said'."
+    },
+    {
+        "question": "said \u2192 ( ? )",
+        "options": [
+            "said",
+            "saiding",
+            "saids",
+            "say"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'said' is 'say'."
+    },
+    {
+        "question": "She ( say ) no. \u2192 ( ? )",
+        "options": [
+            "saying",
+            "say",
+            "said",
+            "sayed"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'say' is 'said'."
+    },
+    {
+        "question": "do \u2192 ( ? )",
+        "options": [
+            "doing",
+            "do",
+            "doed",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'do' is 'did'."
+    },
+    {
+        "question": "did \u2192 ( ? )",
+        "options": [
+            "diding",
+            "did",
+            "dids",
+            "do"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'did' is 'do'."
+    },
+    {
+        "question": "I ( do ) my homework. \u2192 ( ? )",
+        "options": [
+            "doed",
+            "did",
+            "do",
+            "doing"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'do' is 'did'."
+    },
+    {
+        "question": "buy \u2192 ( ? )",
+        "options": [
+            "buy",
+            "bought",
+            "buyed",
+            "buys"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'buy' is 'bought'."
+    },
+    {
+        "question": "bought \u2192 ( ? )",
+        "options": [
+            "buy",
+            "boughting",
+            "boughts",
+            "bought"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'bought' is 'buy'."
+    },
+    {
+        "question": "You ( do ) a good job. \u2192 ( ? )",
+        "options": [
+            "did",
+            "doed",
+            "doing",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'do' is 'did'."
+    },
+    {
+        "question": "read \u2192 ( ? )",
+        "options": [
+            "read",
+            "readed",
+            "reading",
+            "reads"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'read' is 'read'."
+    },
+    {
+        "question": "read \u2192 ( ? )",
+        "options": [
+            "reads",
+            "readed",
+            "reading",
+            "read"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'read' is 'read'."
+    },
+    {
+        "question": "He ( do ) judo. \u2192 ( ? )",
+        "options": [
+            "do",
+            "doed",
+            "doing",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'do' is 'did'."
+    },
+    {
+        "question": "run \u2192 ( ? )",
+        "options": [
+            "ran",
+            "runing",
+            "runs",
+            "run"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'run' is 'ran'."
+    },
+    {
+        "question": "ran \u2192 ( ? )",
+        "options": [
+            "run",
+            "rans",
+            "raning",
+            "ran"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'ran' is 'run'."
+    },
+    {
+        "question": "She ( do ) the dishes. \u2192 ( ? )",
+        "options": [
+            "did",
+            "doed",
+            "doing",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'do' is 'did'."
+    },
+    {
+        "question": "write \u2192 ( ? )",
+        "options": [
+            "wrote",
+            "writing",
+            "writes",
+            "write"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'write' is 'wrote'."
+    },
+    {
+        "question": "wrote \u2192 ( ? )",
+        "options": [
+            "wrote",
+            "wrotes",
+            "wroteing",
+            "write"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'wrote' is 'write'."
+    },
+    {
+        "question": "I ( buy ) a pen. \u2192 ( ? )",
+        "options": [
+            "buy",
+            "buys",
+            "bought",
+            "buyed"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'buy' is 'bought'."
+    },
+    {
+        "question": "speak \u2192 ( ? )",
+        "options": [
+            "speaks",
+            "speaking",
+            "spoke",
+            "speak"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'speak' is 'spoke'."
+    },
+    {
+        "question": "spoke \u2192 ( ? )",
+        "options": [
+            "speak",
+            "spokes",
+            "spoke",
+            "spokeing"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'spoke' is 'speak'."
+    },
+    {
+        "question": "You ( buy ) a bag. \u2192 ( ? )",
+        "options": [
+            "bought",
+            "buyed",
+            "buy",
+            "buys"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'buy' is 'bought'."
+    },
+    {
+        "question": "know \u2192 ( ? )",
+        "options": [
+            "knowing",
+            "know",
+            "knowed",
+            "knew"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'know' is 'knew'."
+    },
+    {
+        "question": "knew \u2192 ( ? )",
+        "options": [
+            "knews",
+            "knewing",
+            "knew",
+            "know"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'knew' is 'know'."
+    },
+    {
+        "question": "He ( buy ) a car. \u2192 ( ? )",
+        "options": [
+            "bought",
+            "buy",
+            "buys",
+            "buyed"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'buy' is 'bought'."
+    },
+    {
+        "question": "give \u2192 ( ? )",
+        "options": [
+            "gived",
+            "gave",
+            "giving",
+            "give"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'give' is 'gave'."
+    },
+    {
+        "question": "gave \u2192 ( ? )",
+        "options": [
+            "gaveing",
+            "gave",
+            "give",
+            "gaves"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'gave' is 'give'."
+    },
+    {
+        "question": "She ( buy ) flowers. \u2192 ( ? )",
+        "options": [
+            "buy",
+            "buyed",
+            "buys",
+            "bought"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'buy' is 'bought'."
+    },
+    {
+        "question": "swim \u2192 ( ? )",
+        "options": [
+            "swiming",
+            "swam",
+            "swim",
+            "swimed"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'swim' is 'swam'."
+    },
+    {
+        "question": "swam \u2192 ( ? )",
+        "options": [
+            "swams",
+            "swam",
+            "swaming",
+            "swim"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'swam' is 'swim'."
+    },
+    {
+        "question": "I ( read ) the book. \u2192 ( ? )",
+        "options": [
+            "reading",
+            "readed",
+            "reads",
+            "read"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'read' is 'read'."
+    },
+    {
+        "question": "meet \u2192 ( ? )",
+        "options": [
+            "met",
+            "meeted",
+            "meets",
+            "meet"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'meet' is 'met'."
+    },
+    {
+        "question": "met \u2192 ( ? )",
+        "options": [
+            "meet",
+            "met",
+            "meting",
+            "mets"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'met' is 'meet'."
+    },
+    {
+        "question": "You ( read ) newspaper. \u2192 ( ? )",
+        "options": [
+            "reading",
+            "reads",
+            "read",
+            "readed"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'read' is 'read'."
+    },
+    {
+        "question": "sing \u2192 ( ? )",
+        "options": [
+            "sing",
+            "singed",
+            "sang",
+            "singing"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'sing' is 'sang'."
+    },
+    {
+        "question": "sang \u2192 ( ? )",
+        "options": [
+            "sing",
+            "sangs",
+            "sanging",
+            "sang"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'sang' is 'sing'."
+    },
+    {
+        "question": "I ( write ) a letter. \u2192 ( ? )",
+        "options": [
+            "writes",
+            "write",
+            "wrote",
+            "writing"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'write' is 'wrote'."
+    },
+    {
+        "question": "stand \u2192 ( ? )",
+        "options": [
+            "standing",
+            "stood",
+            "stands",
+            "stand"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'stand' is 'stood'."
+    },
+    {
+        "question": "stood \u2192 ( ? )",
+        "options": [
+            "stooding",
+            "stood",
+            "stoods",
+            "stand"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'stood' is 'stand'."
+    },
+    {
+        "question": "He ( write ) an email. \u2192 ( ? )",
+        "options": [
+            "wrote",
+            "write",
+            "writing",
+            "writes"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'write' is 'wrote'."
+    },
+    {
+        "question": "sit \u2192 ( ? )",
+        "options": [
+            "siting",
+            "sited",
+            "sat",
+            "sits"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'sit' is 'sat'."
+    },
+    {
+        "question": "sat \u2192 ( ? )",
+        "options": [
+            "sats",
+            "sat",
+            "sit",
+            "sating"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'sat' is 'sit'."
+    },
+    {
+        "question": "I ( speak ) English. \u2192 ( ? )",
+        "options": [
+            "speak",
+            "speaks",
+            "speaking",
+            "spoke"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'speak' is 'spoke'."
+    },
+    {
+        "question": "sleep \u2192 ( ? )",
+        "options": [
+            "sleeps",
+            "slept",
+            "sleeped",
+            "sleeping"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'sleep' is 'slept'."
+    },
+    {
+        "question": "slept \u2192 ( ? )",
+        "options": [
+            "sleep",
+            "slepting",
+            "slepts",
+            "slept"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'slept' is 'sleep'."
+    },
+    {
+        "question": "She ( speak ) Japanese. \u2192 ( ? )",
+        "options": [
+            "spoke",
+            "speaks",
+            "speak",
+            "speaking"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'speak' is 'spoke'."
+    },
+    {
+        "question": "drink \u2192 ( ? )",
+        "options": [
+            "drinks",
+            "drink",
+            "drank",
+            "drinked"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'drink' is 'drank'."
+    },
+    {
+        "question": "drank \u2192 ( ? )",
+        "options": [
+            "drank",
+            "dranking",
+            "drink",
+            "dranks"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'drank' is 'drink'."
+    },
+    {
+        "question": "I ( know ) the answer. \u2192 ( ? )",
+        "options": [
+            "knowed",
+            "knowing",
+            "knew",
+            "know"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'know' is 'knew'."
+    },
+    {
+        "question": "find \u2192 ( ? )",
+        "options": [
+            "finded",
+            "find",
+            "found",
+            "finding"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'find' is 'found'."
+    },
+    {
+        "question": "found \u2192 ( ? )",
+        "options": [
+            "find",
+            "found",
+            "founds",
+            "founding"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'found' is 'find'."
+    },
+    {
+        "question": "He ( know ) her name. \u2192 ( ? )",
+        "options": [
+            "knowed",
+            "knew",
+            "knowing",
+            "know"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'know' is 'knew'."
+    },
+    {
+        "question": "win \u2192 ( ? )",
+        "options": [
+            "wining",
+            "wined",
+            "won",
+            "wins"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'win' is 'won'."
+    },
+    {
+        "question": "won \u2192 ( ? )",
+        "options": [
+            "wons",
+            "won",
+            "win",
+            "woning"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'won' is 'win'."
+    },
+    {
+        "question": "I ( give ) him a book. \u2192 ( ? )",
+        "options": [
+            "give",
+            "giving",
+            "gave",
+            "gived"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'give' is 'gave'."
+    },
+    {
+        "question": "lose \u2192 ( ? )",
+        "options": [
+            "lost",
+            "loses",
+            "lose",
+            "losing"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'lose' is 'lost'."
+    },
+    {
+        "question": "lost \u2192 ( ? )",
+        "options": [
+            "lost",
+            "losts",
+            "lose",
+            "losting"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'lost' is 'lose'."
+    },
+    {
+        "question": "She ( give ) me a gift. \u2192 ( ? )",
+        "options": [
+            "give",
+            "gave",
+            "giving",
+            "gived"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'give' is 'gave'."
+    },
+    {
+        "question": "catch \u2192 ( ? )",
+        "options": [
+            "catchs",
+            "catching",
+            "caught",
+            "catched"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'catch' is 'caught'."
+    },
+    {
+        "question": "caught \u2192 ( ? )",
+        "options": [
+            "catch",
+            "caught",
+            "caughting",
+            "caughts"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'caught' is 'catch'."
+    },
+    {
+        "question": "I ( swim ) in the sea. \u2192 ( ? )",
+        "options": [
+            "swim",
+            "swiming",
+            "swam",
+            "swimed"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'swim' is 'swam'."
+    },
+    {
+        "question": "teach \u2192 ( ? )",
+        "options": [
+            "teach",
+            "teaching",
+            "taught",
+            "teachs"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'teach' is 'taught'."
+    },
+    {
+        "question": "taught \u2192 ( ? )",
+        "options": [
+            "taught",
+            "taughting",
+            "taughts",
+            "teach"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'taught' is 'teach'."
+    },
+    {
+        "question": "They ( swim ) in pool. \u2192 ( ? )",
+        "options": [
+            "swim",
+            "swam",
+            "swimed",
+            "swiming"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'swim' is 'swam'."
+    },
+    {
+        "question": "leave \u2192 ( ? )",
+        "options": [
+            "leaving",
+            "leaves",
+            "leaved",
+            "left"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'leave' is 'left'."
+    },
+    {
+        "question": "left \u2192 ( ? )",
+        "options": [
+            "lefting",
+            "lefts",
+            "left",
+            "leave"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'left' is 'leave'."
+    },
+    {
+        "question": "I ( meet ) Ken. \u2192 ( ? )",
+        "options": [
+            "met",
+            "meeted",
+            "meet",
+            "meets"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'meet' is 'met'."
+    },
+    {
+        "question": "think \u2192 ( ? )",
+        "options": [
+            "thinked",
+            "thought",
+            "think",
+            "thinks"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'think' is 'thought'."
+    },
+    {
+        "question": "thought \u2192 ( ? )",
+        "options": [
+            "thought",
+            "thoughts",
+            "think",
+            "thoughting"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'thought' is 'think'."
+    },
+    {
+        "question": "We ( meet ) at the park. \u2192 ( ? )",
+        "options": [
+            "met",
+            "meets",
+            "meeted",
+            "meet"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'meet' is 'met'."
+    },
+    {
+        "question": "tell \u2192 ( ? )",
+        "options": [
+            "telling",
+            "told",
+            "tell",
+            "telled"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'tell' is 'told'."
+    },
+    {
+        "question": "told \u2192 ( ? )",
+        "options": [
+            "tell",
+            "tolding",
+            "tolds",
+            "told"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'told' is 'tell'."
+    },
+    {
+        "question": "I ( sing ) a song. \u2192 ( ? )",
+        "options": [
+            "singing",
+            "sang",
+            "singed",
+            "sing"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'sing' is 'sang'."
+    },
+    {
+        "question": "hear \u2192 ( ? )",
+        "options": [
+            "hear",
+            "heard",
+            "hears",
+            "heared"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'hear' is 'heard'."
+    },
+    {
+        "question": "heard \u2192 ( ? )",
+        "options": [
+            "heard",
+            "hearding",
+            "heards",
+            "hear"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'heard' is 'hear'."
+    },
+    {
+        "question": "She ( sing ) well. \u2192 ( ? )",
+        "options": [
+            "singing",
+            "sing",
+            "sang",
+            "singed"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'sing' is 'sang'."
+    },
+    {
+        "question": "feel \u2192 ( ? )",
+        "options": [
+            "feeling",
+            "felt",
+            "feels",
+            "feel"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'feel' is 'felt'."
+    },
+    {
+        "question": "felt \u2192 ( ? )",
+        "options": [
+            "felting",
+            "felt",
+            "felts",
+            "feel"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'felt' is 'feel'."
+    },
+    {
+        "question": "He ( stand ) up. \u2192 ( ? )",
+        "options": [
+            "stands",
+            "standing",
+            "stood",
+            "stand"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'stand' is 'stood'."
+    },
+    {
+        "question": "keep \u2192 ( ? )",
+        "options": [
+            "keep",
+            "kept",
+            "keeped",
+            "keeping"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'keep' is 'kept'."
+    },
+    {
+        "question": "kept \u2192 ( ? )",
+        "options": [
+            "keep",
+            "kepting",
+            "kept",
+            "kepts"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'kept' is 'keep'."
+    },
+    {
+        "question": "She ( sit ) down. \u2192 ( ? )",
+        "options": [
+            "sits",
+            "sat",
+            "siting",
+            "sited"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'sit' is 'sat'."
+    },
+    {
+        "question": "begin \u2192 ( ? )",
+        "options": [
+            "begins",
+            "begining",
+            "began",
+            "begin"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'begin' is 'began'."
+    },
+    {
+        "question": "began \u2192 ( ? )",
+        "options": [
+            "begans",
+            "began",
+            "beganing",
+            "begin"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'began' is 'begin'."
+    },
+    {
+        "question": "I ( sleep ) well. \u2192 ( ? )",
+        "options": [
+            "sleeps",
+            "sleeped",
+            "sleeping",
+            "slept"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'sleep' is 'slept'."
+    },
+    {
+        "question": "break \u2192 ( ? )",
+        "options": [
+            "breaked",
+            "breaking",
+            "broke",
+            "breaks"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'break' is 'broke'."
+    },
+    {
+        "question": "broke \u2192 ( ? )",
+        "options": [
+            "brokeing",
+            "broke",
+            "break",
+            "brokes"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'broke' is 'break'."
+    },
+    {
+        "question": "He ( sleep ) on sofa. \u2192 ( ? )",
+        "options": [
+            "slept",
+            "sleeped",
+            "sleeps",
+            "sleeping"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'sleep' is 'slept'."
+    },
+    {
+        "question": "go \u2192 ( ? )",
+        "options": [
+            "gos",
+            "goed",
+            "go",
+            "went"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'go' is 'went'."
+    },
+    {
+        "question": "went \u2192 ( ? )",
+        "options": [
+            "wents",
+            "wenting",
+            "go",
+            "went"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'went' is 'go'."
+    },
+    {
+        "question": "I ( drink ) water. \u2192 ( ? )",
+        "options": [
+            "drink",
+            "drank",
+            "drinks",
+            "drinked"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'drink' is 'drank'."
+    },
+    {
+        "question": "come \u2192 ( ? )",
+        "options": [
+            "comed",
+            "come",
+            "comes",
+            "came"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'come' is 'came'."
+    },
+    {
+        "question": "came \u2192 ( ? )",
+        "options": [
+            "cames",
+            "came",
+            "come",
+            "cameing"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'came' is 'come'."
+    },
+    {
+        "question": "You ( drink ) tea. \u2192 ( ? )",
+        "options": [
+            "drink",
+            "drank",
+            "drinked",
+            "drinks"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'drink' is 'drank'."
+    },
+    {
+        "question": "see \u2192 ( ? )",
+        "options": [
+            "saw",
+            "see",
+            "seing",
+            "sees"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'see' is 'saw'."
+    },
+    {
+        "question": "saw \u2192 ( ? )",
+        "options": [
+            "saw",
+            "sawing",
+            "saws",
+            "see"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'saw' is 'see'."
+    },
+    {
+        "question": "He ( drink ) milk. \u2192 ( ? )",
+        "options": [
+            "drinked",
+            "drinks",
+            "drink",
+            "drank"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'drink' is 'drank'."
+    },
+    {
+        "question": "have \u2192 ( ? )",
+        "options": [
+            "had",
+            "having",
+            "haves",
+            "have"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'have' is 'had'."
+    },
+    {
+        "question": "had \u2192 ( ? )",
+        "options": [
+            "hads",
+            "have",
+            "hading",
+            "had"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'had' is 'have'."
+    },
+    {
+        "question": "She ( drink ) juice. \u2192 ( ? )",
+        "options": [
+            "drank",
+            "drink",
+            "drinks",
+            "drinked"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'drink' is 'drank'."
+    },
+    {
+        "question": "eat \u2192 ( ? )",
+        "options": [
+            "ate",
+            "eated",
+            "eat",
+            "eating"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'eat' is 'ate'."
+    },
+    {
+        "question": "ate \u2192 ( ? )",
+        "options": [
+            "ates",
+            "ate",
+            "ateing",
+            "eat"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'ate' is 'eat'."
+    },
+    {
+        "question": "I ( find ) my key. \u2192 ( ? )",
+        "options": [
+            "found",
+            "find",
+            "finding",
+            "finded"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'find' is 'found'."
+    },
+    {
+        "question": "get \u2192 ( ? )",
+        "options": [
+            "got",
+            "geting",
+            "geted",
+            "gets"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'get' is 'got'."
+    },
+    {
+        "question": "got \u2192 ( ? )",
+        "options": [
+            "gots",
+            "get",
+            "got",
+            "goting"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'got' is 'get'."
+    },
+    {
+        "question": "You ( find ) the place. \u2192 ( ? )",
+        "options": [
+            "finded",
+            "find",
+            "finding",
+            "found"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'find' is 'found'."
+    },
+    {
+        "question": "take \u2192 ( ? )",
+        "options": [
+            "taked",
+            "takes",
+            "taking",
+            "took"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'take' is 'took'."
+    },
+    {
+        "question": "took \u2192 ( ? )",
+        "options": [
+            "tooks",
+            "tooking",
+            "took",
+            "take"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'took' is 'take'."
+    },
+    {
+        "question": "We ( win ) the game. \u2192 ( ? )",
+        "options": [
+            "wining",
+            "wined",
+            "wins",
+            "won"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'win' is 'won'."
+    },
+    {
+        "question": "make \u2192 ( ? )",
+        "options": [
+            "makes",
+            "made",
+            "making",
+            "make"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'make' is 'made'."
+    },
+    {
+        "question": "made \u2192 ( ? )",
+        "options": [
+            "mades",
+            "make",
+            "madeing",
+            "made"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'made' is 'make'."
+    },
+    {
+        "question": "They ( lose ) the game. \u2192 ( ? )",
+        "options": [
+            "losing",
+            "loses",
+            "lost",
+            "lose"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'lose' is 'lost'."
+    },
+    {
+        "question": "say \u2192 ( ? )",
+        "options": [
+            "said",
+            "sayed",
+            "say",
+            "saying"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'say' is 'said'."
+    },
+    {
+        "question": "said \u2192 ( ? )",
+        "options": [
+            "said",
+            "saiding",
+            "say",
+            "saids"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'said' is 'say'."
+    },
+    {
+        "question": "I ( catch ) the ball. \u2192 ( ? )",
+        "options": [
+            "catchs",
+            "catching",
+            "caught",
+            "catched"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'catch' is 'caught'."
+    },
+    {
+        "question": "do \u2192 ( ? )",
+        "options": [
+            "doed",
+            "do",
+            "doing",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'do' is 'did'."
+    },
+    {
+        "question": "did \u2192 ( ? )",
+        "options": [
+            "dids",
+            "did",
+            "do",
+            "diding"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'did' is 'do'."
+    },
+    {
+        "question": "He ( catch ) a cold. \u2192 ( ? )",
+        "options": [
+            "catchs",
+            "catched",
+            "catching",
+            "caught"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'catch' is 'caught'."
+    },
+    {
+        "question": "buy \u2192 ( ? )",
+        "options": [
+            "bought",
+            "buy",
+            "buys",
+            "buyed"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'buy' is 'bought'."
+    },
+    {
+        "question": "bought \u2192 ( ? )",
+        "options": [
+            "bought",
+            "boughts",
+            "buy",
+            "boughting"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'bought' is 'buy'."
+    },
+    {
+        "question": "I ( teach ) English. \u2192 ( ? )",
+        "options": [
+            "teach",
+            "teaching",
+            "taught",
+            "teachs"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'teach' is 'taught'."
+    },
+    {
+        "question": "read \u2192 ( ? )",
+        "options": [
+            "readed",
+            "reads",
+            "read",
+            "reading"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'read' is 'read'."
+    },
+    {
+        "question": "read \u2192 ( ? )",
+        "options": [
+            "readed",
+            "reading",
+            "reads",
+            "read"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'read' is 'read'."
+    },
+    {
+        "question": "He ( teach ) math. \u2192 ( ? )",
+        "options": [
+            "teach",
+            "taught",
+            "teaching",
+            "teachs"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'teach' is 'taught'."
+    },
+    {
+        "question": "run \u2192 ( ? )",
+        "options": [
+            "ran",
+            "run",
+            "runs",
+            "runing"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'run' is 'ran'."
+    },
+    {
+        "question": "ran \u2192 ( ? )",
+        "options": [
+            "run",
+            "raning",
+            "rans",
+            "ran"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'ran' is 'run'."
+    },
+    {
+        "question": "I ( leave ) home at 7. \u2192 ( ? )",
+        "options": [
+            "leaved",
+            "left",
+            "leaves",
+            "leaving"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'leave' is 'left'."
+    },
+    {
+        "question": "write \u2192 ( ? )",
+        "options": [
+            "writes",
+            "wrote",
+            "writing",
+            "write"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'write' is 'wrote'."
+    },
+    {
+        "question": "wrote \u2192 ( ? )",
+        "options": [
+            "wrotes",
+            "write",
+            "wroteing",
+            "wrote"
+        ],
+        "answer": 1,
+        "hint": "The original form of 'wrote' is 'write'."
+    },
+    {
+        "question": "He ( leave ) his bag. \u2192 ( ? )",
+        "options": [
+            "leaved",
+            "leaves",
+            "leaving",
+            "left"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'leave' is 'left'."
+    },
+    {
+        "question": "speak \u2192 ( ? )",
+        "options": [
+            "speaks",
+            "spoke",
+            "speaking",
+            "speak"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'speak' is 'spoke'."
+    },
+    {
+        "question": "spoke \u2192 ( ? )",
+        "options": [
+            "spokeing",
+            "spoke",
+            "spokes",
+            "speak"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'spoke' is 'speak'."
+    },
+    {
+        "question": "I ( think ) so. \u2192 ( ? )",
+        "options": [
+            "think",
+            "thought",
+            "thinked",
+            "thinks"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'think' is 'thought'."
+    },
+    {
+        "question": "know \u2192 ( ? )",
+        "options": [
+            "knowing",
+            "knowed",
+            "know",
+            "knew"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'know' is 'knew'."
+    },
+    {
+        "question": "knew \u2192 ( ? )",
+        "options": [
+            "know",
+            "knews",
+            "knewing",
+            "knew"
+        ],
+        "answer": 0,
+        "hint": "The original form of 'knew' is 'know'."
+    },
+    {
+        "question": "She ( think ) about it. \u2192 ( ? )",
+        "options": [
+            "think",
+            "thinked",
+            "thinks",
+            "thought"
+        ],
+        "answer": 3,
+        "hint": "The past tense of 'think' is 'thought'."
+    },
+    {
+        "question": "give \u2192 ( ? )",
+        "options": [
+            "giving",
+            "gave",
+            "give",
+            "gived"
+        ],
+        "answer": 1,
+        "hint": "The past tense of 'give' is 'gave'."
+    },
+    {
+        "question": "gave \u2192 ( ? )",
+        "options": [
+            "gaves",
+            "gaveing",
+            "give",
+            "gave"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'gave' is 'give'."
+    },
+    {
+        "question": "I ( tell ) him. \u2192 ( ? )",
+        "options": [
+            "told",
+            "telling",
+            "telled",
+            "tell"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'tell' is 'told'."
+    },
+    {
+        "question": "is / am \u2192 ( ? )",
+        "options": [
+            "iss",
+            "ised",
+            "was",
+            "is"
+        ],
+        "answer": 2,
+        "hint": "The past tense of 'is / am' is 'was'."
+    },
+    {
+        "question": "was \u2192 ( ? )",
+        "options": [
+            "was",
+            "wasing",
+            "wass",
+            "is / am"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'was' is 'is / am'."
+    },
+    {
+        "question": "Please ( tell ) me. \u2192 ( ? )",
+        "options": [
+            "tell",
+            "told",
+            "tells",
+            "telled"
+        ],
+        "answer": 0,
+        "hint": "In this sentence pattern, we use the original form 'tell'."
+    },
+    {
+        "question": "are \u2192 ( ? )",
+        "options": [
+            "were",
+            "ares",
+            "ared",
+            "aring"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'are' is 'were'."
+    },
+    {
+        "question": "were \u2192 ( ? )",
+        "options": [
+            "were",
+            "wereing",
+            "are",
+            "weres"
+        ],
+        "answer": 2,
+        "hint": "The original form of 'were' is 'are'."
+    },
+    {
+        "question": "Let's ( go )! \u2192 ( ? )",
+        "options": [
+            "goed",
+            "going",
+            "went",
+            "go"
+        ],
+        "answer": 3,
+        "hint": "In this sentence pattern, we use the original form 'go'."
+    },
+    {
+        "question": "cut \u2192 ( ? )",
+        "options": [
+            "cut",
+            "cuts",
+            "cuting",
+            "cuted"
+        ],
+        "answer": 0,
+        "hint": "The past tense of 'cut' is 'cut'."
+    },
+    {
+        "question": "cut \u2192 ( ? )",
+        "options": [
+            "cuted",
+            "cuting",
+            "cuts",
+            "cut"
+        ],
+        "answer": 3,
+        "hint": "The original form of 'cut' is 'cut'."
+    },
+    {
+        "question": "Did you ( go )? \u2192 ( ? )",
+        "options": [
+            "go",
+            "goed",
+            "went",
+            "going"
+        ],
+        "answer": 0,
+        "hint": "In this sentence pattern, we use the original form 'go'."
+    }
+]
