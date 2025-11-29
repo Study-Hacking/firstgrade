@@ -46,6 +46,8 @@ class QuizGame {
             optionsList: document.getElementById('options-list'),
             hintToggle: document.getElementById('hint-toggle'),
             hintContent: document.getElementById('hint-content'),
+            // Next Button Container
+            nextBtnContainer: document.getElementById('next-btn-container'),
             nextBtn: document.getElementById('next-btn'),
             // Results Screen DOM
             resultsScreen: document.getElementById('results-screen'),
@@ -64,8 +66,13 @@ class QuizGame {
         document.title = `${this.data.title} - Study Hacker`;
 
         // Bind Events
-        this.dom.nextBtn.addEventListener('click', () => this.nextQuestion());
         this.dom.hintToggle.addEventListener('click', () => this.toggleHint());
+        this.dom.nextBtn.addEventListener('click', () => this.nextQuestion());
+        // Removed modalNextBtn event listener as modal is no longer used for explanations
+        // this.dom.modalNextBtn.addEventListener('click', () => {
+        //     this.dom.modal.classList.add('hidden');
+        //     this.nextQuestion();
+        // });
 
         // Result Events
         this.dom.retryMistakesBtn.addEventListener('click', () => this.retryMistakes());
@@ -91,19 +98,28 @@ class QuizGame {
         this.dom.hintContent.classList.add('hidden');
         this.dom.hintToggle.textContent = 'Show hint ⌄';
 
+        // Hide Next Button
+        this.dom.nextBtnContainer.classList.add('hidden');
+
         // Generate Options
         this.dom.optionsList.innerHTML = '';
         q.options.forEach((opt, index) => {
             const btn = document.createElement('button');
             btn.className = 'option-btn';
-            btn.innerHTML = `<span class="opt-label">${String.fromCharCode(65 + index)}.</span> ${opt}`;
+            // Structure for inline feedback
+            btn.innerHTML = `
+                <div class="option-header">
+                    <span class="opt-label">${String.fromCharCode(65 + index)}.</span>
+                    <span class="opt-text">${opt}</span>
+                </div>
+                <div class="feedback-content"></div>
+            `;
             btn.onclick = () => this.checkAnswer(index, btn);
             this.dom.optionsList.appendChild(btn);
         });
 
         // Reset State
         this.hasAnswered = false;
-        this.dom.nextBtn.disabled = true;
         this.updateProgressBar();
     }
 
@@ -116,19 +132,50 @@ class QuizGame {
         const options = this.dom.optionsList.querySelectorAll('.option-btn');
 
         if (isCorrect) {
+            // Correct Case
             btnElement.classList.add('correct');
+            const feedback = btnElement.querySelector('.feedback-content');
+            feedback.innerHTML = `
+                <span class="status-label">正解</span>
+                ${q.hint}
+            `;
+
             this.correctCount++;
+            this.updateStats();
+
+            // Auto-advance after short delay
+            setTimeout(() => {
+                this.nextQuestion();
+            }, 1500); // Slightly longer to read "Correct"
         } else {
+            // Incorrect Case
             btnElement.classList.add('incorrect');
-            options[q.answer].classList.add('correct');
+            const incorrectFeedback = btnElement.querySelector('.feedback-content');
+            incorrectFeedback.innerHTML = `
+                <span class="status-label">不正解</span>
+                Don't worry, check the correct answer!
+            `;
+
+            // Highlight Correct Answer
+            const correctBtn = options[q.answer];
+            correctBtn.classList.add('correct');
+            const correctFeedback = correctBtn.querySelector('.feedback-content');
+            correctFeedback.innerHTML = `
+                <span class="status-label">正解</span>
+                ${q.hint}
+            `;
+
             this.incorrectCount++;
             // Track mistake
             this.incorrectQuestions.push(q);
-        }
+            this.updateStats();
 
-        this.updateStats();
-        this.dom.nextBtn.disabled = false;
+            // Show Next Button for manual advance
+            this.dom.nextBtnContainer.classList.remove('hidden');
+        }
     }
+
+    // Removed showExplanationModal as explanations are now inline
 
     nextQuestion() {
         this.currentIndex++;
