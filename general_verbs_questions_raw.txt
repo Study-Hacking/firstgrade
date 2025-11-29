@@ -1,0 +1,102 @@
+No.	Q. look or looks	No.	Q. look or looks	No.	Q. ( ) look/looks ( ) adj1
+1	You (          ) happy.	35	That bike (          ) new.	68	彼は忙しそうです。→ He (          ) (          ).
+2	I (          ) sad.	36	Those bikes (          ) old.	69	彼女は暇そうです。→ She (          ) (          ).
+3	He (          ) busy.	37	The flower (          ) nice.	70	それは面白そうです。→ It (          ) (          ).
+4	She (          ) tired.	38	The flowers (          ) nice.	71	ケンは眠そうです。→ Ken (          ) (          ).
+5	It (          ) good.	39	Everyone (          ) busy.	72	エミは悲しそうです。→ Emi (          ) (          ).
+6	We (          ) sleepy.	40	Nobody (          ) tired.	73	その犬は大きそうです。→ The dog (          ) (          ).
+7	They (          ) angry.	41	My mother (          ) young.	74	その猫は小さそうです。→ The cat (          ) (          ).
+8	Ken (          ) hungry.	42	My parents (          ) kind.	75	この本は良さそうです。→ This book (          ) (          ).
+9	Emi (          ) thirsty.	43	Your face (          ) red.	76	あの本は難しそうです。→ That book (          ) (          ).
+10	The dog (          ) cute.	44	His eyes (          ) blue.	77	あなたは疲れて見えます。→ You (          ) (          ).
+11	The cats (          ) small.	45	The sky (          ) dark.	78	私は変に見えますか？→ Do I (          ) (          )?
+12	You (          ) fine.	46	The rain (          ) cold.	79	彼は親切そうです。→ He (          ) (          ).
+13	He (          ) sick.	47	The movie (          ) fun.	80	先生は厳しそうです。→ The teacher (          ) (          ).
+14	She (          ) excited.	48	The game (          ) long.	81	そのケーキは甘そうです。→ The cake (          ) (          ).
+15	It (          ) delicious.	49	This pen (          ) useful.	82	そのカレーは辛そうです。→ The curry (          ) (          ).
+16	The teacher (          ) scary.	50	These pens (          ) good.	83	彼は若く見えます。→ He (          ) (          ).
+17	My friend (          ) kind.	51	You (          ) ( happy ).	84	彼女は年寄りに見えます。→ She (          ) (          ).
+18	My friends (          ) cool.	52	He (          ) ( sad ).	85	皆、楽しそうです。→ Everyone (          ) (          ).
+19	This book (          ) hard.	53	She (          ) ( busy ).	86	あの男の人は強そうです。→ That man (          ) (          ).
+20	That car (          ) fast.	54	It (          ) ( nice ).	87	あの少年は弱そうです。→ That boy (          ) (          ).
+21	You and I (          ) busy.	55	They (          ) ( tired ).	88	あなたの車は速そうです。→ Your car (          ) (          ).
+22	Ken and Tom (          ) strong.	56	We (          ) ( fine ).	89	彼の自転車は高そうです。→ His bike (          ) (          ).
+23	Your father (          ) tall.	57	Ken (          ) ( hungry ).	90	そのテストは簡単そうです。→ The test (          ) (          ).
+24	His sister (          ) pretty.	58	Emi (          ) ( sleepy ).	91	質問は難しそうです。→ The question (          ) (          ).
+25	The house (          ) big.	59	The dog (          ) ( cute ).	92	天気は良さそうです。→ The weather (          ) (          ).
+26	The rooms (          ) clean.	60	You (          ) ( angry ).	93	そのニュースは面白そうです。→ The news (          ) (          ).
+27	The question (          ) easy.	61	He (          ) ( sick ).	94	その話は本当そうです。→ The story (          ) (          ).
+28	The test (          ) difficult.	62	She (          ) ( excited ).	95	彼は元気じゃなさそうです。→ He doesn't (          ) (          ).
+29	This apple (          ) sweet.	63	It (          ) ( great ).	96	彼女は幸せじゃなさそうです。→ She doesn't (          ) (          ).
+30	Those apples (          ) sour.	64	That (          ) ( fun ).	97	それは良く見えません。→ It doesn't (          ) (          ).
+31	The man (          ) rich.	65	This (          ) ( new ).	98	私は変に見えますか？→ Do I (          ) strange?
+32	The woman (          ) famous.	66	You (          ) ( happy ).	99	彼はどう見えますか？→ How does he (          )?
+33	The boy (          ) smart.	67	あなたは幸せそうです。→ You (          ) (          ).	100	それはどう見えますか？→ How does it (          )?
+101	You played. → (          ) you play?	135	Did you ( played )? → (          )	168	Did you play? (Yes) → Yes, I (          ).
+102	You watched. → (          ) you watch?	136	Did he ( watched )? → (          )	169	Did you play? (No) → No, I (          ).
+103	You cooked. → (          ) you cook?	137	Did she ( cooked )? → (          )	170	Did he go? (Yes) → Yes, he (          ).
+104	You studied. → (          ) you study?	138	Did they ( studied )? → (          )	171	Did he go? (No) → No, he (          ).
+105	You went. → (          ) you go?	139	Did Ken ( went )? → (          )	172	Did she eat? (Yes) → Yes, she (          ).
+106	You came. → (          ) you come?	140	Did you ( came )? → (          )	173	Did she eat? (No) → No, she (          ).
+107	You had. → (          ) you have?	141	Did he ( had )? → (          )	174	Did they run? (Yes) → Yes, they (          ).
+108	You ate. → (          ) you eat?	142	Did she ( ate )? → (          )	175	Did they run? (No) → No, they (          ).
+109	You saw. → (          ) you see?	143	Did it ( rained )? → (          )	176	Did Ken study? (Yes) → Yes, he (          ).
+110	You bought. → (          ) you buy?	144	Did you ( saw )? → (          )	177	Did Emi cook? (Yes) → Yes, she (          ).
+111	He played. → (          ) he play?	145	Did he ( bought )? → (          )	178	Did the dog run? (Yes) → Yes, it (          ).
+112	She washed. → (          ) she wash?	146	Did she ( wrote )? → (          )	179	Did you watch TV? (Yes) → Yes, I (          ).
+113	They ran. → (          ) they run?	147	Did they ( ran )? → (          )	180	Did you study? (No) → No, I (          ).
+114	Ken read. → (          ) Ken read?	148	Did you ( spoke )? → (          )	181	Did he play soccer? (Yes) → Yes, he (          ).
+115	Emi wrote. → (          ) Emi write?	149	Did he ( knew )? → (          )	182	Did she play tennis? (No) → No, she (          ).
+116	It rained. → (          ) it rain?	150	Did she ( made )? → (          )	183	Did it rain? (Yes) → Yes, it (          ).
+117	We used. → (          ) we use?	151	Did you ( took )? → (          )	184	Did you help him? (Yes) → Yes, I (          ).
+118	The dog ran. → (          ) the dog run?	152	Did he ( got )? → (          )	185	Did he help you? (No) → No, he (          ).
+119	You liked. → (          ) you like?	153	Did she ( used )? → (          )	186	Did they come? (Yes) → Yes, they (          ).
+120	He lived. → (          ) he live?	154	Did they ( lived )? → (          )	187	Did you see it? (No) → No, I (          ).
+121	She wanted. → (          ) she want?	155	Did Ken ( liked )? → (          )	188	Did he buy it? (Yes) → Yes, he (          ).
+122	They helped. → (          ) they help?	156	Did Emi ( wanted )? → (          )	189	Did she read it? (No) → No, she (          ).
+123	You listened. → (          ) you listen?	157	Did it ( stopped )? → (          )	190	Did you know that? (Yes) → Yes, I (          ).
+124	He cleaned. → (          ) he clean?	158	Did you ( tried )? → (          )	191	Did you go to school? (Yes) → (          )
+125	She enjoyed. → (          ) she enjoy?	159	Did he ( studied )? → (          )	192	Did you eat lunch? (No) → (          )
+126	You visited. → (          ) you visit?	160	Did she ( cried )? → (          )	193	Did he watch TV? (Yes) → (          )
+127	They walked. → (          ) they walk?	161	Did they ( carried )? → (          )	194	Did she cook dinner? (No) → (          )
+128	Ken stopped. → (          ) Ken stop?	162	Did you ( left )? → (          )	195	Did they play baseball? (Yes) → (          )
+129	Emi tried. → (          ) Emi try?	163	Did he ( met )? → (          )	196	Did it snow? (No) → (          )
+130	You met. → (          ) you meet?	164	Did she ( sang )? → (          )	197	Did Ken come? (Yes) → (          )
+131	He sang. → (          ) he sing?	165	Did it ( began )? → (          )	198	Did Emi go? (No) → (          )
+132	She swam. → (          ) she swim?	166	Did you ( drank )? → (          )	199	Did you finish? (Yes) → (          )
+133	They drank. → (          ) they drink?	167	Did he ( slept )? → (          )	200	Did you enjoy? (No) → (          )
+134	You got. → (          ) you get?
+201	何をしましたか？→ What (          ) you do?	235	( did / what / eat / you )? → (          )	268	(          ) you busy yesterday?
+202	何を見ましたか？→ What (          ) you see?	236	( go / where / you / did )? → (          )	269	(          ) you play soccer yesterday?
+203	何を食べましたか？→ What (          ) you eat?	237	( study / did / you / English )? → (          )	270	(          ) you happy?
+204	何を買いましたか？→ What (          ) you buy?	238	( play / did / he / tennis )? → (          )	271	(          ) you watch TV?
+205	何を作りましたか？→ What (          ) you make?	239	( she / did / cook / dinner )? → (          )	272	(          ) he a teacher?
+206	何を読みましたか？→ What (          ) you read?	240	( they / did / come / here )? → (          )	273	(          ) he go to school?
+207	彼は何をしましたか？→ What (          ) he do?	241	( you / did / what / buy )? → (          )	274	(          ) she sad?
+208	彼女は何をしましたか？→ What (          ) she do?	242	( he / did / what / make )? → (          )	275	(          ) she cry?
+209	彼らは何をしましたか？→ What (          ) they do?	243	( did / when / you / go )? → (          )	276	(          ) they students?
+210	ケンは何をしましたか？→ What (          ) Ken do?	244	( did / where / he / live )? → (          )	277	(          ) they study?
+211	どこに行きましたか？→ Where (          ) you go?	245	( do / what / you / did )? → (          )	278	(          ) it cold?
+212	どこで見ましたか？→ Where (          ) you see?	246	( see / who / you / did )? → (          )	279	(          ) it rain?
+213	どこで買いましたか？→ Where (          ) you buy?	247	( did / you / enjoy / it )? → (          )	280	(          ) you tired?
+214	どこで会いましたか？→ Where (          ) you meet?	248	( did / not / I / go ). → (          )	281	(          ) you run?
+215	彼はどこへ行きましたか？→ Where (          ) he go?	249	( did / not / he / eat ). → (          )	282	What (          ) you do?
+216	彼女はどこに住んでいましたか？→ Where (          ) she live?	250	( did / not / she / know ). → (          )	283	Where (          ) you?
+217	いつ行きましたか？→ When (          ) you go?	251	Did you ( went )? → (          )	284	Where (          ) you go?
+218	いつ来ましたか？→ When (          ) you come?	252	Did he ( came )? → (          )	285	What (          ) that?
+219	いつ食べましたか？→ When (          ) you eat?	253	Did she ( plays )? → (          )	286	What (          ) you eat?
+220	いつ寝ましたか？→ When (          ) you sleep?	254	Did it ( rains )? → (          )	287	Who (          ) he?
+221	誰を見ましたか？→ Who (          ) you see?	255	Did you ( watched )? → (          )	288	Who (          ) you meet?
+222	誰に会いましたか？→ Who (          ) you meet?	256	Did they ( runs )? → (          )	289	How (          ) the weather?
+223	どのように行きましたか？→ How (          ) you go?	257	Did Ken ( studied )? → (          )	290	How (          ) you go?
+224	どうやって作りましたか？→ How (          ) you make?	258	Did Emi ( cooked )? → (          )	291	(          ) he happy?
+225	何時でしたか？→ What time (          ) it?	259	Did you ( were ) busy? → (          )	292	(          ) he look happy?
+226	何時に起きましたか？→ What time (          ) you get up?	260	Did you ( was ) sad? → (          )	293	(          ) she busy?
+227	何時に寝ましたか？→ What time (          ) you sleep?	261	( Do ) you go yesterday? → (          )	294	(          ) she look busy?
+228	どちらを買いましたか？→ Which (          ) you buy?	262	( Do ) he come yesterday? → (          )	295	(          ) they kind?
+229	どちらを食べましたか？→ Which (          ) you eat?	263	( Does ) she eat yesterday? → (          )	296	(          ) they look kind?
+230	なぜ行きましたか？→ Why (          ) you go?	264	( Are ) you play yesterday? → (          )	297	(          ) it nice?
+231	なぜ泣きましたか？→ Why (          ) you cry?	265	( Is ) he go yesterday? → (          )	298	(          ) it look nice?
+232	あなたは何をしましたか？→ What (          ) you do?	266	( Were ) you play tennis? → (          )	299	That (          ) interesting.
+233	あなたはどこにいましたか？→ Where (          ) you? (※be動詞)	267	( Was ) he eat lunch? → (          )	300	That (          ) interesting.
+234	彼は誰でしたか？→ Who (          ) he? (※be動詞)

@@ -10135,3 +10135,3299 @@ quizData.english_past_progressive = {
     }
 ]
 };
+
+
+quizData.english_general_verbs_questions = {
+    title: "一般動詞の疑問文 & look",
+    questions: [
+    {
+        "question": "You ( ? ) happy.",
+        "options": [
+            "looks",
+            "looking",
+            "looked",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'You' -> look"
+    },
+    {
+        "question": "That bike ( ? ) new.",
+        "options": [
+            "look",
+            "looks",
+            "looking",
+            "looked"
+        ],
+        "answer": 1,
+        "hint": "Subject 'That bike' -> looks"
+    },
+    {
+        "question": "\u5f7c\u306f\u5fd9\u3057\u305d\u3046\u3067\u3059\u3002\u2192 He ( ? ).",
+        "options": [
+            "are happy",
+            "look happy",
+            "is happy",
+            "looks happy"
+        ],
+        "answer": 3,
+        "hint": "Subject 'He' -> looks"
+    },
+    {
+        "question": "I ( ? ) sad.",
+        "options": [
+            "looks",
+            "look",
+            "looked",
+            "looking"
+        ],
+        "answer": 1,
+        "hint": "Subject 'I' -> look"
+    },
+    {
+        "question": "Those bikes ( ? ) old.",
+        "options": [
+            "looks",
+            "looking",
+            "looked",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'Those bikes' -> look"
+    },
+    {
+        "question": "\u5f7c\u5973\u306f\u6687\u305d\u3046\u3067\u3059\u3002\u2192 She ( ? ).",
+        "options": [
+            "look happy",
+            "looks happy",
+            "is happy",
+            "are happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'She' -> looks"
+    },
+    {
+        "question": "He ( ? ) busy.",
+        "options": [
+            "looked",
+            "look",
+            "looks",
+            "looking"
+        ],
+        "answer": 2,
+        "hint": "Subject 'He' -> looks"
+    },
+    {
+        "question": "The flower ( ? ) nice.",
+        "options": [
+            "look",
+            "looking",
+            "looked",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'The flower' -> looks"
+    },
+    {
+        "question": "\u305d\u308c\u306f\u9762\u767d\u305d\u3046\u3067\u3059\u3002\u2192 It ( ? ).",
+        "options": [
+            "are happy",
+            "look happy",
+            "is happy",
+            "looks happy"
+        ],
+        "answer": 3,
+        "hint": "Subject 'It' -> looks"
+    },
+    {
+        "question": "She ( ? ) tired.",
+        "options": [
+            "looks",
+            "looking",
+            "look",
+            "looked"
+        ],
+        "answer": 0,
+        "hint": "Subject 'She' -> looks"
+    },
+    {
+        "question": "The flowers ( ? ) nice.",
+        "options": [
+            "looked",
+            "looking",
+            "look",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'The flowers' -> looks"
+    },
+    {
+        "question": "\u30b1\u30f3\u306f\u7720\u305d\u3046\u3067\u3059\u3002\u2192 Ken ( ? ).",
+        "options": [
+            "is happy",
+            "look happy",
+            "are happy",
+            "looks happy"
+        ],
+        "answer": 3,
+        "hint": "Subject 'Ken' -> looks"
+    },
+    {
+        "question": "It ( ? ) good.",
+        "options": [
+            "looked",
+            "looking",
+            "look",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'It' -> looks"
+    },
+    {
+        "question": "Everyone ( ? ) busy.",
+        "options": [
+            "looking",
+            "looks",
+            "looked",
+            "look"
+        ],
+        "answer": 1,
+        "hint": "Subject 'Everyone' -> looks"
+    },
+    {
+        "question": "\u30a8\u30df\u306f\u60b2\u3057\u305d\u3046\u3067\u3059\u3002\u2192 Emi ( ? ).",
+        "options": [
+            "look happy",
+            "looks happy",
+            "is happy",
+            "are happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'Emi' -> looks"
+    },
+    {
+        "question": "We ( ? ) sleepy.",
+        "options": [
+            "looked",
+            "looking",
+            "looks",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'We' -> look"
+    },
+    {
+        "question": "Nobody ( ? ) tired.",
+        "options": [
+            "looking",
+            "look",
+            "looks",
+            "looked"
+        ],
+        "answer": 2,
+        "hint": "Subject 'Nobody' -> looks"
+    },
+    {
+        "question": "\u305d\u306e\u72ac\u306f\u5927\u304d\u305d\u3046\u3067\u3059\u3002\u2192 The dog ( ? ).",
+        "options": [
+            "are happy",
+            "looks happy",
+            "is happy",
+            "look happy"
+        ],
+        "answer": 3,
+        "hint": "Subject 'dog' -> look"
+    },
+    {
+        "question": "They ( ? ) angry.",
+        "options": [
+            "looking",
+            "look",
+            "looked",
+            "looks"
+        ],
+        "answer": 1,
+        "hint": "Subject 'They' -> look"
+    },
+    {
+        "question": "My mother ( ? ) young.",
+        "options": [
+            "looked",
+            "looking",
+            "looks",
+            "look"
+        ],
+        "answer": 2,
+        "hint": "Subject 'My mother' -> looks"
+    },
+    {
+        "question": "\u305d\u306e\u732b\u306f\u5c0f\u3055\u305d\u3046\u3067\u3059\u3002\u2192 The cat ( ? ).",
+        "options": [
+            "looks happy",
+            "look happy",
+            "are happy",
+            "is happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 'cat' -> looks"
+    },
+    {
+        "question": "Ken ( ? ) hungry.",
+        "options": [
+            "looked",
+            "looks",
+            "look",
+            "looking"
+        ],
+        "answer": 1,
+        "hint": "Subject 'Ken' -> looks"
+    },
+    {
+        "question": "My parents ( ? ) kind.",
+        "options": [
+            "look",
+            "looks",
+            "looking",
+            "looked"
+        ],
+        "answer": 1,
+        "hint": "Subject 'My parents' -> looks"
+    },
+    {
+        "question": "\u3053\u306e\u672c\u306f\u826f\u3055\u305d\u3046\u3067\u3059\u3002\u2192 This book ( ? ).",
+        "options": [
+            "is happy",
+            "looks happy",
+            "are happy",
+            "look happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'book' -> looks"
+    },
+    {
+        "question": "Emi ( ? ) thirsty.",
+        "options": [
+            "looking",
+            "look",
+            "looked",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'Emi' -> looks"
+    },
+    {
+        "question": "Your face ( ? ) red.",
+        "options": [
+            "looking",
+            "look",
+            "looks",
+            "looked"
+        ],
+        "answer": 2,
+        "hint": "Subject 'Your face' -> looks"
+    },
+    {
+        "question": "\u3042\u306e\u672c\u306f\u96e3\u3057\u305d\u3046\u3067\u3059\u3002\u2192 That book ( ? ).",
+        "options": [
+            "looks happy",
+            "look happy",
+            "is happy",
+            "are happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 'book' -> looks"
+    },
+    {
+        "question": "The dog ( ? ) cute.",
+        "options": [
+            "looked",
+            "looks",
+            "look",
+            "looking"
+        ],
+        "answer": 1,
+        "hint": "Subject 'The dog' -> looks"
+    },
+    {
+        "question": "His eyes ( ? ) blue.",
+        "options": [
+            "look",
+            "looked",
+            "looking",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'His eyes' -> looks"
+    },
+    {
+        "question": "\u3042\u306a\u305f\u306f\u75b2\u308c\u3066\u898b\u3048\u307e\u3059\u3002\u2192 You ( ? ).",
+        "options": [
+            "are happy",
+            "is happy",
+            "looks happy",
+            "look happy"
+        ],
+        "answer": 3,
+        "hint": "Subject 'You' -> look"
+    },
+    {
+        "question": "The cats ( ? ) small.",
+        "options": [
+            "looks",
+            "looking",
+            "looked",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'The cats' -> look"
+    },
+    {
+        "question": "The sky ( ? ) dark.",
+        "options": [
+            "looked",
+            "look",
+            "looking",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'The sky' -> looks"
+    },
+    {
+        "question": "\u79c1\u306f\u5909\u306b\u898b\u3048\u307e\u3059\u304b\uff1f\u2192 Do I ( ? )?",
+        "options": [
+            "looks happy",
+            "is happy",
+            "look happy",
+            "are happy"
+        ],
+        "answer": 2,
+        "hint": "Subject 'I' -> look"
+    },
+    {
+        "question": "You ( ? ) fine.",
+        "options": [
+            "looking",
+            "looked",
+            "looks",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'You' -> look"
+    },
+    {
+        "question": "The rain ( ? ) cold.",
+        "options": [
+            "looked",
+            "looking",
+            "look",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'The rain' -> looks"
+    },
+    {
+        "question": "\u5f7c\u306f\u89aa\u5207\u305d\u3046\u3067\u3059\u3002\u2192 He ( ? ).",
+        "options": [
+            "is happy",
+            "look happy",
+            "looks happy",
+            "are happy"
+        ],
+        "answer": 2,
+        "hint": "Subject 'He' -> looks"
+    },
+    {
+        "question": "He ( ? ) sick.",
+        "options": [
+            "looks",
+            "looking",
+            "looked",
+            "look"
+        ],
+        "answer": 0,
+        "hint": "Subject 'He' -> looks"
+    },
+    {
+        "question": "The movie ( ? ) fun.",
+        "options": [
+            "looking",
+            "looked",
+            "looks",
+            "look"
+        ],
+        "answer": 2,
+        "hint": "Subject 'The movie' -> looks"
+    },
+    {
+        "question": "\u5148\u751f\u306f\u53b3\u3057\u305d\u3046\u3067\u3059\u3002\u2192 The teacher ( ? ).",
+        "options": [
+            "are happy",
+            "look happy",
+            "looks happy",
+            "is happy"
+        ],
+        "answer": 2,
+        "hint": "Subject 'teacher' -> looks"
+    },
+    {
+        "question": "She ( ? ) excited.",
+        "options": [
+            "looking",
+            "looks",
+            "look",
+            "looked"
+        ],
+        "answer": 1,
+        "hint": "Subject 'She' -> looks"
+    },
+    {
+        "question": "The game ( ? ) long.",
+        "options": [
+            "looking",
+            "look",
+            "looked",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'The game' -> looks"
+    },
+    {
+        "question": "\u305d\u306e\u30b1\u30fc\u30ad\u306f\u7518\u305d\u3046\u3067\u3059\u3002\u2192 The cake ( ? ).",
+        "options": [
+            "looks happy",
+            "is happy",
+            "look happy",
+            "are happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 'cake' -> looks"
+    },
+    {
+        "question": "It ( ? ) delicious.",
+        "options": [
+            "looks",
+            "looked",
+            "looking",
+            "look"
+        ],
+        "answer": 0,
+        "hint": "Subject 'It' -> looks"
+    },
+    {
+        "question": "This pen ( ? ) useful.",
+        "options": [
+            "looked",
+            "look",
+            "looks",
+            "looking"
+        ],
+        "answer": 2,
+        "hint": "Subject 'This pen' -> looks"
+    },
+    {
+        "question": "\u305d\u306e\u30ab\u30ec\u30fc\u306f\u8f9b\u305d\u3046\u3067\u3059\u3002\u2192 The curry ( ? ).",
+        "options": [
+            "look happy",
+            "looks happy",
+            "is happy",
+            "are happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'curry' -> looks"
+    },
+    {
+        "question": "The teacher ( ? ) scary.",
+        "options": [
+            "looked",
+            "looks",
+            "looking",
+            "look"
+        ],
+        "answer": 1,
+        "hint": "Subject 'The teacher' -> looks"
+    },
+    {
+        "question": "These pens ( ? ) good.",
+        "options": [
+            "looks",
+            "looking",
+            "looked",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'These pens' -> look"
+    },
+    {
+        "question": "\u5f7c\u306f\u82e5\u304f\u898b\u3048\u307e\u3059\u3002\u2192 He ( ? ).",
+        "options": [
+            "look happy",
+            "is happy",
+            "looks happy",
+            "are happy"
+        ],
+        "answer": 2,
+        "hint": "Subject 'He' -> looks"
+    },
+    {
+        "question": "My friend ( ? ) kind.",
+        "options": [
+            "looking",
+            "looks",
+            "looked",
+            "look"
+        ],
+        "answer": 1,
+        "hint": "Subject 'My friend' -> looks"
+    },
+    {
+        "question": "You ( ? ) ( happy ).",
+        "options": [
+            "looked",
+            "looks",
+            "look",
+            "looking"
+        ],
+        "answer": 2,
+        "hint": "Subject 'You' -> look"
+    },
+    {
+        "question": "\u5f7c\u5973\u306f\u5e74\u5bc4\u308a\u306b\u898b\u3048\u307e\u3059\u3002\u2192 She ( ? ).",
+        "options": [
+            "looks happy",
+            "look happy",
+            "is happy",
+            "are happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 'She' -> looks"
+    },
+    {
+        "question": "My friends ( ? ) cool.",
+        "options": [
+            "look",
+            "looked",
+            "looks",
+            "looking"
+        ],
+        "answer": 0,
+        "hint": "Subject 'My friends' -> look"
+    },
+    {
+        "question": "He ( ? ) ( sad ).",
+        "options": [
+            "looks",
+            "looking",
+            "look",
+            "looked"
+        ],
+        "answer": 0,
+        "hint": "Subject 'He' -> looks"
+    },
+    {
+        "question": "\u7686\u3001\u697d\u3057\u305d\u3046\u3067\u3059\u3002\u2192 Everyone ( ? ).",
+        "options": [
+            "are happy",
+            "is happy",
+            "look happy",
+            "looks happy"
+        ],
+        "answer": 3,
+        "hint": "Subject 'Everyone' -> looks"
+    },
+    {
+        "question": "This book ( ? ) hard.",
+        "options": [
+            "look",
+            "looked",
+            "looking",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'This book' -> looks"
+    },
+    {
+        "question": "She ( ? ) ( busy ).",
+        "options": [
+            "looked",
+            "looks",
+            "look",
+            "looking"
+        ],
+        "answer": 1,
+        "hint": "Subject 'She' -> looks"
+    },
+    {
+        "question": "\u3042\u306e\u7537\u306e\u4eba\u306f\u5f37\u305d\u3046\u3067\u3059\u3002\u2192 That man ( ? ).",
+        "options": [
+            "are happy",
+            "looks happy",
+            "look happy",
+            "is happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'man' -> looks"
+    },
+    {
+        "question": "That car ( ? ) fast.",
+        "options": [
+            "looks",
+            "looking",
+            "looked",
+            "look"
+        ],
+        "answer": 0,
+        "hint": "Subject 'That car' -> looks"
+    },
+    {
+        "question": "It ( ? ) ( nice ).",
+        "options": [
+            "looked",
+            "looking",
+            "looks",
+            "look"
+        ],
+        "answer": 2,
+        "hint": "Subject 'It' -> looks"
+    },
+    {
+        "question": "\u3042\u306e\u5c11\u5e74\u306f\u5f31\u305d\u3046\u3067\u3059\u3002\u2192 That boy ( ? ).",
+        "options": [
+            "is happy",
+            "looks happy",
+            "are happy",
+            "look happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'boy' -> looks"
+    },
+    {
+        "question": "You and I ( ? ) busy.",
+        "options": [
+            "looks",
+            "looking",
+            "look",
+            "looked"
+        ],
+        "answer": 2,
+        "hint": "Subject 'You and I' -> look"
+    },
+    {
+        "question": "They ( ? ) ( tired ).",
+        "options": [
+            "looking",
+            "looks",
+            "looked",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'They' -> look"
+    },
+    {
+        "question": "\u3042\u306a\u305f\u306e\u8eca\u306f\u901f\u305d\u3046\u3067\u3059\u3002\u2192 Your car ( ? ).",
+        "options": [
+            "are happy",
+            "is happy",
+            "looks happy",
+            "look happy"
+        ],
+        "answer": 2,
+        "hint": "Subject 'car' -> looks"
+    },
+    {
+        "question": "Ken and Tom ( ? ) strong.",
+        "options": [
+            "looks",
+            "looked",
+            "looking",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'Ken and Tom' -> look"
+    },
+    {
+        "question": "We ( ? ) ( fine ).",
+        "options": [
+            "looks",
+            "looked",
+            "looking",
+            "look"
+        ],
+        "answer": 3,
+        "hint": "Subject 'We' -> look"
+    },
+    {
+        "question": "\u5f7c\u306e\u81ea\u8ee2\u8eca\u306f\u9ad8\u305d\u3046\u3067\u3059\u3002\u2192 His bike ( ? ).",
+        "options": [
+            "is happy",
+            "looks happy",
+            "are happy",
+            "look happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'bike' -> looks"
+    },
+    {
+        "question": "Your father ( ? ) tall.",
+        "options": [
+            "look",
+            "looks",
+            "looking",
+            "looked"
+        ],
+        "answer": 1,
+        "hint": "Subject 'Your father' -> looks"
+    },
+    {
+        "question": "Ken ( ? ) ( hungry ).",
+        "options": [
+            "looked",
+            "looking",
+            "look",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'Ken' -> looks"
+    },
+    {
+        "question": "\u305d\u306e\u30c6\u30b9\u30c8\u306f\u7c21\u5358\u305d\u3046\u3067\u3059\u3002\u2192 The test ( ? ).",
+        "options": [
+            "looks happy",
+            "is happy",
+            "are happy",
+            "look happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 'test' -> looks"
+    },
+    {
+        "question": "His sister ( ? ) pretty.",
+        "options": [
+            "looking",
+            "look",
+            "looks",
+            "looked"
+        ],
+        "answer": 2,
+        "hint": "Subject 'His sister' -> looks"
+    },
+    {
+        "question": "Emi ( ? ) ( sleepy ).",
+        "options": [
+            "looks",
+            "look",
+            "looking",
+            "looked"
+        ],
+        "answer": 0,
+        "hint": "Subject 'Emi' -> looks"
+    },
+    {
+        "question": "\u8cea\u554f\u306f\u96e3\u3057\u305d\u3046\u3067\u3059\u3002\u2192 The question ( ? ).",
+        "options": [
+            "looks happy",
+            "are happy",
+            "is happy",
+            "look happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 'question' -> looks"
+    },
+    {
+        "question": "The house ( ? ) big.",
+        "options": [
+            "looking",
+            "looks",
+            "look",
+            "looked"
+        ],
+        "answer": 1,
+        "hint": "Subject 'The house' -> looks"
+    },
+    {
+        "question": "The dog ( ? ) ( cute ).",
+        "options": [
+            "looked",
+            "look",
+            "looking",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'The dog' -> looks"
+    },
+    {
+        "question": "\u5929\u6c17\u306f\u826f\u3055\u305d\u3046\u3067\u3059\u3002\u2192 The weather ( ? ).",
+        "options": [
+            "look happy",
+            "is happy",
+            "looks happy",
+            "are happy"
+        ],
+        "answer": 2,
+        "hint": "Subject 'weather' -> looks"
+    },
+    {
+        "question": "The rooms ( ? ) clean.",
+        "options": [
+            "look",
+            "looking",
+            "looks",
+            "looked"
+        ],
+        "answer": 0,
+        "hint": "Subject 'The rooms' -> look"
+    },
+    {
+        "question": "You ( ? ) ( angry ).",
+        "options": [
+            "look",
+            "looked",
+            "looks",
+            "looking"
+        ],
+        "answer": 0,
+        "hint": "Subject 'You' -> look"
+    },
+    {
+        "question": "\u305d\u306e\u30cb\u30e5\u30fc\u30b9\u306f\u9762\u767d\u305d\u3046\u3067\u3059\u3002\u2192 The news ( ? ).",
+        "options": [
+            "is happy",
+            "look happy",
+            "are happy",
+            "looks happy"
+        ],
+        "answer": 3,
+        "hint": "Subject 'news' -> looks"
+    },
+    {
+        "question": "The question ( ? ) easy.",
+        "options": [
+            "look",
+            "looking",
+            "looks",
+            "looked"
+        ],
+        "answer": 2,
+        "hint": "Subject 'The question' -> looks"
+    },
+    {
+        "question": "He ( ? ) ( sick ).",
+        "options": [
+            "looking",
+            "look",
+            "looked",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'He' -> looks"
+    },
+    {
+        "question": "\u305d\u306e\u8a71\u306f\u672c\u5f53\u305d\u3046\u3067\u3059\u3002\u2192 The story ( ? ).",
+        "options": [
+            "looks happy",
+            "look happy",
+            "are happy",
+            "is happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 'story' -> looks"
+    },
+    {
+        "question": "The test ( ? ) difficult.",
+        "options": [
+            "look",
+            "looked",
+            "looks",
+            "looking"
+        ],
+        "answer": 2,
+        "hint": "Subject 'The test' -> looks"
+    },
+    {
+        "question": "She ( ? ) ( excited ).",
+        "options": [
+            "looked",
+            "look",
+            "looking",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'She' -> looks"
+    },
+    {
+        "question": "\u5f7c\u306f\u5143\u6c17\u3058\u3083\u306a\u3055\u305d\u3046\u3067\u3059\u3002\u2192 He doesn't ( ? ).",
+        "options": [
+            "look happy",
+            "looks happy",
+            "are happy",
+            "is happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 't' -> look"
+    },
+    {
+        "question": "This apple ( ? ) sweet.",
+        "options": [
+            "looked",
+            "looks",
+            "looking",
+            "look"
+        ],
+        "answer": 1,
+        "hint": "Subject 'This apple' -> looks"
+    },
+    {
+        "question": "It ( ? ) ( great ).",
+        "options": [
+            "looked",
+            "looks",
+            "looking",
+            "look"
+        ],
+        "answer": 1,
+        "hint": "Subject 'It' -> looks"
+    },
+    {
+        "question": "\u5f7c\u5973\u306f\u5e78\u305b\u3058\u3083\u306a\u3055\u305d\u3046\u3067\u3059\u3002\u2192 She doesn't ( ? ).",
+        "options": [
+            "looks happy",
+            "is happy",
+            "look happy",
+            "are happy"
+        ],
+        "answer": 2,
+        "hint": "Subject 't' -> look"
+    },
+    {
+        "question": "Those apples ( ? ) sour.",
+        "options": [
+            "looked",
+            "look",
+            "looking",
+            "looks"
+        ],
+        "answer": 1,
+        "hint": "Subject 'Those apples' -> look"
+    },
+    {
+        "question": "That ( ? ) ( fun ).",
+        "options": [
+            "look",
+            "looks",
+            "looking",
+            "looked"
+        ],
+        "answer": 1,
+        "hint": "Subject 'That' -> looks"
+    },
+    {
+        "question": "\u305d\u308c\u306f\u826f\u304f\u898b\u3048\u307e\u305b\u3093\u3002\u2192 It doesn't ( ? ).",
+        "options": [
+            "looks happy",
+            "look happy",
+            "are happy",
+            "is happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 't' -> look"
+    },
+    {
+        "question": "The man ( ? ) rich.",
+        "options": [
+            "look",
+            "looked",
+            "looking",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'The man' -> looks"
+    },
+    {
+        "question": "This ( ? ) ( new ).",
+        "options": [
+            "looking",
+            "looked",
+            "look",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'This' -> looks"
+    },
+    {
+        "question": "\u79c1\u306f\u5909\u306b\u898b\u3048\u307e\u3059\u304b\uff1f\u2192 Do I (          ) strange?",
+        "options": [
+            "look happy",
+            "are happy",
+            "looks happy",
+            "is happy"
+        ],
+        "answer": 0,
+        "hint": "Subject 'I' -> look"
+    },
+    {
+        "question": "The woman ( ? ) famous.",
+        "options": [
+            "look",
+            "looks",
+            "looking",
+            "looked"
+        ],
+        "answer": 1,
+        "hint": "Subject 'The woman' -> looks"
+    },
+    {
+        "question": "You ( ? ) ( happy ).",
+        "options": [
+            "looked",
+            "look",
+            "looking",
+            "looks"
+        ],
+        "answer": 1,
+        "hint": "Subject 'You' -> look"
+    },
+    {
+        "question": "\u5f7c\u306f\u3069\u3046\u898b\u3048\u307e\u3059\u304b\uff1f\u2192 How does he (          )?",
+        "options": [
+            "is happy",
+            "look happy",
+            "looks happy",
+            "are happy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'he' -> look"
+    },
+    {
+        "question": "The boy ( ? ) smart.",
+        "options": [
+            "looked",
+            "looking",
+            "looks",
+            "look"
+        ],
+        "answer": 2,
+        "hint": "Subject 'The boy' -> looks"
+    },
+    {
+        "question": "\u3042\u306a\u305f\u306f\u5e78\u305b\u305d\u3046\u3067\u3059\u3002\u2192 You ( ? ) ( ? ).",
+        "options": [
+            "looks",
+            "look",
+            "looked",
+            "looking"
+        ],
+        "answer": 0,
+        "hint": "Subject '\u3042\u306a\u305f\u306f\u5e78\u305b\u305d\u3046\u3067\u3059\u3002\u2192 You' -> looks"
+    },
+    {
+        "question": "\u305d\u308c\u306f\u3069\u3046\u898b\u3048\u307e\u3059\u304b\uff1f\u2192 How does it (          )?",
+        "options": [
+            "is happy",
+            "are happy",
+            "look happy",
+            "looks happy"
+        ],
+        "answer": 2,
+        "hint": "Subject 'it' -> look"
+    },
+    {
+        "question": "You played. \u2192 ( ? ) you play?",
+        "options": [
+            "Do",
+            "Was",
+            "Does",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( played )? \u2192 ( ? )",
+        "options": [
+            "playing",
+            "plays",
+            "played",
+            "play"
+        ],
+        "answer": 3,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you play? (Yes) \u2192 Yes, I ( ? ).",
+        "options": [
+            "do",
+            "did",
+            "don't",
+            "didn't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You watched. \u2192 ( ? ) you watch?",
+        "options": [
+            "Did",
+            "Does",
+            "Was",
+            "Do"
+        ],
+        "answer": 0,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( watched )? \u2192 ( ? )",
+        "options": [
+            "watchs",
+            "watched",
+            "watch",
+            "watching"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you play? (No) \u2192 No, I ( ? ).",
+        "options": [
+            "did",
+            "didn't",
+            "do",
+            "don't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You cooked. \u2192 ( ? ) you cook?",
+        "options": [
+            "Do",
+            "Was",
+            "Did",
+            "Does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( cooked )? \u2192 ( ? )",
+        "options": [
+            "cooked",
+            "cook",
+            "cooking",
+            "cooks"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did he go? (Yes) \u2192 Yes, he ( ? ).",
+        "options": [
+            "don't",
+            "didn't",
+            "do",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You studied. \u2192 ( ? ) you study?",
+        "options": [
+            "Was",
+            "Does",
+            "Do",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did they ( studied )? \u2192 ( ? )",
+        "options": [
+            "study",
+            "studys",
+            "studied",
+            "studying"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did he go? (No) \u2192 No, he ( ? ).",
+        "options": [
+            "do",
+            "don't",
+            "did",
+            "didn't"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You went. \u2192 ( ? ) you go?",
+        "options": [
+            "Was",
+            "Does",
+            "Do",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did Ken ( went )? \u2192 ( ? )",
+        "options": [
+            "going",
+            "go",
+            "gos",
+            "went"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did she eat? (Yes) \u2192 Yes, she ( ? ).",
+        "options": [
+            "didn't",
+            "do",
+            "did",
+            "don't"
+        ],
+        "answer": 2,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You came. \u2192 ( ? ) you come?",
+        "options": [
+            "Do",
+            "Did",
+            "Was",
+            "Does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( came )? \u2192 ( ? )",
+        "options": [
+            "comeing",
+            "comes",
+            "come",
+            "came"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did she eat? (No) \u2192 No, she ( ? ).",
+        "options": [
+            "did",
+            "didn't",
+            "do",
+            "don't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You had. \u2192 ( ? ) you have?",
+        "options": [
+            "Do",
+            "Does",
+            "Was",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( had )? \u2192 ( ? )",
+        "options": [
+            "haves",
+            "have",
+            "haveing",
+            "had"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did they run? (Yes) \u2192 Yes, they ( ? ).",
+        "options": [
+            "didn't",
+            "do",
+            "don't",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You ate. \u2192 ( ? ) you eat?",
+        "options": [
+            "Do",
+            "Did",
+            "Was",
+            "Does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( ate )? \u2192 ( ? )",
+        "options": [
+            "ate",
+            "eat",
+            "eats",
+            "eating"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did they run? (No) \u2192 No, they ( ? ).",
+        "options": [
+            "didn't",
+            "do",
+            "did",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You saw. \u2192 ( ? ) you see?",
+        "options": [
+            "Was",
+            "Did",
+            "Does",
+            "Do"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did it ( rained )? \u2192 ( ? )",
+        "options": [
+            "rained",
+            "rain",
+            "raining",
+            "rains"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did Ken study? (Yes) \u2192 Yes, he ( ? ).",
+        "options": [
+            "do",
+            "did",
+            "don't",
+            "didn't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You bought. \u2192 ( ? ) you buy?",
+        "options": [
+            "Does",
+            "Was",
+            "Did",
+            "Do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( saw )? \u2192 ( ? )",
+        "options": [
+            "seeing",
+            "sees",
+            "see",
+            "saw"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did Emi cook? (Yes) \u2192 Yes, she ( ? ).",
+        "options": [
+            "don't",
+            "did",
+            "do",
+            "didn't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "He played. \u2192 ( ? ) he play?",
+        "options": [
+            "Do",
+            "Does",
+            "Was",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( bought )? \u2192 ( ? )",
+        "options": [
+            "buying",
+            "buy",
+            "buys",
+            "bought"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did the dog run? (Yes) \u2192 Yes, it ( ? ).",
+        "options": [
+            "do",
+            "don't",
+            "didn't",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "She washed. \u2192 ( ? ) she wash?",
+        "options": [
+            "Was",
+            "Does",
+            "Do",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( wrote )? \u2192 ( ? )",
+        "options": [
+            "wrote",
+            "writeing",
+            "write",
+            "writes"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you watch TV? (Yes) \u2192 Yes, I ( ? ).",
+        "options": [
+            "didn't",
+            "do",
+            "did",
+            "don't"
+        ],
+        "answer": 2,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "They ran. \u2192 ( ? ) they run?",
+        "options": [
+            "Was",
+            "Do",
+            "Did",
+            "Does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did they ( ran )? \u2192 ( ? )",
+        "options": [
+            "ran",
+            "runing",
+            "run",
+            "runs"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you study? (No) \u2192 No, I ( ? ).",
+        "options": [
+            "don't",
+            "do",
+            "did",
+            "didn't"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "Ken read. \u2192 ( ? ) Ken read?",
+        "options": [
+            "Did",
+            "Does",
+            "Do",
+            "Was"
+        ],
+        "answer": 0,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( spoke )? \u2192 ( ? )",
+        "options": [
+            "speaks",
+            "spoke",
+            "speaking",
+            "speak"
+        ],
+        "answer": 3,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did he play soccer? (Yes) \u2192 Yes, he ( ? ).",
+        "options": [
+            "do",
+            "don't",
+            "didn't",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "Emi wrote. \u2192 ( ? ) Emi write?",
+        "options": [
+            "Was",
+            "Does",
+            "Did",
+            "Do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( knew )? \u2192 ( ? )",
+        "options": [
+            "knows",
+            "knowing",
+            "knew",
+            "know"
+        ],
+        "answer": 3,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did she play tennis? (No) \u2192 No, she ( ? ).",
+        "options": [
+            "didn't",
+            "don't",
+            "did",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "It rained. \u2192 ( ? ) it rain?",
+        "options": [
+            "Did",
+            "Do",
+            "Was",
+            "Does"
+        ],
+        "answer": 0,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( made )? \u2192 ( ? )",
+        "options": [
+            "makeing",
+            "make",
+            "made",
+            "makes"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did it rain? (Yes) \u2192 Yes, it ( ? ).",
+        "options": [
+            "do",
+            "don't",
+            "didn't",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "We used. \u2192 ( ? ) we use?",
+        "options": [
+            "Does",
+            "Did",
+            "Was",
+            "Do"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( took )? \u2192 ( ? )",
+        "options": [
+            "take",
+            "takeing",
+            "takes",
+            "took"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you help him? (Yes) \u2192 Yes, I ( ? ).",
+        "options": [
+            "do",
+            "don't",
+            "did",
+            "didn't"
+        ],
+        "answer": 2,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "The dog ran. \u2192 ( ? ) the dog run?",
+        "options": [
+            "Does",
+            "Did",
+            "Do",
+            "Was"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( got )? \u2192 ( ? )",
+        "options": [
+            "get",
+            "got",
+            "gets",
+            "geting"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did he help you? (No) \u2192 No, he ( ? ).",
+        "options": [
+            "did",
+            "do",
+            "didn't",
+            "don't"
+        ],
+        "answer": 2,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You liked. \u2192 ( ? ) you like?",
+        "options": [
+            "Was",
+            "Does",
+            "Did",
+            "Do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( used )? \u2192 ( ? )",
+        "options": [
+            "using",
+            "uss",
+            "used",
+            "us"
+        ],
+        "answer": 3,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did they come? (Yes) \u2192 Yes, they ( ? ).",
+        "options": [
+            "do",
+            "did",
+            "didn't",
+            "don't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "He lived. \u2192 ( ? ) he live?",
+        "options": [
+            "Does",
+            "Do",
+            "Did",
+            "Was"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did they ( lived )? \u2192 ( ? )",
+        "options": [
+            "lived",
+            "liv",
+            "livs",
+            "living"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you see it? (No) \u2192 No, I ( ? ).",
+        "options": [
+            "do",
+            "don't",
+            "did",
+            "didn't"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "She wanted. \u2192 ( ? ) she want?",
+        "options": [
+            "Did",
+            "Was",
+            "Do",
+            "Does"
+        ],
+        "answer": 0,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did Ken ( liked )? \u2192 ( ? )",
+        "options": [
+            "lik",
+            "liking",
+            "liked",
+            "liks"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did he buy it? (Yes) \u2192 Yes, he ( ? ).",
+        "options": [
+            "don't",
+            "didn't",
+            "did",
+            "do"
+        ],
+        "answer": 2,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "They helped. \u2192 ( ? ) they help?",
+        "options": [
+            "Was",
+            "Do",
+            "Does",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did Emi ( wanted )? \u2192 ( ? )",
+        "options": [
+            "want",
+            "wants",
+            "wanting",
+            "wanted"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did she read it? (No) \u2192 No, she ( ? ).",
+        "options": [
+            "do",
+            "did",
+            "don't",
+            "didn't"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You listened. \u2192 ( ? ) you listen?",
+        "options": [
+            "Was",
+            "Does",
+            "Do",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did it ( stopped )? \u2192 ( ? )",
+        "options": [
+            "stopped",
+            "stops",
+            "stop",
+            "stoping"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you know that? (Yes) \u2192 Yes, I ( ? ).",
+        "options": [
+            "did",
+            "don't",
+            "didn't",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "He cleaned. \u2192 ( ? ) he clean?",
+        "options": [
+            "Was",
+            "Does",
+            "Do",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( tried )? \u2192 ( ? )",
+        "options": [
+            "trys",
+            "tried",
+            "trying",
+            "try"
+        ],
+        "answer": 3,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you go to school? (Yes) \u2192 ( ? )",
+        "options": [
+            "did",
+            "do",
+            "didn't",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "She enjoyed. \u2192 ( ? ) she enjoy?",
+        "options": [
+            "Does",
+            "Do",
+            "Was",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( studied )? \u2192 ( ? )",
+        "options": [
+            "studys",
+            "study",
+            "studying",
+            "studied"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you eat lunch? (No) \u2192 ( ? )",
+        "options": [
+            "do",
+            "did",
+            "don't",
+            "didn't"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You visited. \u2192 ( ? ) you visit?",
+        "options": [
+            "Was",
+            "Do",
+            "Does",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( cried )? \u2192 ( ? )",
+        "options": [
+            "cried",
+            "crys",
+            "crying",
+            "cry"
+        ],
+        "answer": 3,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did he watch TV? (Yes) \u2192 ( ? )",
+        "options": [
+            "didn't",
+            "don't",
+            "do",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "They walked. \u2192 ( ? ) they walk?",
+        "options": [
+            "Was",
+            "Did",
+            "Do",
+            "Does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did they ( carried )? \u2192 ( ? )",
+        "options": [
+            "carrying",
+            "carry",
+            "carrys",
+            "carried"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did she cook dinner? (No) \u2192 ( ? )",
+        "options": [
+            "do",
+            "did",
+            "didn't",
+            "don't"
+        ],
+        "answer": 2,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "Ken stopped. \u2192 ( ? ) Ken stop?",
+        "options": [
+            "Does",
+            "Did",
+            "Do",
+            "Was"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( left )? \u2192 ( ? )",
+        "options": [
+            "leave",
+            "leaves",
+            "left",
+            "leaveing"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did they play baseball? (Yes) \u2192 ( ? )",
+        "options": [
+            "did",
+            "didn't",
+            "don't",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "Emi tried. \u2192 ( ? ) Emi try?",
+        "options": [
+            "Do",
+            "Did",
+            "Does",
+            "Was"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( met )? \u2192 ( ? )",
+        "options": [
+            "meets",
+            "meet",
+            "meeting",
+            "met"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did it snow? (No) \u2192 ( ? )",
+        "options": [
+            "didn't",
+            "do",
+            "did",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You met. \u2192 ( ? ) you meet?",
+        "options": [
+            "Do",
+            "Did",
+            "Was",
+            "Does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( sang )? \u2192 ( ? )",
+        "options": [
+            "sings",
+            "singing",
+            "sing",
+            "sang"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did Ken come? (Yes) \u2192 ( ? )",
+        "options": [
+            "did",
+            "do",
+            "didn't",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "He sang. \u2192 ( ? ) he sing?",
+        "options": [
+            "Was",
+            "Does",
+            "Did",
+            "Do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did it ( began )? \u2192 ( ? )",
+        "options": [
+            "begining",
+            "begins",
+            "begin",
+            "began"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did Emi go? (No) \u2192 ( ? )",
+        "options": [
+            "didn't",
+            "did",
+            "do",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "She swam. \u2192 ( ? ) she swim?",
+        "options": [
+            "Does",
+            "Do",
+            "Did",
+            "Was"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( drank )? \u2192 ( ? )",
+        "options": [
+            "drink",
+            "drinks",
+            "drinking",
+            "drank"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you finish? (Yes) \u2192 ( ? )",
+        "options": [
+            "don't",
+            "did",
+            "do",
+            "didn't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "They drank. \u2192 ( ? ) they drink?",
+        "options": [
+            "Does",
+            "Did",
+            "Was",
+            "Do"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( slept )? \u2192 ( ? )",
+        "options": [
+            "sleep",
+            "sleeps",
+            "sleeping",
+            "slept"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you enjoy? (No) \u2192 ( ? )",
+        "options": [
+            "do",
+            "didn't",
+            "don't",
+            "did"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You got. \u2192 ( ? ) you get?",
+        "options": [
+            "Does",
+            "Do",
+            "Did",
+            "Was"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you do?",
+        "options": [
+            "was",
+            "do",
+            "did",
+            "does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( did / what / eat / you )? \u2192 ( ? )",
+        "options": [
+            "What did you eat?",
+            "Did you eat what?",
+            "What you did eat?",
+            "You did eat what?"
+        ],
+        "answer": 0,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) you busy yesterday?",
+        "options": [
+            "Did",
+            "Was",
+            "Do",
+            "Were"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u4f55\u3092\u898b\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you see?",
+        "options": [
+            "did",
+            "was",
+            "do",
+            "does"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( go / where / you / did )? \u2192 ( ? )",
+        "options": [
+            "You did go where?",
+            "Where you did go?",
+            "Did you go where?",
+            "Where did you go?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) you play soccer yesterday?",
+        "options": [
+            "Were",
+            "Did",
+            "Do",
+            "Was"
+        ],
+        "answer": 1,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u4f55\u3092\u98df\u3079\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you eat?",
+        "options": [
+            "do",
+            "does",
+            "did",
+            "was"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( study / did / you / English )? \u2192 ( ? )",
+        "options": [
+            "Study did you?",
+            "Did you study?",
+            "You study did?",
+            "Did study you?"
+        ],
+        "answer": 1,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) you happy?",
+        "options": [
+            "Did",
+            "Were",
+            "Do",
+            "Was"
+        ],
+        "answer": 1,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u4f55\u3092\u8cb7\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you buy?",
+        "options": [
+            "does",
+            "was",
+            "did",
+            "do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( play / did / he / tennis )? \u2192 ( ? )",
+        "options": [
+            "Play did he?",
+            "He play did?",
+            "Did he play?",
+            "Did play he?"
+        ],
+        "answer": 2,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) you watch TV?",
+        "options": [
+            "Were",
+            "Do",
+            "Did",
+            "Was"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u4f55\u3092\u4f5c\u308a\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you make?",
+        "options": [
+            "do",
+            "was",
+            "does",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( she / did / cook / dinner )? \u2192 ( ? )",
+        "options": [
+            "Did she cook?",
+            "She cook did?",
+            "Cook did she?",
+            "Did cook she?"
+        ],
+        "answer": 0,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) he a teacher?",
+        "options": [
+            "Was",
+            "Were",
+            "Do",
+            "Did"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u4f55\u3092\u8aad\u307f\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you read?",
+        "options": [
+            "did",
+            "do",
+            "does",
+            "was"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( they / did / come / here )? \u2192 ( ? )",
+        "options": [
+            "They come did?",
+            "Come did they?",
+            "Did come they?",
+            "Did they come?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) he go to school?",
+        "options": [
+            "Was",
+            "Were",
+            "Did",
+            "Do"
+        ],
+        "answer": 2,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u5f7c\u306f\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) he do?",
+        "options": [
+            "did",
+            "do",
+            "was",
+            "does"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( you / did / what / buy )? \u2192 ( ? )",
+        "options": [
+            "You did buy what?",
+            "Did you buy what?",
+            "What you did buy?",
+            "What did you buy?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) she sad?",
+        "options": [
+            "Were",
+            "Was",
+            "Do",
+            "Did"
+        ],
+        "answer": 1,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u5f7c\u5973\u306f\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) she do?",
+        "options": [
+            "was",
+            "did",
+            "does",
+            "do"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( he / did / what / make )? \u2192 ( ? )",
+        "options": [
+            "What he did make?",
+            "He did make what?",
+            "Did he make what?",
+            "What did he make?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) she cry?",
+        "options": [
+            "Do",
+            "Were",
+            "Was",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u5f7c\u3089\u306f\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) they do?",
+        "options": [
+            "did",
+            "was",
+            "does",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( did / when / you / go )? \u2192 ( ? )",
+        "options": [
+            "When did you go?",
+            "Did you go when?",
+            "When you did go?",
+            "You did go when?"
+        ],
+        "answer": 0,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) they students?",
+        "options": [
+            "Were",
+            "Did",
+            "Do",
+            "Was"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u30b1\u30f3\u306f\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) Ken do?",
+        "options": [
+            "did",
+            "does",
+            "was",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( did / where / he / live )? \u2192 ( ? )",
+        "options": [
+            "He did live where?",
+            "Did he live where?",
+            "Where he did live?",
+            "Where did he live?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) they study?",
+        "options": [
+            "Were",
+            "Do",
+            "Did",
+            "Was"
+        ],
+        "answer": 2,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3069\u3053\u306b\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you go?",
+        "options": [
+            "was",
+            "did",
+            "do",
+            "does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( do / what / you / did )? \u2192 ( ? )",
+        "options": [
+            "You did do what?",
+            "Did you do what?",
+            "What did you do?",
+            "What you did do?"
+        ],
+        "answer": 2,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) it cold?",
+        "options": [
+            "Were",
+            "Do",
+            "Was",
+            "Did"
+        ],
+        "answer": 2,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3069\u3053\u3067\u898b\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you see?",
+        "options": [
+            "does",
+            "did",
+            "do",
+            "was"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( see / who / you / did )? \u2192 ( ? )",
+        "options": [
+            "You did see who?",
+            "Who you did see?",
+            "Did you see who?",
+            "Who did you see?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) it rain?",
+        "options": [
+            "Do",
+            "Were",
+            "Did",
+            "Was"
+        ],
+        "answer": 2,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3069\u3053\u3067\u8cb7\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you buy?",
+        "options": [
+            "do",
+            "was",
+            "did",
+            "does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( did / you / enjoy / it )? \u2192 ( ? )",
+        "options": [
+            "Did enjoy you?",
+            "You enjoy did?",
+            "Enjoy did you?",
+            "Did you enjoy?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) you tired?",
+        "options": [
+            "Were",
+            "Do",
+            "Did",
+            "Was"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3069\u3053\u3067\u4f1a\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you meet?",
+        "options": [
+            "do",
+            "did",
+            "was",
+            "does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( did / not / I / go ). \u2192 ( ? )",
+        "options": [
+            "Did go I?",
+            "Go did I?",
+            "I go did?",
+            "I did not go."
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) you run?",
+        "options": [
+            "Was",
+            "Do",
+            "Were",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u5f7c\u306f\u3069\u3053\u3078\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) he go?",
+        "options": [
+            "did",
+            "was",
+            "does",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( did / not / he / eat ). \u2192 ( ? )",
+        "options": [
+            "Did eat he?",
+            "He did not eat.",
+            "He eat did?",
+            "Eat did he?"
+        ],
+        "answer": 1,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "What ( ? ) you do?",
+        "options": [
+            "was",
+            "were",
+            "do",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u5f7c\u5973\u306f\u3069\u3053\u306b\u4f4f\u3093\u3067\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) she live?",
+        "options": [
+            "did",
+            "was",
+            "does",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( did / not / she / know ). \u2192 ( ? )",
+        "options": [
+            "Know did she?",
+            "She know did?",
+            "She did not know.",
+            "Did know she?"
+        ],
+        "answer": 2,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "Where ( ? ) you?",
+        "options": [
+            "were",
+            "did",
+            "do",
+            "was"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3044\u3064\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 When ( ? ) you go?",
+        "options": [
+            "do",
+            "was",
+            "did",
+            "does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did you ( went )? \u2192 ( ? )",
+        "options": [
+            "You went did?",
+            "Error",
+            "Did went you?",
+            "Went did you?"
+        ],
+        "answer": 0,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "Where ( ? ) you go?",
+        "options": [
+            "do",
+            "was",
+            "were",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3044\u3064\u6765\u307e\u3057\u305f\u304b\uff1f\u2192 When ( ? ) you come?",
+        "options": [
+            "did",
+            "was",
+            "does",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did he ( came )? \u2192 ( ? )",
+        "options": [
+            "Did came you?",
+            "Came did you?",
+            "Error",
+            "You came did?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "What ( ? ) that?",
+        "options": [
+            "do",
+            "did",
+            "were",
+            "was"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3044\u3064\u98df\u3079\u307e\u3057\u305f\u304b\uff1f\u2192 When ( ? ) you eat?",
+        "options": [
+            "do",
+            "did",
+            "was",
+            "does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did she ( plays )? \u2192 ( ? )",
+        "options": [
+            "Did plays you?",
+            "Error",
+            "Plays did you?",
+            "You plays did?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "What ( ? ) you eat?",
+        "options": [
+            "were",
+            "was",
+            "do",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3044\u3064\u5bdd\u307e\u3057\u305f\u304b\uff1f\u2192 When ( ? ) you sleep?",
+        "options": [
+            "was",
+            "do",
+            "did",
+            "does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did it ( rains )? \u2192 ( ? )",
+        "options": [
+            "Did rains you?",
+            "Rains did you?",
+            "Error",
+            "You rains did?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "Who ( ? ) he?",
+        "options": [
+            "were",
+            "was",
+            "do",
+            "did"
+        ],
+        "answer": 1,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u8ab0\u3092\u898b\u307e\u3057\u305f\u304b\uff1f\u2192 Who ( ? ) you see?",
+        "options": [
+            "does",
+            "was",
+            "did",
+            "do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did you ( watched )? \u2192 ( ? )",
+        "options": [
+            "You watched did?",
+            "Error",
+            "Did watched you?",
+            "Watched did you?"
+        ],
+        "answer": 0,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "Who ( ? ) you meet?",
+        "options": [
+            "did",
+            "was",
+            "do",
+            "were"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u8ab0\u306b\u4f1a\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Who ( ? ) you meet?",
+        "options": [
+            "do",
+            "was",
+            "did",
+            "does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did they ( runs )? \u2192 ( ? )",
+        "options": [
+            "Did runs you?",
+            "You runs did?",
+            "Error",
+            "Runs did you?"
+        ],
+        "answer": 1,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "How ( ? ) the weather?",
+        "options": [
+            "were",
+            "do",
+            "was",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3069\u306e\u3088\u3046\u306b\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 How ( ? ) you go?",
+        "options": [
+            "do",
+            "does",
+            "did",
+            "was"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did Ken ( studied )? \u2192 ( ? )",
+        "options": [
+            "Did studied you?",
+            "You studied did?",
+            "Studied did you?",
+            "Error"
+        ],
+        "answer": 1,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "How ( ? ) you go?",
+        "options": [
+            "do",
+            "were",
+            "was",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3069\u3046\u3084\u3063\u3066\u4f5c\u308a\u307e\u3057\u305f\u304b\uff1f\u2192 How ( ? ) you make?",
+        "options": [
+            "do",
+            "was",
+            "does",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did Emi ( cooked )? \u2192 ( ? )",
+        "options": [
+            "You cooked did?",
+            "Cooked did you?",
+            "Error",
+            "Did cooked you?"
+        ],
+        "answer": 0,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) he happy?",
+        "options": [
+            "Do",
+            "Was",
+            "Did",
+            "Were"
+        ],
+        "answer": 1,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u4f55\u6642\u3067\u3057\u305f\u304b\uff1f\u2192 What time ( ? ) it?",
+        "options": [
+            "did",
+            "do",
+            "does",
+            "was"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did you ( were ) busy? \u2192 ( ? )",
+        "options": [
+            "Error",
+            "Were did you?",
+            "You were did?",
+            "Did were you?"
+        ],
+        "answer": 2,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) he look happy?",
+        "options": [
+            "Was",
+            "Were",
+            "Did",
+            "Does"
+        ],
+        "answer": 2,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u4f55\u6642\u306b\u8d77\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 What time ( ? ) you get up?",
+        "options": [
+            "do",
+            "does",
+            "did",
+            "was"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did you ( was ) sad? \u2192 ( ? )",
+        "options": [
+            "Did was you?",
+            "Error",
+            "You was did?",
+            "Was did you?"
+        ],
+        "answer": 2,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) she busy?",
+        "options": [
+            "Did",
+            "Was",
+            "Were",
+            "Do"
+        ],
+        "answer": 1,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u4f55\u6642\u306b\u5bdd\u307e\u3057\u305f\u304b\uff1f\u2192 What time ( ? ) you sleep?",
+        "options": [
+            "did",
+            "was",
+            "does",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( Do ) you go yesterday? \u2192 ( ? )",
+        "options": [
+            "Did Do you?",
+            "Error",
+            "You Do did?",
+            "Do did you?"
+        ],
+        "answer": 2,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) she look busy?",
+        "options": [
+            "Did",
+            "Was",
+            "Does",
+            "Were"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3069\u3061\u3089\u3092\u8cb7\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Which ( ? ) you buy?",
+        "options": [
+            "do",
+            "did",
+            "does",
+            "was"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( Do ) he come yesterday? \u2192 ( ? )",
+        "options": [
+            "Did Do you?",
+            "Do did you?",
+            "You Do did?",
+            "Error"
+        ],
+        "answer": 2,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) they kind?",
+        "options": [
+            "Did",
+            "Do",
+            "Were",
+            "Was"
+        ],
+        "answer": 2,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3069\u3061\u3089\u3092\u98df\u3079\u307e\u3057\u305f\u304b\uff1f\u2192 Which ( ? ) you eat?",
+        "options": [
+            "do",
+            "did",
+            "does",
+            "was"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( Does ) she eat yesterday? \u2192 ( ? )",
+        "options": [
+            "You Does did?",
+            "Does did you?",
+            "Did Does you?",
+            "Error"
+        ],
+        "answer": 0,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) they look kind?",
+        "options": [
+            "Does",
+            "Was",
+            "Did",
+            "Were"
+        ],
+        "answer": 2,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u306a\u305c\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 Why ( ? ) you go?",
+        "options": [
+            "was",
+            "does",
+            "did",
+            "do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( Are ) you play yesterday? \u2192 ( ? )",
+        "options": [
+            "Error",
+            "Did Are you?",
+            "Are did you?",
+            "You Are did?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) it nice?",
+        "options": [
+            "Do",
+            "Did",
+            "Was",
+            "Were"
+        ],
+        "answer": 2,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u306a\u305c\u6ce3\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 Why ( ? ) you cry?",
+        "options": [
+            "does",
+            "was",
+            "do",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( Is ) he go yesterday? \u2192 ( ? )",
+        "options": [
+            "Error",
+            "Is did you?",
+            "Did Is you?",
+            "You Is did?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "( ? ) it look nice?",
+        "options": [
+            "Did",
+            "Does",
+            "Was",
+            "Were"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3042\u306a\u305f\u306f\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you do?",
+        "options": [
+            "did",
+            "does",
+            "was",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( Were ) you play tennis? \u2192 ( ? )",
+        "options": [
+            "Error",
+            "You Were did?",
+            "Were did you?",
+            "Did Were you?"
+        ],
+        "answer": 1,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "That ( ? ) interesting.",
+        "options": [
+            "Was",
+            "Did",
+            "Do",
+            "Were"
+        ],
+        "answer": 0,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u3042\u306a\u305f\u306f\u3069\u3053\u306b\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you? (\u203bbe\u52d5\u8a5e)",
+        "options": [
+            "did",
+            "was",
+            "are",
+            "were"
+        ],
+        "answer": 3,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( Was ) he eat lunch? \u2192 ( ? )",
+        "options": [
+            "Did Was you?",
+            "Error",
+            "Was did you?",
+            "You Was did?"
+        ],
+        "answer": 3,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "That ( ? ) interesting.",
+        "options": [
+            "Were",
+            "Was",
+            "Did",
+            "Do"
+        ],
+        "answer": 1,
+        "hint": "Action verb -> Did, State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u5f7c\u306f\u8ab0\u3067\u3057\u305f\u304b\uff1f\u2192 Who ( ? ) he? (\u203bbe\u52d5\u8a5e)",
+        "options": [
+            "are",
+            "did",
+            "were",
+            "was"
+        ],
+        "answer": 3,
+        "hint": "Past tense question."
+    }
+]
+};
