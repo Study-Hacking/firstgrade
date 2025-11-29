@@ -297,23 +297,59 @@ def parse_line(line):
                         did = 'did'
                         not_word = 'not'
                         subj = next((w for w in words if w.lower() in ['you', 'he', 'she', 'they', 'ken', 'emi', 'it', 'i']), 'you')
-                        verb = next((w for w in words if w not in [wh, did, not_word, subj, 'what', 'where', 'when', 'who', 'how', 'which', 'did', 'not', 'you', 'he', 'she', 'they', 'ken', 'emi', 'it', 'i']), '')
+                        
+                        # Identify Verb and Object
+                        known_verbs = ["play", "go", "cry", "study", "rain", "run", "do", "eat", "meet", "watch", "cook", "come", "buy", "make", "live", "see", "enjoy", "know", "help", "read", "use", "like", "want", "listen", "clean", "visit", "walk", "stop", "try", "sing", "swim", "drink", "get", "sleep", "wash"]
+                        
+                        # Remove identified components from words list to get 'rest'
+                        rest = list(words)
+                        for item in [wh, did, not_word, subj]:
+                            if item and item in rest:
+                                rest.remove(item)
+                        
+                        # Remove 'did' again if it appears twice (e.g. Did you do...?)
+                        # But 'did' variable is just string 'did'.
+                        # If 'did' is in words, it's the auxiliary.
+                        # If there is another 'did' (main verb), it should stay in rest?
+                        # Wait, 'did' variable is set to 'did' string.
+                        # If 'did' is in words, I remove it ONCE.
+                        # If input is ( did / you / do / it ), 'did' is aux. 'do' is verb.
+                        # If input is ( did / you / did / it )?? No, main verb usually base form.
+                        
+                        # Clean up 'rest': remove any leftover known keywords that shouldn't be there?
+                        # No, 'rest' should contain everything else.
+                        
+                        # Find the main verb in 'rest'
+                        main_verb = next((w for w in rest if w.lower() in known_verbs), None)
+                        
+                        # If no known verb found, take the first one (fallback)
+                        if not main_verb and rest:
+                            main_verb = rest[0]
+                        
+                        # Construct predicate (Verb + others)
+                        predicate_words = []
+                        if main_verb:
+                            predicate_words.append(main_verb)
+                            others = [w for w in rest if w != main_verb]
+                            predicate_words.extend(others)
+                        
+                        predicate = " ".join(predicate_words)
                         
                         if not_word in words:
-                            correct = f"{subj.capitalize()} did not {verb}."
-                            d1 = f"{subj.capitalize()} not did {verb}."
-                            d2 = f"Did {subj} not {verb}."
-                            d3 = f"{subj.capitalize()} {verb} did not."
+                            correct = f"{subj.capitalize()} did not {predicate}."
+                            d1 = f"{subj.capitalize()} not did {predicate}."
+                            d2 = f"Did {subj} not {predicate}."
+                            d3 = f"{subj.capitalize()} {predicate} did not."
                         elif wh:
-                            correct = f"{wh.capitalize()} did {subj} {verb}?"
-                            d1 = f"{wh.capitalize()} {subj} did {verb}?"
-                            d2 = f"{wh.capitalize()} did {verb} {subj}?"
-                            d3 = f"Did {subj} {verb} {wh}?"
+                            correct = f"{wh.capitalize()} did {subj} {predicate}?"
+                            d1 = f"{wh.capitalize()} {subj} did {predicate}?"
+                            d2 = f"{wh.capitalize()} did {predicate} {subj}?"
+                            d3 = f"Did {subj} {predicate} {wh}?"
                         elif did in words:
-                            correct = f"Did {subj} {verb}?"
-                            d1 = f"{did.capitalize()} {verb} {subj}?"
-                            d2 = f"{subj.capitalize()} did {verb}?"
-                            d3 = f"{subj.capitalize()} {verb} did?"
+                            correct = f"Did {subj} {predicate}?"
+                            d1 = f"{did.capitalize()} {predicate} {subj}?"
+                            d2 = f"{subj.capitalize()} did {predicate}?"
+                            d3 = f"{subj.capitalize()} {predicate} did?"
                         else:
                             correct = "Unknown"
                             d1, d2, d3 = "Error", "Error", "Error"

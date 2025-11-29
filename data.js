@@ -10146,40 +10146,40 @@ quizData.english_general_verbs_questions = {
         "options": [
             "looks",
             "looked",
-            "look",
-            "looking"
+            "looking",
+            "look"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Subject 'You' -> look"
     },
     {
         "question": "That bike ( ? ) new.",
         "options": [
-            "looks",
-            "looking",
+            "looked",
             "look",
-            "looked"
+            "looking",
+            "looks"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Subject 'That bike' -> looks"
     },
     {
         "question": "\u5f7c\u306f\u5fd9\u3057\u305d\u3046\u3067\u3059\u3002\u2192 He ( ? ).",
         "options": [
             "are busy",
-            "look busy",
             "looks busy",
+            "look busy",
             "is busy"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "Subject 'He' -> looks"
     },
     {
         "question": "I ( ? ) sad.",
         "options": [
+            "looks",
             "looked",
             "looking",
-            "looks",
             "look"
         ],
         "answer": 3,
@@ -10189,63 +10189,63 @@ quizData.english_general_verbs_questions = {
         "question": "Those bikes ( ? ) old.",
         "options": [
             "looked",
-            "looking",
             "look",
-            "looks"
+            "looks",
+            "looking"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "Subject 'Those bikes' -> look"
     },
     {
         "question": "\u5f7c\u5973\u306f\u6687\u305d\u3046\u3067\u3059\u3002\u2192 She ( ? ).",
         "options": [
-            "is free",
-            "looks free",
             "are free",
-            "look free"
+            "look free",
+            "is free",
+            "looks free"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Subject 'She' -> looks"
     },
     {
         "question": "He ( ? ) busy.",
         "options": [
-            "looking",
-            "look",
             "looks",
-            "looked"
+            "looked",
+            "look",
+            "looking"
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "Subject 'He' -> looks"
     },
     {
         "question": "The flower ( ? ) nice.",
         "options": [
+            "looks",
             "looked",
             "looking",
-            "looks",
             "look"
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "Subject 'The flower' -> looks"
     },
     {
         "question": "\u305d\u308c\u306f\u9762\u767d\u305d\u3046\u3067\u3059\u3002\u2192 It ( ? ).",
         "options": [
-            "looks interesting",
-            "are interesting",
             "is interesting",
-            "look interesting"
+            "are interesting",
+            "look interesting",
+            "looks interesting"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Subject 'It' -> looks"
     },
     {
         "question": "She ( ? ) tired.",
         "options": [
-            "looking",
-            "looks",
             "look",
+            "looks",
+            "looking",
             "looked"
         ],
         "answer": 1,
@@ -10254,54 +10254,54 @@ quizData.english_general_verbs_questions = {
     {
         "question": "The flowers ( ? ) nice.",
         "options": [
-            "looking",
             "look",
-            "looked",
-            "looks"
+            "looks",
+            "looking",
+            "looked"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Subject 'The flowers' -> look"
     },
     {
         "question": "\u30b1\u30f3\u306f\u7720\u305d\u3046\u3067\u3059\u3002\u2192 Ken ( ? ).",
         "options": [
-            "is sleepy",
             "looks sleepy",
-            "are sleepy",
-            "look sleepy"
+            "is sleepy",
+            "look sleepy",
+            "are sleepy"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Subject 'Ken' -> looks"
     },
     {
         "question": "It ( ? ) good.",
         "options": [
-            "looking",
-            "looked",
+            "looks",
             "look",
-            "looks"
+            "looked",
+            "looking"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "Subject 'It' -> looks"
     },
     {
         "question": "Everyone ( ? ) busy.",
         "options": [
-            "looks",
             "looked",
             "look",
+            "looks",
             "looking"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Subject 'Everyone' -> looks"
     },
     {
         "question": "\u30a8\u30df\u306f\u60b2\u3057\u305d\u3046\u3067\u3059\u3002\u2192 Emi ( ? ).",
         "options": [
             "looks sad",
-            "is sad",
+            "are sad",
             "look sad",
-            "are sad"
+            "is sad"
         ],
         "answer": 0,
         "hint": "Subject 'Emi' -> looks"
@@ -10309,20 +10309,20 @@ quizData.english_general_verbs_questions = {
     {
         "question": "We ( ? ) sleepy.",
         "options": [
-            "looked",
-            "looking",
             "looks",
-            "look"
+            "looked",
+            "look",
+            "looking"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "Subject 'We' -> look"
     },
     {
         "question": "Nobody ( ? ) tired.",
         "options": [
-            "look",
-            "looks",
             "looking",
+            "looks",
+            "look",
             "looked"
         ],
         "answer": 1,
@@ -10331,119 +10331,119 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u305d\u306e\u72ac\u306f\u5927\u304d\u305d\u3046\u3067\u3059\u3002\u2192 The dog ( ? ).",
         "options": [
-            "is big",
             "looks big",
-            "look big",
-            "are big"
+            "are big",
+            "is big",
+            "look big"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Subject 'dog' -> look"
     },
     {
         "question": "They ( ? ) angry.",
-        "options": [
-            "looks",
-            "looked",
-            "looking",
-            "look"
-        ],
-        "answer": 3,
-        "hint": "Subject 'They' -> look"
-    },
-    {
-        "question": "My mother ( ? ) young.",
         "options": [
             "look",
             "looked",
             "looking",
             "looks"
         ],
-        "answer": 3,
+        "answer": 0,
+        "hint": "Subject 'They' -> look"
+    },
+    {
+        "question": "My mother ( ? ) young.",
+        "options": [
+            "looks",
+            "look",
+            "looking",
+            "looked"
+        ],
+        "answer": 0,
         "hint": "Subject 'My mother' -> looks"
     },
     {
         "question": "\u305d\u306e\u732b\u306f\u5c0f\u3055\u305d\u3046\u3067\u3059\u3002\u2192 The cat ( ? ).",
         "options": [
+            "are small",
             "is small",
-            "looks small",
             "look small",
-            "are small"
+            "looks small"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Subject 'cat' -> looks"
     },
     {
         "question": "Ken ( ? ) hungry.",
         "options": [
             "look",
-            "looked",
             "looks",
-            "looking"
+            "looking",
+            "looked"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "Subject 'Ken' -> looks"
     },
     {
         "question": "My parents ( ? ) kind.",
         "options": [
-            "looks",
             "looked",
+            "look",
             "looking",
-            "look"
+            "looks"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "Subject 'My parents' -> look"
     },
     {
         "question": "\u3053\u306e\u672c\u306f\u826f\u3055\u305d\u3046\u3067\u3059\u3002\u2192 This book ( ? ).",
         "options": [
             "are good",
+            "look good",
             "looks good",
-            "is good",
-            "look good"
+            "is good"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Subject 'book' -> looks"
     },
     {
         "question": "Emi ( ? ) thirsty.",
         "options": [
-            "looks",
             "looked",
             "look",
+            "looks",
             "looking"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Subject 'Emi' -> looks"
     },
     {
         "question": "Your face ( ? ) red.",
         "options": [
-            "looks",
             "looking",
-            "look",
-            "looked"
+            "looked",
+            "looks",
+            "look"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Subject 'Your face' -> looks"
     },
     {
         "question": "\u3042\u306e\u672c\u306f\u96e3\u3057\u305d\u3046\u3067\u3059\u3002\u2192 That book ( ? ).",
         "options": [
-            "looks difficult",
             "look difficult",
-            "is difficult",
-            "are difficult"
+            "are difficult",
+            "looks difficult",
+            "is difficult"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Subject 'book' -> looks"
     },
     {
         "question": "The dog ( ? ) cute.",
         "options": [
-            "look",
-            "looks",
             "looking",
+            "looks",
+            "look",
             "looked"
         ],
         "answer": 1,
@@ -10453,9 +10453,9 @@ quizData.english_general_verbs_questions = {
         "question": "His eyes ( ? ) blue.",
         "options": [
             "look",
-            "looking",
             "looks",
-            "looked"
+            "looked",
+            "looking"
         ],
         "answer": 0,
         "hint": "Subject 'His eyes' -> look"
@@ -10463,31 +10463,31 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u3042\u306a\u305f\u306f\u75b2\u308c\u3066\u898b\u3048\u307e\u3059\u3002\u2192 You ( ? ).",
         "options": [
-            "are tired",
             "look tired",
+            "is tired",
             "looks tired",
-            "is tired"
+            "are tired"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Subject 'You' -> look"
     },
     {
         "question": "The cats ( ? ) small.",
         "options": [
-            "looked",
             "looking",
-            "looks",
-            "look"
+            "looked",
+            "look",
+            "looks"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "Subject 'The cats' -> look"
     },
     {
         "question": "The sky ( ? ) dark.",
         "options": [
-            "looked",
-            "looking",
             "look",
+            "looking",
+            "looked",
             "looks"
         ],
         "answer": 3,
@@ -10496,120 +10496,120 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u79c1\u306f\u5909\u306b\u898b\u3048\u307e\u3059\u304b\uff1f\u2192 Do I ( ? )?",
         "options": [
-            "look strange",
             "are strange",
+            "look strange",
             "is strange",
             "looks strange"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Subject 'I' -> look"
     },
     {
         "question": "You ( ? ) fine.",
         "options": [
-            "look",
             "looks",
-            "looking",
-            "looked"
+            "look",
+            "looked",
+            "looking"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Subject 'You' -> look"
     },
     {
         "question": "The rain ( ? ) cold.",
         "options": [
             "looked",
-            "looking",
+            "looks",
             "look",
-            "looks"
+            "looking"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "Subject 'The rain' -> looks"
     },
     {
         "question": "\u5f7c\u306f\u89aa\u5207\u305d\u3046\u3067\u3059\u3002\u2192 He ( ? ).",
         "options": [
-            "are kind",
-            "looks kind",
             "is kind",
-            "look kind"
+            "look kind",
+            "looks kind",
+            "are kind"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Subject 'He' -> looks"
     },
     {
         "question": "He ( ? ) sick.",
         "options": [
-            "look",
             "looks",
             "looking",
+            "look",
             "looked"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Subject 'He' -> looks"
     },
     {
         "question": "The movie ( ? ) fun.",
         "options": [
             "looked",
-            "looking",
             "looks",
+            "looking",
             "look"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "Subject 'The movie' -> looks"
     },
     {
         "question": "\u5148\u751f\u306f\u53b3\u3057\u305d\u3046\u3067\u3059\u3002\u2192 The teacher ( ? ).",
         "options": [
             "is strict",
+            "look strict",
             "looks strict",
-            "are strict",
-            "look strict"
+            "are strict"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Subject 'teacher' -> looks"
     },
     {
         "question": "She ( ? ) excited.",
         "options": [
-            "look",
             "looks",
+            "look",
             "looking",
             "looked"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Subject 'She' -> looks"
     },
     {
         "question": "The game ( ? ) long.",
         "options": [
-            "looking",
-            "looks",
+            "look",
             "looked",
-            "look"
+            "looks",
+            "looking"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Subject 'The game' -> looks"
     },
     {
         "question": "\u305d\u306e\u30b1\u30fc\u30ad\u306f\u7518\u305d\u3046\u3067\u3059\u3002\u2192 The cake ( ? ).",
         "options": [
-            "looks sweet",
             "is sweet",
+            "looks sweet",
             "are sweet",
             "look sweet"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Subject 'cake' -> looks"
     },
     {
         "question": "It ( ? ) delicious.",
         "options": [
-            "look",
             "looked",
+            "looking",
             "looks",
-            "looking"
+            "look"
         ],
         "answer": 2,
         "hint": "Subject 'It' -> looks"
@@ -10617,71 +10617,38 @@ quizData.english_general_verbs_questions = {
     {
         "question": "This pen ( ? ) useful.",
         "options": [
-            "looks",
-            "looked",
-            "look",
-            "looking"
-        ],
-        "answer": 0,
-        "hint": "Subject 'This pen' -> looks"
-    },
-    {
-        "question": "\u305d\u306e\u30ab\u30ec\u30fc\u306f\u8f9b\u305d\u3046\u3067\u3059\u3002\u2192 The curry ( ? ).",
-        "options": [
-            "looks spicy",
-            "is spicy",
-            "look spicy",
-            "are spicy"
-        ],
-        "answer": 0,
-        "hint": "Subject 'curry' -> looks"
-    },
-    {
-        "question": "The teacher ( ? ) scary.",
-        "options": [
             "looked",
             "look",
             "looking",
             "looks"
         ],
         "answer": 3,
+        "hint": "Subject 'This pen' -> looks"
+    },
+    {
+        "question": "\u305d\u306e\u30ab\u30ec\u30fc\u306f\u8f9b\u305d\u3046\u3067\u3059\u3002\u2192 The curry ( ? ).",
+        "options": [
+            "are spicy",
+            "looks spicy",
+            "look spicy",
+            "is spicy"
+        ],
+        "answer": 1,
+        "hint": "Subject 'curry' -> looks"
+    },
+    {
+        "question": "The teacher ( ? ) scary.",
+        "options": [
+            "look",
+            "looking",
+            "looks",
+            "looked"
+        ],
+        "answer": 2,
         "hint": "Subject 'The teacher' -> looks"
     },
     {
         "question": "These pens ( ? ) good.",
-        "options": [
-            "looks",
-            "looked",
-            "looking",
-            "look"
-        ],
-        "answer": 3,
-        "hint": "Subject 'These pens' -> look"
-    },
-    {
-        "question": "\u5f7c\u306f\u82e5\u304f\u898b\u3048\u307e\u3059\u3002\u2192 He ( ? ).",
-        "options": [
-            "are young",
-            "is young",
-            "looks young",
-            "look young"
-        ],
-        "answer": 2,
-        "hint": "Subject 'He' -> looks"
-    },
-    {
-        "question": "My friend ( ? ) kind.",
-        "options": [
-            "looked",
-            "looks",
-            "looking",
-            "look"
-        ],
-        "answer": 1,
-        "hint": "Subject 'My friend' -> looks"
-    },
-    {
-        "question": "You ( ? ) ( happy ).",
         "options": [
             "looks",
             "looking",
@@ -10689,37 +10656,70 @@ quizData.english_general_verbs_questions = {
             "looked"
         ],
         "answer": 2,
+        "hint": "Subject 'These pens' -> look"
+    },
+    {
+        "question": "\u5f7c\u306f\u82e5\u304f\u898b\u3048\u307e\u3059\u3002\u2192 He ( ? ).",
+        "options": [
+            "are young",
+            "look young",
+            "looks young",
+            "is young"
+        ],
+        "answer": 2,
+        "hint": "Subject 'He' -> looks"
+    },
+    {
+        "question": "My friend ( ? ) kind.",
+        "options": [
+            "look",
+            "looks",
+            "looking",
+            "looked"
+        ],
+        "answer": 1,
+        "hint": "Subject 'My friend' -> looks"
+    },
+    {
+        "question": "You ( ? ) ( happy ).",
+        "options": [
+            "looking",
+            "look",
+            "looked",
+            "looks"
+        ],
+        "answer": 1,
         "hint": "Subject 'You' -> look"
     },
     {
         "question": "\u5f7c\u5973\u306f\u5e74\u5bc4\u308a\u306b\u898b\u3048\u307e\u3059\u3002\u2192 She ( ? ).",
         "options": [
-            "look old",
             "is old",
-            "are old",
-            "looks old"
+            "looks old",
+            "look old",
+            "are old"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "Subject 'She' -> looks"
     },
     {
         "question": "My friends ( ? ) cool.",
         "options": [
-            "looks",
-            "looked",
+            "looking",
             "look",
-            "looking"
+            "looked",
+            "looks"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "Subject 'My friends' -> look"
     },
     {
         "question": "He ( ? ) ( sad ).",
         "options": [
-            "looked",
             "look",
+            "looking",
             "looks",
-            "looking"
+            "looked"
         ],
         "answer": 2,
         "hint": "Subject 'He' -> looks"
@@ -10727,64 +10727,64 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u7686\u3001\u697d\u3057\u305d\u3046\u3067\u3059\u3002\u2192 Everyone ( ? ).",
         "options": [
-            "looks happy",
             "are happy",
+            "is happy",
             "look happy",
-            "is happy"
+            "looks happy"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Subject 'Everyone' -> looks"
     },
     {
         "question": "This book ( ? ) hard.",
         "options": [
+            "looking",
             "look",
-            "looks",
             "looked",
-            "looking"
+            "looks"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Subject 'This book' -> looks"
     },
     {
         "question": "She ( ? ) ( busy ).",
         "options": [
-            "look",
             "looked",
             "looking",
-            "looks"
+            "looks",
+            "look"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "Subject 'She' -> looks"
     },
     {
         "question": "\u3042\u306e\u7537\u306e\u4eba\u306f\u5f37\u305d\u3046\u3067\u3059\u3002\u2192 That man ( ? ).",
         "options": [
-            "looks strong",
-            "look strong",
             "are strong",
-            "is strong"
+            "looks strong",
+            "is strong",
+            "look strong"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Subject 'man' -> looks"
     },
     {
         "question": "That car ( ? ) fast.",
         "options": [
-            "looks",
             "looked",
-            "look",
-            "looking"
+            "looking",
+            "looks",
+            "look"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Subject 'That car' -> looks"
     },
     {
         "question": "It ( ? ) ( nice ).",
         "options": [
             "looks",
-            "look",
             "looked",
+            "look",
             "looking"
         ],
         "answer": 0,
@@ -10793,19 +10793,19 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u3042\u306e\u5c11\u5e74\u306f\u5f31\u305d\u3046\u3067\u3059\u3002\u2192 That boy ( ? ).",
         "options": [
-            "look weak",
-            "looks weak",
+            "are weak",
             "is weak",
-            "are weak"
+            "look weak",
+            "looks weak"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Subject 'boy' -> looks"
     },
     {
         "question": "You and I ( ? ) busy.",
         "options": [
-            "looking",
             "looked",
+            "looking",
             "looks",
             "look"
         ],
@@ -10816,97 +10816,97 @@ quizData.english_general_verbs_questions = {
         "question": "They ( ? ) ( tired ).",
         "options": [
             "looking",
-            "look",
+            "looked",
             "looks",
-            "looked"
+            "look"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Subject 'They' -> look"
     },
     {
         "question": "\u3042\u306a\u305f\u306e\u8eca\u306f\u901f\u305d\u3046\u3067\u3059\u3002\u2192 Your car ( ? ).",
         "options": [
-            "looks fast",
-            "are fast",
+            "is fast",
             "look fast",
-            "is fast"
+            "looks fast",
+            "are fast"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Subject 'car' -> looks"
     },
     {
         "question": "Ken and Tom ( ? ) strong.",
-        "options": [
-            "looking",
-            "look",
-            "looks",
-            "looked"
-        ],
-        "answer": 1,
-        "hint": "Subject 'Ken and Tom' -> look"
-    },
-    {
-        "question": "We ( ? ) ( fine ).",
-        "options": [
-            "look",
-            "looked",
-            "looks",
-            "looking"
-        ],
-        "answer": 0,
-        "hint": "Subject 'We' -> look"
-    },
-    {
-        "question": "\u5f7c\u306e\u81ea\u8ee2\u8eca\u306f\u9ad8\u305d\u3046\u3067\u3059\u3002\u2192 His bike ( ? ).",
-        "options": [
-            "is expensive",
-            "looks expensive",
-            "are expensive",
-            "look expensive"
-        ],
-        "answer": 1,
-        "hint": "Subject 'bike' -> looks"
-    },
-    {
-        "question": "Your father ( ? ) tall.",
-        "options": [
-            "looking",
-            "looks",
-            "look",
-            "looked"
-        ],
-        "answer": 1,
-        "hint": "Subject 'Your father' -> looks"
-    },
-    {
-        "question": "Ken ( ? ) ( hungry ).",
         "options": [
             "look",
             "looked",
             "looking",
             "looks"
         ],
-        "answer": 3,
+        "answer": 0,
+        "hint": "Subject 'Ken and Tom' -> look"
+    },
+    {
+        "question": "We ( ? ) ( fine ).",
+        "options": [
+            "looks",
+            "look",
+            "looked",
+            "looking"
+        ],
+        "answer": 1,
+        "hint": "Subject 'We' -> look"
+    },
+    {
+        "question": "\u5f7c\u306e\u81ea\u8ee2\u8eca\u306f\u9ad8\u305d\u3046\u3067\u3059\u3002\u2192 His bike ( ? ).",
+        "options": [
+            "look expensive",
+            "are expensive",
+            "looks expensive",
+            "is expensive"
+        ],
+        "answer": 2,
+        "hint": "Subject 'bike' -> looks"
+    },
+    {
+        "question": "Your father ( ? ) tall.",
+        "options": [
+            "looks",
+            "looking",
+            "looked",
+            "look"
+        ],
+        "answer": 0,
+        "hint": "Subject 'Your father' -> looks"
+    },
+    {
+        "question": "Ken ( ? ) ( hungry ).",
+        "options": [
+            "looked",
+            "look",
+            "looks",
+            "looking"
+        ],
+        "answer": 2,
         "hint": "Subject 'Ken' -> looks"
     },
     {
         "question": "\u305d\u306e\u30c6\u30b9\u30c8\u306f\u7c21\u5358\u305d\u3046\u3067\u3059\u3002\u2192 The test ( ? ).",
         "options": [
             "are easy",
-            "looks easy",
             "is easy",
-            "look easy"
+            "look easy",
+            "looks easy"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Subject 'test' -> looks"
     },
     {
         "question": "His sister ( ? ) pretty.",
         "options": [
             "look",
-            "looking",
+            "looked",
             "looks",
-            "looked"
+            "looking"
         ],
         "answer": 2,
         "hint": "Subject 'His sister' -> looks"
@@ -10914,65 +10914,65 @@ quizData.english_general_verbs_questions = {
     {
         "question": "Emi ( ? ) ( sleepy ).",
         "options": [
-            "looks",
             "look",
             "looked",
+            "looks",
             "looking"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Subject 'Emi' -> looks"
     },
     {
         "question": "\u8cea\u554f\u306f\u96e3\u3057\u305d\u3046\u3067\u3059\u3002\u2192 The question ( ? ).",
         "options": [
+            "is difficult",
             "look difficult",
             "are difficult",
-            "looks difficult",
-            "is difficult"
+            "looks difficult"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Subject 'question' -> looks"
     },
     {
         "question": "The house ( ? ) big.",
         "options": [
-            "looking",
-            "look",
             "looked",
-            "looks"
+            "looking",
+            "looks",
+            "look"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "Subject 'The house' -> looks"
     },
     {
         "question": "The dog ( ? ) ( cute ).",
         "options": [
-            "looking",
+            "looked",
             "look",
-            "looks",
-            "looked"
+            "looking",
+            "looks"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Subject 'The dog' -> looks"
     },
     {
         "question": "\u5929\u6c17\u306f\u826f\u3055\u305d\u3046\u3067\u3059\u3002\u2192 The weather ( ? ).",
         "options": [
-            "look nice",
             "looks nice",
+            "is nice",
             "are nice",
-            "is nice"
+            "look nice"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Subject 'weather' -> looks"
     },
     {
         "question": "The rooms ( ? ) clean.",
         "options": [
-            "looked",
+            "looking",
             "look",
-            "looks",
-            "looking"
+            "looked",
+            "looks"
         ],
         "answer": 1,
         "hint": "Subject 'The rooms' -> look"
@@ -10980,32 +10980,32 @@ quizData.english_general_verbs_questions = {
     {
         "question": "You ( ? ) ( angry ).",
         "options": [
-            "look",
             "looks",
-            "looking",
-            "looked"
+            "look",
+            "looked",
+            "looking"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Subject 'You' -> look"
     },
     {
         "question": "\u305d\u306e\u30cb\u30e5\u30fc\u30b9\u306f\u9762\u767d\u305d\u3046\u3067\u3059\u3002\u2192 The news ( ? ).",
         "options": [
             "is interesting",
+            "look interesting",
             "are interesting",
-            "looks interesting",
-            "look interesting"
+            "looks interesting"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Subject 'news' -> looks"
     },
     {
         "question": "The question ( ? ) easy.",
         "options": [
+            "looking",
             "look",
-            "looked",
             "looks",
-            "looking"
+            "looked"
         ],
         "answer": 2,
         "hint": "Subject 'The question' -> looks"
@@ -11024,12 +11024,12 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u305d\u306e\u8a71\u306f\u672c\u5f53\u305d\u3046\u3067\u3059\u3002\u2192 The story ( ? ).",
         "options": [
-            "looks true",
             "look true",
             "are true",
-            "is true"
+            "is true",
+            "looks true"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Subject 'story' -> looks"
     },
     {
@@ -11046,20 +11046,20 @@ quizData.english_general_verbs_questions = {
     {
         "question": "She ( ? ) ( excited ).",
         "options": [
-            "look",
-            "looks",
             "looking",
-            "looked"
+            "looked",
+            "look",
+            "looks"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Subject 'She' -> looks"
     },
     {
         "question": "\u5f7c\u306f\u5143\u6c17\u3058\u3083\u306a\u3055\u305d\u3046\u3067\u3059\u3002\u2192 He doesn't ( ? ).",
         "options": [
-            "looks well",
             "looked well",
             "looking well",
+            "looks well",
             "look well"
         ],
         "answer": 3,
@@ -11068,23 +11068,23 @@ quizData.english_general_verbs_questions = {
     {
         "question": "This apple ( ? ) sweet.",
         "options": [
-            "looked",
             "looks",
+            "looked",
             "looking",
             "look"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Subject 'This apple' -> looks"
     },
     {
         "question": "It ( ? ) ( great ).",
         "options": [
-            "looked",
-            "look",
             "looks",
-            "looking"
+            "looking",
+            "looked",
+            "look"
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "Subject 'It' -> looks"
     },
     {
@@ -11092,10 +11092,10 @@ quizData.english_general_verbs_questions = {
         "options": [
             "looks happy",
             "looking happy",
-            "looked happy",
-            "look happy"
+            "look happy",
+            "looked happy"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "After doesn't, use base form 'look'."
     },
     {
@@ -11112,43 +11112,43 @@ quizData.english_general_verbs_questions = {
     {
         "question": "That ( ? ) ( fun ).",
         "options": [
+            "looking",
+            "looked",
+            "looks",
+            "look"
+        ],
+        "answer": 2,
+        "hint": "Subject 'That' -> looks"
+    },
+    {
+        "question": "\u305d\u308c\u306f\u826f\u304f\u898b\u3048\u307e\u305b\u3093\u3002\u2192 It doesn't ( ? ).",
+        "options": [
+            "looks good",
+            "looked good",
+            "looking good",
+            "look good"
+        ],
+        "answer": 3,
+        "hint": "After doesn't, use base form 'look'."
+    },
+    {
+        "question": "The man ( ? ) rich.",
+        "options": [
             "looks",
             "looked",
             "looking",
             "look"
         ],
         "answer": 0,
-        "hint": "Subject 'That' -> looks"
-    },
-    {
-        "question": "\u305d\u308c\u306f\u826f\u304f\u898b\u3048\u307e\u305b\u3093\u3002\u2192 It doesn't ( ? ).",
-        "options": [
-            "look good",
-            "looks good",
-            "looked good",
-            "looking good"
-        ],
-        "answer": 0,
-        "hint": "After doesn't, use base form 'look'."
-    },
-    {
-        "question": "The man ( ? ) rich.",
-        "options": [
-            "looked",
-            "look",
-            "looks",
-            "looking"
-        ],
-        "answer": 2,
         "hint": "Subject 'The man' -> looks"
     },
     {
         "question": "This ( ? ) ( new ).",
         "options": [
             "looks",
-            "look",
+            "looking",
             "looked",
-            "looking"
+            "look"
         ],
         "answer": 0,
         "hint": "Subject 'This' -> looks"
@@ -11167,10 +11167,10 @@ quizData.english_general_verbs_questions = {
     {
         "question": "The woman ( ? ) famous.",
         "options": [
-            "looked",
+            "looking",
             "looks",
-            "look",
-            "looking"
+            "looked",
+            "look"
         ],
         "answer": 1,
         "hint": "Subject 'The woman' -> looks"
@@ -11178,8 +11178,8 @@ quizData.english_general_verbs_questions = {
     {
         "question": "You ( ? ) ( happy ).",
         "options": [
-            "looks",
             "looked",
+            "looks",
             "looking",
             "look"
         ],
@@ -11200,23 +11200,23 @@ quizData.english_general_verbs_questions = {
     {
         "question": "The boy ( ? ) smart.",
         "options": [
+            "looking",
             "look",
-            "looks",
             "looked",
-            "looking"
+            "looks"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Subject 'The boy' -> looks"
     },
     {
         "question": "\u3042\u306a\u305f\u306f\u5e78\u305b\u305d\u3046\u3067\u3059\u3002\u2192 You ( ? ) ( ? ).",
         "options": [
-            "looks",
-            "looked",
             "look",
-            "looking"
+            "looked",
+            "looking",
+            "looks"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Subject '\u3042\u306a\u305f\u306f\u5e78\u305b\u305d\u3046\u3067\u3059\u3002\u2192 You' -> looks"
     },
     {
@@ -11233,21 +11233,21 @@ quizData.english_general_verbs_questions = {
     {
         "question": "You played. \u2192 ( ? ) you play?",
         "options": [
-            "Does",
-            "Was",
             "Do",
-            "Did"
+            "Did",
+            "Does",
+            "Was"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did you ( played )? \u2192 ( ? )",
         "options": [
-            "played",
             "plays",
+            "playing",
             "play",
-            "playing"
+            "played"
         ],
         "answer": 2,
         "hint": "After Did, use the base form."
@@ -11255,34 +11255,34 @@ quizData.english_general_verbs_questions = {
     {
         "question": "Did you play? (Yes) \u2192 Yes, I ( ? ).",
         "options": [
-            "do",
-            "didn't",
             "did",
-            "don't"
+            "don't",
+            "didn't",
+            "do"
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
         "question": "You watched. \u2192 ( ? ) you watch?",
         "options": [
-            "Did",
             "Does",
-            "Was",
-            "Do"
+            "Do",
+            "Did",
+            "Was"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did he ( watched )? \u2192 ( ? )",
         "options": [
-            "watch",
+            "watched",
             "watchs",
             "watching",
-            "watched"
+            "watch"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "After Did, use the base form."
     },
     {
@@ -11299,104 +11299,71 @@ quizData.english_general_verbs_questions = {
     {
         "question": "You cooked. \u2192 ( ? ) you cook?",
         "options": [
-            "Did",
-            "Do",
             "Was",
-            "Does"
+            "Did",
+            "Does",
+            "Do"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did she ( cooked )? \u2192 ( ? )",
         "options": [
-            "cooking",
-            "cook",
             "cooks",
-            "cooked"
+            "cooking",
+            "cooked",
+            "cook"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did he go? (Yes) \u2192 Yes, he ( ? ).",
         "options": [
-            "did",
-            "do",
             "didn't",
-            "don't"
-        ],
-        "answer": 0,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "You studied. \u2192 ( ? ) you study?",
-        "options": [
-            "Was",
-            "Do",
-            "Does",
-            "Did"
-        ],
-        "answer": 3,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did they ( studied )? \u2192 ( ? )",
-        "options": [
-            "study",
-            "studys",
-            "studied",
-            "studying"
-        ],
-        "answer": 0,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did he go? (No) \u2192 No, he ( ? ).",
-        "options": [
-            "didn't",
-            "do",
-            "don't",
-            "did"
-        ],
-        "answer": 0,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "You went. \u2192 ( ? ) you go?",
-        "options": [
-            "Do",
-            "Does",
-            "Did",
-            "Was"
-        ],
-        "answer": 2,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did Ken ( went )? \u2192 ( ? )",
-        "options": [
-            "going",
-            "gos",
-            "went",
-            "go"
-        ],
-        "answer": 3,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did she eat? (Yes) \u2192 Yes, she ( ? ).",
-        "options": [
-            "do",
             "did",
             "don't",
-            "didn't"
+            "do"
         ],
         "answer": 1,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
-        "question": "You came. \u2192 ( ? ) you come?",
+        "question": "You studied. \u2192 ( ? ) you study?",
+        "options": [
+            "Does",
+            "Was",
+            "Did",
+            "Do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did they ( studied )? \u2192 ( ? )",
+        "options": [
+            "studying",
+            "study",
+            "studied",
+            "studys"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did he go? (No) \u2192 No, he ( ? ).",
+        "options": [
+            "did",
+            "don't",
+            "do",
+            "didn't"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You went. \u2192 ( ? ) you go?",
         "options": [
             "Did",
             "Do",
@@ -11407,33 +11374,66 @@ quizData.english_general_verbs_questions = {
         "hint": "Past tense question -> Did"
     },
     {
-        "question": "Did you ( came )? \u2192 ( ? )",
+        "question": "Did Ken ( went )? \u2192 ( ? )",
         "options": [
-            "came",
-            "comes",
-            "come",
-            "comeing"
+            "went",
+            "go",
+            "gos",
+            "going"
+        ],
+        "answer": 1,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did she eat? (Yes) \u2192 Yes, she ( ? ).",
+        "options": [
+            "don't",
+            "didn't",
+            "did",
+            "do"
         ],
         "answer": 2,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You came. \u2192 ( ? ) you come?",
+        "options": [
+            "Was",
+            "Did",
+            "Does",
+            "Do"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( came )? \u2192 ( ? )",
+        "options": [
+            "come",
+            "comeing",
+            "comes",
+            "came"
+        ],
+        "answer": 0,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did she eat? (No) \u2192 No, she ( ? ).",
         "options": [
-            "didn't",
+            "do",
             "don't",
             "did",
-            "do"
+            "didn't"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
         "question": "You had. \u2192 ( ? ) you have?",
         "options": [
-            "Do",
             "Was",
             "Does",
+            "Do",
             "Did"
         ],
         "answer": 3,
@@ -11442,60 +11442,93 @@ quizData.english_general_verbs_questions = {
     {
         "question": "Did he ( had )? \u2192 ( ? )",
         "options": [
-            "had",
             "haves",
+            "have",
             "haveing",
-            "have"
-        ],
-        "answer": 3,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did they run? (Yes) \u2192 Yes, they ( ? ).",
-        "options": [
-            "don't",
-            "do",
-            "did",
-            "didn't"
-        ],
-        "answer": 2,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "You ate. \u2192 ( ? ) you eat?",
-        "options": [
-            "Do",
-            "Was",
-            "Does",
-            "Did"
-        ],
-        "answer": 3,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did she ( ate )? \u2192 ( ? )",
-        "options": [
-            "ate",
-            "eat",
-            "eats",
-            "eating"
+            "had"
         ],
         "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
-        "question": "Did they run? (No) \u2192 No, they ( ? ).",
+        "question": "Did they run? (Yes) \u2192 Yes, they ( ? ).",
         "options": [
-            "do",
             "did",
+            "don't",
             "didn't",
-            "don't"
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You ate. \u2192 ( ? ) you eat?",
+        "options": [
+            "Was",
+            "Did",
+            "Does",
+            "Do"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( ate )? \u2192 ( ? )",
+        "options": [
+            "eats",
+            "ate",
+            "eat",
+            "eating"
         ],
         "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did they run? (No) \u2192 No, they ( ? ).",
+        "options": [
+            "did",
+            "didn't",
+            "do",
+            "don't"
+        ],
+        "answer": 1,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
         "question": "You saw. \u2192 ( ? ) you see?",
+        "options": [
+            "Do",
+            "Was",
+            "Did",
+            "Does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did it ( rained )? \u2192 ( ? )",
+        "options": [
+            "raining",
+            "rained",
+            "rain",
+            "rains"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did Ken study? (Yes) \u2192 Yes, he ( ? ).",
+        "options": [
+            "did",
+            "didn't",
+            "don't",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You bought. \u2192 ( ? ) you buy?",
         "options": [
             "Does",
             "Do",
@@ -11506,56 +11539,23 @@ quizData.english_general_verbs_questions = {
         "hint": "Past tense question -> Did"
     },
     {
-        "question": "Did it ( rained )? \u2192 ( ? )",
-        "options": [
-            "rains",
-            "rained",
-            "rain",
-            "raining"
-        ],
-        "answer": 2,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did Ken study? (Yes) \u2192 Yes, he ( ? ).",
-        "options": [
-            "do",
-            "don't",
-            "did",
-            "didn't"
-        ],
-        "answer": 2,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "You bought. \u2192 ( ? ) you buy?",
-        "options": [
-            "Was",
-            "Do",
-            "Does",
-            "Did"
-        ],
-        "answer": 3,
-        "hint": "Past tense question -> Did"
-    },
-    {
         "question": "Did you ( saw )? \u2192 ( ? )",
         "options": [
-            "seeing",
             "see",
-            "saw",
-            "sees"
+            "seeing",
+            "sees",
+            "saw"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did Emi cook? (Yes) \u2192 Yes, she ( ? ).",
         "options": [
             "did",
-            "do",
             "don't",
-            "didn't"
+            "didn't",
+            "do"
         ],
         "answer": 0,
         "hint": "Short answer with Did -> did / didn't"
@@ -11563,100 +11563,100 @@ quizData.english_general_verbs_questions = {
     {
         "question": "He played. \u2192 ( ? ) he play?",
         "options": [
-            "Was",
-            "Do",
             "Does",
-            "Did"
+            "Did",
+            "Do",
+            "Was"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did he ( bought )? \u2192 ( ? )",
         "options": [
-            "buy",
             "buys",
-            "buying",
-            "bought"
+            "buy",
+            "bought",
+            "buying"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did the dog run? (Yes) \u2192 Yes, it ( ? ).",
         "options": [
-            "did",
             "didn't",
+            "did",
             "do",
+            "don't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "She washed. \u2192 ( ? ) she wash?",
+        "options": [
+            "Did",
+            "Do",
+            "Was",
+            "Does"
+        ],
+        "answer": 0,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( wrote )? \u2192 ( ? )",
+        "options": [
+            "wrote",
+            "writes",
+            "write",
+            "writeing"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you watch TV? (Yes) \u2192 Yes, I ( ? ).",
+        "options": [
+            "did",
+            "do",
+            "didn't",
             "don't"
         ],
         "answer": 0,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
-        "question": "She washed. \u2192 ( ? ) she wash?",
-        "options": [
-            "Does",
-            "Did",
-            "Was",
-            "Do"
-        ],
-        "answer": 1,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did she ( wrote )? \u2192 ( ? )",
-        "options": [
-            "writes",
-            "write",
-            "wrote",
-            "writeing"
-        ],
-        "answer": 1,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did you watch TV? (Yes) \u2192 Yes, I ( ? ).",
-        "options": [
-            "do",
-            "didn't",
-            "don't",
-            "did"
-        ],
-        "answer": 3,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
         "question": "They ran. \u2192 ( ? ) they run?",
         "options": [
-            "Did",
+            "Do",
             "Does",
             "Was",
-            "Do"
+            "Did"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did they ( ran )? \u2192 ( ? )",
         "options": [
-            "runing",
             "runs",
-            "ran",
-            "run"
+            "runing",
+            "run",
+            "ran"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did you study? (No) \u2192 No, I ( ? ).",
         "options": [
             "don't",
-            "didn't",
+            "do",
             "did",
-            "do"
+            "didn't"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
@@ -11664,39 +11664,6 @@ quizData.english_general_verbs_questions = {
         "options": [
             "Was",
             "Do",
-            "Does",
-            "Did"
-        ],
-        "answer": 3,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did you ( spoke )? \u2192 ( ? )",
-        "options": [
-            "spoke",
-            "speaking",
-            "speak",
-            "speaks"
-        ],
-        "answer": 2,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did he play soccer? (Yes) \u2192 Yes, he ( ? ).",
-        "options": [
-            "do",
-            "didn't",
-            "did",
-            "don't"
-        ],
-        "answer": 2,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "Emi wrote. \u2192 ( ? ) Emi write?",
-        "options": [
-            "Do",
-            "Was",
             "Did",
             "Does"
         ],
@@ -11704,47 +11671,80 @@ quizData.english_general_verbs_questions = {
         "hint": "Past tense question -> Did"
     },
     {
-        "question": "Did he ( knew )? \u2192 ( ? )",
+        "question": "Did you ( spoke )? \u2192 ( ? )",
         "options": [
-            "know",
-            "knows",
-            "knew",
-            "knowing"
+            "speak",
+            "speaking",
+            "speaks",
+            "spoke"
         ],
         "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did he play soccer? (Yes) \u2192 Yes, he ( ? ).",
+        "options": [
+            "did",
+            "do",
+            "didn't",
+            "don't"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "Emi wrote. \u2192 ( ? ) Emi write?",
+        "options": [
+            "Was",
+            "Did",
+            "Does",
+            "Do"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did he ( knew )? \u2192 ( ? )",
+        "options": [
+            "knew",
+            "know",
+            "knows",
+            "knowing"
+        ],
+        "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did she play tennis? (No) \u2192 No, she ( ? ).",
         "options": [
             "did",
-            "do",
+            "didn't",
             "don't",
-            "didn't"
+            "do"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
         "question": "It rained. \u2192 ( ? ) it rain?",
         "options": [
             "Do",
-            "Was",
             "Did",
+            "Was",
             "Does"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did she ( made )? \u2192 ( ? )",
         "options": [
+            "make",
             "makes",
-            "makeing",
             "made",
-            "make"
+            "makeing"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "After Did, use the base form."
     },
     {
@@ -11761,9 +11761,9 @@ quizData.english_general_verbs_questions = {
     {
         "question": "We used. \u2192 ( ? ) we use?",
         "options": [
-            "Do",
-            "Does",
             "Was",
+            "Does",
+            "Do",
             "Did"
         ],
         "answer": 3,
@@ -11772,45 +11772,45 @@ quizData.english_general_verbs_questions = {
     {
         "question": "Did you ( took )? \u2192 ( ? )",
         "options": [
-            "took",
-            "takes",
             "take",
-            "takeing"
+            "takeing",
+            "takes",
+            "took"
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did you help him? (Yes) \u2192 Yes, I ( ? ).",
         "options": [
-            "did",
             "don't",
+            "did",
             "didn't",
             "do"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
         "question": "The dog ran. \u2192 ( ? ) the dog run?",
         "options": [
-            "Did",
-            "Was",
             "Do",
+            "Was",
+            "Did",
             "Does"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did he ( got )? \u2192 ( ? )",
         "options": [
+            "got",
             "get",
             "gets",
-            "got",
             "geting"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
@@ -11827,30 +11827,30 @@ quizData.english_general_verbs_questions = {
     {
         "question": "You liked. \u2192 ( ? ) you like?",
         "options": [
+            "Did",
             "Do",
             "Was",
-            "Did",
             "Does"
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did she ( used )? \u2192 ( ? )",
         "options": [
-            "used",
-            "useing",
             "use",
-            "uses"
+            "useing",
+            "uses",
+            "used"
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did they come? (Yes) \u2192 Yes, they ( ? ).",
         "options": [
-            "didn't",
             "do",
+            "didn't",
             "don't",
             "did"
         ],
@@ -11860,23 +11860,23 @@ quizData.english_general_verbs_questions = {
     {
         "question": "He lived. \u2192 ( ? ) he live?",
         "options": [
-            "Do",
-            "Did",
             "Was",
-            "Does"
+            "Does",
+            "Do",
+            "Did"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did they ( lived )? \u2192 ( ? )",
         "options": [
             "lived",
-            "liveing",
             "live",
+            "liveing",
             "lives"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
@@ -11893,20 +11893,20 @@ quizData.english_general_verbs_questions = {
     {
         "question": "She wanted. \u2192 ( ? ) she want?",
         "options": [
-            "Did",
-            "Do",
             "Was",
-            "Does"
+            "Did",
+            "Does",
+            "Do"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did Ken ( liked )? \u2192 ( ? )",
         "options": [
+            "likes",
             "likeing",
             "liked",
-            "likes",
             "like"
         ],
         "answer": 3,
@@ -11915,16 +11915,49 @@ quizData.english_general_verbs_questions = {
     {
         "question": "Did he buy it? (Yes) \u2192 Yes, he ( ? ).",
         "options": [
+            "do",
             "did",
             "don't",
+            "didn't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "They helped. \u2192 ( ? ) they help?",
+        "options": [
+            "Does",
+            "Was",
+            "Did",
+            "Do"
+        ],
+        "answer": 2,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did Emi ( wanted )? \u2192 ( ? )",
+        "options": [
+            "wanted",
+            "wanting",
+            "want",
+            "wants"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did she read it? (No) \u2192 No, she ( ? ).",
+        "options": [
             "didn't",
+            "did",
+            "don't",
             "do"
         ],
         "answer": 0,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
-        "question": "They helped. \u2192 ( ? ) they help?",
+        "question": "You listened. \u2192 ( ? ) you listen?",
         "options": [
             "Do",
             "Was",
@@ -11935,66 +11968,33 @@ quizData.english_general_verbs_questions = {
         "hint": "Past tense question -> Did"
     },
     {
-        "question": "Did Emi ( wanted )? \u2192 ( ? )",
-        "options": [
-            "want",
-            "wanted",
-            "wants",
-            "wanting"
-        ],
-        "answer": 0,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did she read it? (No) \u2192 No, she ( ? ).",
-        "options": [
-            "do",
-            "don't",
-            "did",
-            "didn't"
-        ],
-        "answer": 3,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "You listened. \u2192 ( ? ) you listen?",
-        "options": [
-            "Does",
-            "Did",
-            "Do",
-            "Was"
-        ],
-        "answer": 1,
-        "hint": "Past tense question -> Did"
-    },
-    {
         "question": "Did it ( stopped )? \u2192 ( ? )",
         "options": [
-            "stop",
+            "stops",
             "stoping",
-            "stopped",
-            "stops"
+            "stop",
+            "stopped"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did you know that? (Yes) \u2192 Yes, I ( ? ).",
         "options": [
-            "do",
-            "didn't",
             "don't",
-            "did"
+            "do",
+            "did",
+            "didn't"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
         "question": "He cleaned. \u2192 ( ? ) he clean?",
         "options": [
             "Does",
-            "Do",
             "Was",
+            "Do",
             "Did"
         ],
         "answer": 3,
@@ -12003,32 +12003,32 @@ quizData.english_general_verbs_questions = {
     {
         "question": "Did you ( tried )? \u2192 ( ? )",
         "options": [
-            "trys",
-            "try",
             "trying",
-            "tried"
+            "tried",
+            "trys",
+            "try"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did you go to school? (Yes) \u2192 ( ? )",
         "options": [
-            "did",
             "don't",
             "didn't",
-            "do"
+            "do",
+            "did"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
         "question": "She enjoyed. \u2192 ( ? ) she enjoy?",
         "options": [
             "Did",
-            "Does",
+            "Do",
             "Was",
-            "Do"
+            "Does"
         ],
         "answer": 0,
         "hint": "Past tense question -> Did"
@@ -12036,53 +12036,53 @@ quizData.english_general_verbs_questions = {
     {
         "question": "Did he ( studied )? \u2192 ( ? )",
         "options": [
-            "studied",
             "studys",
-            "studying",
-            "study"
+            "studied",
+            "study",
+            "studying"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did you eat lunch? (No) \u2192 ( ? )",
         "options": [
-            "do",
             "don't",
-            "did",
-            "didn't"
+            "didn't",
+            "do",
+            "did"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
         "question": "You visited. \u2192 ( ? ) you visit?",
         "options": [
-            "Did",
-            "Does",
+            "Was",
             "Do",
-            "Was"
+            "Does",
+            "Did"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did she ( cried )? \u2192 ( ? )",
         "options": [
-            "cry",
             "cried",
+            "cry",
             "crying",
             "crys"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did he watch TV? (Yes) \u2192 ( ? )",
         "options": [
-            "didn't",
-            "did",
             "do",
+            "did",
+            "didn't",
             "don't"
         ],
         "answer": 1,
@@ -12091,173 +12091,74 @@ quizData.english_general_verbs_questions = {
     {
         "question": "They walked. \u2192 ( ? ) they walk?",
         "options": [
-            "Was",
             "Did",
-            "Do",
-            "Does"
+            "Does",
+            "Was",
+            "Do"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "Did they ( carried )? \u2192 ( ? )",
         "options": [
-            "carrying",
-            "carrys",
             "carried",
-            "carry"
+            "carry",
+            "carrys",
+            "carrying"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
         "question": "Did she cook dinner? (No) \u2192 ( ? )",
-        "options": [
-            "do",
-            "did",
-            "don't",
-            "didn't"
-        ],
-        "answer": 3,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "Ken stopped. \u2192 ( ? ) Ken stop?",
-        "options": [
-            "Was",
-            "Does",
-            "Do",
-            "Did"
-        ],
-        "answer": 3,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did you ( left )? \u2192 ( ? )",
-        "options": [
-            "leave",
-            "leaves",
-            "left",
-            "leaveing"
-        ],
-        "answer": 0,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did they play baseball? (Yes) \u2192 ( ? )",
         "options": [
             "didn't",
             "don't",
             "did",
             "do"
         ],
-        "answer": 2,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "Emi tried. \u2192 ( ? ) Emi try?",
-        "options": [
-            "Do",
-            "Does",
-            "Was",
-            "Did"
-        ],
-        "answer": 3,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did he ( met )? \u2192 ( ? )",
-        "options": [
-            "met",
-            "meet",
-            "meeting",
-            "meets"
-        ],
-        "answer": 1,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did it snow? (No) \u2192 ( ? )",
-        "options": [
-            "do",
-            "don't",
-            "didn't",
-            "did"
-        ],
-        "answer": 2,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "You met. \u2192 ( ? ) you meet?",
-        "options": [
-            "Did",
-            "Do",
-            "Does",
-            "Was"
-        ],
         "answer": 0,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did she ( sang )? \u2192 ( ? )",
-        "options": [
-            "sang",
-            "sings",
-            "singing",
-            "sing"
-        ],
-        "answer": 3,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did Ken come? (Yes) \u2192 ( ? )",
-        "options": [
-            "didn't",
-            "do",
-            "did",
-            "don't"
-        ],
-        "answer": 2,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
-        "question": "He sang. \u2192 ( ? ) he sing?",
+        "question": "Ken stopped. \u2192 ( ? ) Ken stop?",
         "options": [
             "Did",
-            "Do",
             "Was",
+            "Do",
             "Does"
         ],
         "answer": 0,
         "hint": "Past tense question -> Did"
     },
     {
-        "question": "Did it ( began )? \u2192 ( ? )",
+        "question": "Did you ( left )? \u2192 ( ? )",
         "options": [
-            "begin",
-            "begining",
-            "began",
-            "begins"
+            "left",
+            "leave",
+            "leaveing",
+            "leaves"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
-        "question": "Did Emi go? (No) \u2192 ( ? )",
+        "question": "Did they play baseball? (Yes) \u2192 ( ? )",
         "options": [
-            "don't",
             "did",
+            "don't",
             "do",
             "didn't"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "Short answer with Did -> did / didn't"
     },
     {
-        "question": "She swam. \u2192 ( ? ) she swim?",
+        "question": "Emi tried. \u2192 ( ? ) Emi try?",
         "options": [
-            "Was",
             "Does",
+            "Was",
             "Did",
             "Do"
         ],
@@ -12265,14 +12166,113 @@ quizData.english_general_verbs_questions = {
         "hint": "Past tense question -> Did"
     },
     {
-        "question": "Did you ( drank )? \u2192 ( ? )",
+        "question": "Did he ( met )? \u2192 ( ? )",
         "options": [
-            "drinks",
-            "drank",
-            "drink",
-            "drinking"
+            "met",
+            "meeting",
+            "meet",
+            "meets"
         ],
         "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did it snow? (No) \u2192 ( ? )",
+        "options": [
+            "do",
+            "don't",
+            "did",
+            "didn't"
+        ],
+        "answer": 3,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You met. \u2192 ( ? ) you meet?",
+        "options": [
+            "Do",
+            "Did",
+            "Was",
+            "Does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did she ( sang )? \u2192 ( ? )",
+        "options": [
+            "singing",
+            "sings",
+            "sing",
+            "sang"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did Ken come? (Yes) \u2192 ( ? )",
+        "options": [
+            "do",
+            "did",
+            "don't",
+            "didn't"
+        ],
+        "answer": 1,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "He sang. \u2192 ( ? ) he sing?",
+        "options": [
+            "Do",
+            "Does",
+            "Was",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did it ( began )? \u2192 ( ? )",
+        "options": [
+            "begining",
+            "begins",
+            "begin",
+            "began"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did Emi go? (No) \u2192 ( ? )",
+        "options": [
+            "don't",
+            "do",
+            "didn't",
+            "did"
+        ],
+        "answer": 2,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "She swam. \u2192 ( ? ) she swim?",
+        "options": [
+            "Did",
+            "Do",
+            "Does",
+            "Was"
+        ],
+        "answer": 0,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "Did you ( drank )? \u2192 ( ? )",
+        "options": [
+            "drinking",
+            "drink",
+            "drinks",
+            "drank"
+        ],
+        "answer": 1,
         "hint": "After Did, use the base form."
     },
     {
@@ -12280,8 +12280,8 @@ quizData.english_general_verbs_questions = {
         "options": [
             "did",
             "didn't",
-            "don't",
-            "do"
+            "do",
+            "don't"
         ],
         "answer": 0,
         "hint": "Short answer with Did -> did / didn't"
@@ -12289,76 +12289,76 @@ quizData.english_general_verbs_questions = {
     {
         "question": "They drank. \u2192 ( ? ) they drink?",
         "options": [
-            "Did",
-            "Was",
             "Do",
-            "Does"
-        ],
-        "answer": 0,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "Did he ( slept )? \u2192 ( ? )",
-        "options": [
-            "sleep",
-            "slept",
-            "sleeps",
-            "sleeping"
-        ],
-        "answer": 0,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Did you enjoy? (No) \u2192 ( ? )",
-        "options": [
-            "don't",
-            "did",
-            "didn't",
-            "do"
-        ],
-        "answer": 2,
-        "hint": "Short answer with Did -> did / didn't"
-    },
-    {
-        "question": "You got. \u2192 ( ? ) you get?",
-        "options": [
+            "Did",
             "Does",
-            "Did",
-            "Do",
             "Was"
         ],
         "answer": 1,
         "hint": "Past tense question -> Did"
     },
     {
+        "question": "Did he ( slept )? \u2192 ( ? )",
+        "options": [
+            "sleeping",
+            "sleeps",
+            "sleep",
+            "slept"
+        ],
+        "answer": 2,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Did you enjoy? (No) \u2192 ( ? )",
+        "options": [
+            "didn't",
+            "did",
+            "don't",
+            "do"
+        ],
+        "answer": 0,
+        "hint": "Short answer with Did -> did / didn't"
+    },
+    {
+        "question": "You got. \u2192 ( ? ) you get?",
+        "options": [
+            "Do",
+            "Does",
+            "Was",
+            "Did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question -> Did"
+    },
+    {
         "question": "\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you do?",
         "options": [
+            "does",
             "do",
-            "did",
             "was",
-            "does"
+            "did"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Past tense question."
     },
     {
         "question": "( did / what / eat / you )? \u2192 ( ? )",
         "options": [
-            "Did you eat what?",
             "What did you eat?",
+            "Did you eat what?",
             "What did eat you?",
             "What you did eat?"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) you busy yesterday?",
         "options": [
-            "Was",
             "Do",
+            "Did",
             "Were",
-            "Did"
+            "Was"
         ],
         "answer": 2,
         "hint": "State/Adjective -> Was/Were"
@@ -12368,8 +12368,8 @@ quizData.english_general_verbs_questions = {
         "options": [
             "do",
             "did",
-            "was",
-            "does"
+            "does",
+            "was"
         ],
         "answer": 1,
         "hint": "Past tense question."
@@ -12377,32 +12377,32 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( go / where / you / did )? \u2192 ( ? )",
         "options": [
-            "Where did you go?",
+            "Where you did go?",
             "Where did go you?",
-            "Did you go where?",
-            "Where you did go?"
+            "Where did you go?",
+            "Did you go where?"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) you play soccer yesterday?",
         "options": [
-            "Do",
-            "Were",
+            "Did",
             "Was",
-            "Did"
+            "Were",
+            "Do"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "Action verb -> Did"
     },
     {
         "question": "\u4f55\u3092\u98df\u3079\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you eat?",
         "options": [
+            "was",
             "do",
-            "does",
             "did",
-            "was"
+            "does"
         ],
         "answer": 2,
         "hint": "Past tense question."
@@ -12410,43 +12410,43 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( study / did / you / English )? \u2192 ( ? )",
         "options": [
-            "Did you study?",
-            "You study did?",
-            "You did study?",
-            "Did study you?"
+            "Did study English you?",
+            "You study English did?",
+            "Did you study English?",
+            "You did study English?"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) you happy?",
         "options": [
-            "Did",
+            "Were",
             "Was",
             "Do",
-            "Were"
+            "Did"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "State/Adjective -> Was/Were"
     },
     {
         "question": "\u4f55\u3092\u8cb7\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you buy?",
         "options": [
-            "does",
+            "did",
             "do",
-            "was",
-            "did"
+            "does",
+            "was"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "Past tense question."
     },
     {
         "question": "( play / did / he / tennis )? \u2192 ( ? )",
         "options": [
-            "Did play he?",
-            "He did play?",
-            "He play did?",
-            "Did he play?"
+            "Did play tennis he?",
+            "He did play tennis?",
+            "He play tennis did?",
+            "Did he play tennis?"
         ],
         "answer": 3,
         "hint": "Order: Wh + did + Subject + Verb"
@@ -12454,65 +12454,65 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( ? ) you watch TV?",
         "options": [
-            "Do",
             "Did",
-            "Was",
-            "Were"
+            "Do",
+            "Were",
+            "Was"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Action verb -> Did"
     },
     {
         "question": "\u4f55\u3092\u4f5c\u308a\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you make?",
         "options": [
-            "was",
             "does",
-            "did",
-            "do"
+            "was",
+            "do",
+            "did"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Past tense question."
     },
     {
         "question": "( she / did / cook / dinner )? \u2192 ( ? )",
         "options": [
-            "She cook did?",
-            "Did she cook?",
-            "Did cook she?",
-            "She did cook?"
+            "She cook dinner did?",
+            "She did cook dinner?",
+            "Did cook dinner she?",
+            "Did she cook dinner?"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) he a teacher?",
         "options": [
+            "Were",
             "Did",
-            "Was",
             "Do",
-            "Were"
+            "Was"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "State/Adjective -> Was/Were"
     },
     {
         "question": "\u4f55\u3092\u8aad\u307f\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) you read?",
         "options": [
-            "did",
+            "do",
             "was",
             "does",
-            "do"
+            "did"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Past tense question."
     },
     {
         "question": "( they / did / come / here )? \u2192 ( ? )",
         "options": [
-            "Did come they?",
-            "They did come?",
-            "They come did?",
-            "Did they come?"
+            "Did come here they?",
+            "They come here did?",
+            "They did come here?",
+            "Did they come here?"
         ],
         "answer": 3,
         "hint": "Order: Wh + did + Subject + Verb"
@@ -12520,10 +12520,10 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( ? ) he go to school?",
         "options": [
-            "Were",
-            "Did",
             "Do",
-            "Was"
+            "Did",
+            "Was",
+            "Were"
         ],
         "answer": 1,
         "hint": "Action verb -> Did"
@@ -12533,18 +12533,18 @@ quizData.english_general_verbs_questions = {
         "options": [
             "does",
             "do",
-            "did",
-            "was"
+            "was",
+            "did"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Past tense question."
     },
     {
         "question": "( you / did / what / buy )? \u2192 ( ? )",
         "options": [
             "What did you buy?",
-            "What you did buy?",
             "What did buy you?",
+            "What you did buy?",
             "Did you buy what?"
         ],
         "answer": 0,
@@ -12553,9 +12553,9 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( ? ) she sad?",
         "options": [
-            "Were",
             "Did",
             "Do",
+            "Were",
             "Was"
         ],
         "answer": 3,
@@ -12565,8 +12565,8 @@ quizData.english_general_verbs_questions = {
         "question": "\u5f7c\u5973\u306f\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) she do?",
         "options": [
             "did",
-            "was",
             "do",
+            "was",
             "does"
         ],
         "answer": 0,
@@ -12575,31 +12575,31 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( he / did / what / make )? \u2192 ( ? )",
         "options": [
-            "What did he make?",
-            "What he did make?",
+            "What did make he?",
             "Did he make what?",
-            "What did make he?"
+            "What he did make?",
+            "What did he make?"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) she cry?",
         "options": [
             "Do",
-            "Were",
             "Did",
-            "Was"
+            "Was",
+            "Were"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "Action verb -> Did"
     },
     {
         "question": "\u5f7c\u3089\u306f\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) they do?",
         "options": [
-            "do",
-            "did",
             "was",
+            "did",
+            "do",
             "does"
         ],
         "answer": 1,
@@ -12608,10 +12608,10 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( did / when / you / go )? \u2192 ( ? )",
         "options": [
+            "Did you go when?",
             "When did go you?",
-            "When you did go?",
             "When did you go?",
-            "Did you go when?"
+            "When you did go?"
         ],
         "answer": 2,
         "hint": "Order: Wh + did + Subject + Verb"
@@ -12619,53 +12619,53 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( ? ) they students?",
         "options": [
-            "Were",
-            "Do",
             "Was",
+            "Do",
+            "Were",
             "Did"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "State/Adjective -> Was/Were"
     },
     {
         "question": "\u30b1\u30f3\u306f\u4f55\u3092\u3057\u307e\u3057\u305f\u304b\uff1f\u2192 What ( ? ) Ken do?",
         "options": [
-            "did",
-            "does",
             "do",
+            "does",
+            "did",
             "was"
         ],
-        "answer": 0,
+        "answer": 2,
         "hint": "Past tense question."
     },
     {
         "question": "( did / where / he / live )? \u2192 ( ? )",
         "options": [
-            "Where did live he?",
             "Where he did live?",
+            "Where did he live?",
             "Did he live where?",
-            "Where did he live?"
+            "Where did live he?"
         ],
-        "answer": 3,
+        "answer": 1,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) they study?",
         "options": [
             "Were",
-            "Did",
+            "Was",
             "Do",
-            "Was"
+            "Did"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Action verb -> Did"
     },
     {
         "question": "\u3069\u3053\u306b\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you go?",
         "options": [
             "do",
-            "was",
             "does",
+            "was",
             "did"
         ],
         "answer": 3,
@@ -12674,20 +12674,20 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( do / what / you / did )? \u2192 ( ? )",
         "options": [
+            "Did you do what?",
             "What did do you?",
             "What did you do?",
-            "Did you do what?",
             "What you did do?"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) it cold?",
         "options": [
+            "Did",
             "Were",
             "Do",
-            "Did",
             "Was"
         ],
         "answer": 3,
@@ -12696,23 +12696,23 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u3069\u3053\u3067\u898b\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you see?",
         "options": [
-            "do",
-            "does",
+            "did",
             "was",
-            "did"
+            "does",
+            "do"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "Past tense question."
     },
     {
         "question": "( see / who / you / did )? \u2192 ( ? )",
         "options": [
             "Who did see you?",
+            "Did you see who?",
             "Who did you see?",
-            "Who you did see?",
-            "Did you see who?"
+            "Who you did see?"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
@@ -12720,8 +12720,8 @@ quizData.english_general_verbs_questions = {
         "options": [
             "Were",
             "Did",
-            "Was",
-            "Do"
+            "Do",
+            "Was"
         ],
         "answer": 1,
         "hint": "Action verb -> Did"
@@ -12729,65 +12729,65 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u3069\u3053\u3067\u8cb7\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you buy?",
         "options": [
+            "does",
             "did",
-            "was",
             "do",
-            "does"
+            "was"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Past tense question."
     },
     {
         "question": "( did / you / enjoy / it )? \u2192 ( ? )",
         "options": [
-            "Did enjoy you?",
-            "You did enjoy?",
-            "Did you enjoy?",
-            "You enjoy did?"
+            "You did enjoy it?",
+            "You enjoy it did?",
+            "Did enjoy it you?",
+            "Did you enjoy it?"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) you tired?",
         "options": [
-            "Were",
             "Do",
+            "Was",
             "Did",
-            "Was"
+            "Were"
         ],
-        "answer": 0,
+        "answer": 3,
         "hint": "State/Adjective -> Was/Were"
     },
     {
         "question": "\u3069\u3053\u3067\u4f1a\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you meet?",
         "options": [
-            "do",
-            "does",
             "was",
-            "did"
+            "do",
+            "did",
+            "does"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "Past tense question."
     },
     {
         "question": "( did / not / I / go ). \u2192 ( ? )",
         "options": [
-            "Did I not go.",
-            "I not did go.",
             "I did not go.",
+            "I not did go.",
+            "Did I not go.",
             "I go did not."
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "( ? ) you run?",
         "options": [
             "Do",
-            "Were",
+            "Was",
             "Did",
-            "Was"
+            "Were"
         ],
         "answer": 2,
         "hint": "Action verb -> Did"
@@ -12796,6 +12796,39 @@ quizData.english_general_verbs_questions = {
         "question": "\u5f7c\u306f\u3069\u3053\u3078\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) he go?",
         "options": [
             "do",
+            "was",
+            "did",
+            "does"
+        ],
+        "answer": 2,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( did / not / he / eat ). \u2192 ( ? )",
+        "options": [
+            "He eat did not.",
+            "He not did eat.",
+            "He did not eat.",
+            "Did he not eat."
+        ],
+        "answer": 2,
+        "hint": "Order: Wh + did + Subject + Verb"
+    },
+    {
+        "question": "What ( ? ) you do?",
+        "options": [
+            "were",
+            "did",
+            "do",
+            "was"
+        ],
+        "answer": 1,
+        "hint": "Action verb -> Did"
+    },
+    {
+        "question": "\u5f7c\u5973\u306f\u3069\u3053\u306b\u4f4f\u3093\u3067\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) she live?",
+        "options": [
+            "do",
             "does",
             "was",
             "did"
@@ -12804,55 +12837,22 @@ quizData.english_general_verbs_questions = {
         "hint": "Past tense question."
     },
     {
-        "question": "( did / not / he / eat ). \u2192 ( ? )",
-        "options": [
-            "He did not eat.",
-            "He not did eat.",
-            "Did he not eat.",
-            "He eat did not."
-        ],
-        "answer": 0,
-        "hint": "Order: Wh + did + Subject + Verb"
-    },
-    {
-        "question": "What ( ? ) you do?",
-        "options": [
-            "do",
-            "were",
-            "did",
-            "was"
-        ],
-        "answer": 2,
-        "hint": "Action verb -> Did"
-    },
-    {
-        "question": "\u5f7c\u5973\u306f\u3069\u3053\u306b\u4f4f\u3093\u3067\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) she live?",
-        "options": [
-            "do",
-            "did",
-            "was",
-            "does"
-        ],
-        "answer": 1,
-        "hint": "Past tense question."
-    },
-    {
         "question": "( did / not / she / know ). \u2192 ( ? )",
         "options": [
-            "She know did not.",
-            "Did she not know.",
             "She did not know.",
-            "She not did know."
+            "She not did know.",
+            "She know did not.",
+            "Did she not know."
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "Order: Wh + did + Subject + Verb"
     },
     {
         "question": "Where ( ? ) you?",
         "options": [
             "were",
-            "do",
             "was",
+            "do",
             "did"
         ],
         "answer": 0,
@@ -12861,8 +12861,8 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u3044\u3064\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 When ( ? ) you go?",
         "options": [
-            "was",
             "do",
+            "was",
             "did",
             "does"
         ],
@@ -12874,8 +12874,8 @@ quizData.english_general_verbs_questions = {
         "options": [
             "gos",
             "go",
-            "went",
-            "going"
+            "going",
+            "went"
         ],
         "answer": 1,
         "hint": "After Did, use the base form."
@@ -12884,8 +12884,8 @@ quizData.english_general_verbs_questions = {
         "question": "Where ( ? ) you go?",
         "options": [
             "did",
-            "was",
             "do",
+            "was",
             "were"
         ],
         "answer": 0,
@@ -12894,30 +12894,30 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u3044\u3064\u6765\u307e\u3057\u305f\u304b\uff1f\u2192 When ( ? ) you come?",
         "options": [
-            "does",
-            "do",
+            "did",
             "was",
-            "did"
+            "do",
+            "does"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "Past tense question."
     },
     {
         "question": "Did he ( came )? \u2192 ( ? )",
         "options": [
-            "comeing",
-            "come",
             "came",
-            "comes"
+            "comes",
+            "comeing",
+            "come"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "After Did, use the base form."
     },
     {
         "question": "What ( ? ) that?",
         "options": [
-            "do",
             "were",
+            "do",
             "was",
             "did"
         ],
@@ -12928,20 +12928,20 @@ quizData.english_general_verbs_questions = {
         "question": "\u3044\u3064\u98df\u3079\u307e\u3057\u305f\u304b\uff1f\u2192 When ( ? ) you eat?",
         "options": [
             "do",
-            "did",
             "does",
+            "did",
             "was"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Past tense question."
     },
     {
         "question": "Did she ( plays )? \u2192 ( ? )",
         "options": [
             "plays",
+            "playsing",
             "playss",
-            "plays",
-            "playsing"
+            "plays"
         ],
         "answer": 0,
         "hint": "After Did, use the base form."
@@ -12951,113 +12951,14 @@ quizData.english_general_verbs_questions = {
         "options": [
             "do",
             "were",
-            "was",
-            "did"
+            "did",
+            "was"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "Action verb -> Did"
     },
     {
         "question": "\u3044\u3064\u5bdd\u307e\u3057\u305f\u304b\uff1f\u2192 When ( ? ) you sleep?",
-        "options": [
-            "was",
-            "does",
-            "did",
-            "do"
-        ],
-        "answer": 2,
-        "hint": "Past tense question."
-    },
-    {
-        "question": "Did it ( rains )? \u2192 ( ? )",
-        "options": [
-            "rains",
-            "rainsing",
-            "rains",
-            "rainss"
-        ],
-        "answer": 0,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Who ( ? ) he?",
-        "options": [
-            "were",
-            "did",
-            "do",
-            "was"
-        ],
-        "answer": 3,
-        "hint": "State/Adjective -> Was/Were"
-    },
-    {
-        "question": "\u8ab0\u3092\u898b\u307e\u3057\u305f\u304b\uff1f\u2192 Who ( ? ) you see?",
-        "options": [
-            "do",
-            "does",
-            "was",
-            "did"
-        ],
-        "answer": 3,
-        "hint": "Past tense question."
-    },
-    {
-        "question": "Did you ( watched )? \u2192 ( ? )",
-        "options": [
-            "watched",
-            "watchs",
-            "watch",
-            "watching"
-        ],
-        "answer": 2,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "Who ( ? ) you meet?",
-        "options": [
-            "were",
-            "do",
-            "was",
-            "did"
-        ],
-        "answer": 3,
-        "hint": "Action verb -> Did"
-    },
-    {
-        "question": "\u8ab0\u306b\u4f1a\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Who ( ? ) you meet?",
-        "options": [
-            "does",
-            "did",
-            "do",
-            "was"
-        ],
-        "answer": 1,
-        "hint": "Past tense question."
-    },
-    {
-        "question": "Did they ( runs )? \u2192 ( ? )",
-        "options": [
-            "runs",
-            "runsing",
-            "runss",
-            "runs"
-        ],
-        "answer": 0,
-        "hint": "After Did, use the base form."
-    },
-    {
-        "question": "How ( ? ) the weather?",
-        "options": [
-            "do",
-            "did",
-            "was",
-            "were"
-        ],
-        "answer": 1,
-        "hint": "Action verb -> Did"
-    },
-    {
-        "question": "\u3069\u306e\u3088\u3046\u306b\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 How ( ? ) you go?",
         "options": [
             "was",
             "do",
@@ -13068,25 +12969,124 @@ quizData.english_general_verbs_questions = {
         "hint": "Past tense question."
     },
     {
-        "question": "Did Ken ( studied )? \u2192 ( ? )",
+        "question": "Did it ( rains )? \u2192 ( ? )",
         "options": [
-            "studying",
-            "studys",
-            "study",
-            "studied"
+            "rains",
+            "rainsing",
+            "rainss",
+            "rains"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Who ( ? ) he?",
+        "options": [
+            "do",
+            "did",
+            "was",
+            "were"
         ],
         "answer": 2,
+        "hint": "State/Adjective -> Was/Were"
+    },
+    {
+        "question": "\u8ab0\u3092\u898b\u307e\u3057\u305f\u304b\uff1f\u2192 Who ( ? ) you see?",
+        "options": [
+            "do",
+            "did",
+            "does",
+            "was"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did you ( watched )? \u2192 ( ? )",
+        "options": [
+            "watch",
+            "watchs",
+            "watching",
+            "watched"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "Who ( ? ) you meet?",
+        "options": [
+            "do",
+            "were",
+            "was",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did"
+    },
+    {
+        "question": "\u8ab0\u306b\u4f1a\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Who ( ? ) you meet?",
+        "options": [
+            "does",
+            "do",
+            "was",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did they ( runs )? \u2192 ( ? )",
+        "options": [
+            "runs",
+            "runs",
+            "runss",
+            "runsing"
+        ],
+        "answer": 0,
+        "hint": "After Did, use the base form."
+    },
+    {
+        "question": "How ( ? ) the weather?",
+        "options": [
+            "was",
+            "were",
+            "do",
+            "did"
+        ],
+        "answer": 3,
+        "hint": "Action verb -> Did"
+    },
+    {
+        "question": "\u3069\u306e\u3088\u3046\u306b\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 How ( ? ) you go?",
+        "options": [
+            "do",
+            "did",
+            "was",
+            "does"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "Did Ken ( studied )? \u2192 ( ? )",
+        "options": [
+            "study",
+            "studied",
+            "studying",
+            "studys"
+        ],
+        "answer": 0,
         "hint": "After Did, use the base form."
     },
     {
         "question": "How ( ? ) you go?",
         "options": [
+            "do",
             "did",
             "was",
-            "were",
-            "do"
+            "were"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Action verb -> Did"
     },
     {
@@ -13094,8 +13094,8 @@ quizData.english_general_verbs_questions = {
         "options": [
             "does",
             "did",
-            "was",
-            "do"
+            "do",
+            "was"
         ],
         "answer": 1,
         "hint": "Past tense question."
@@ -13114,20 +13114,20 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( ? ) he happy?",
         "options": [
-            "Did",
+            "Was",
             "Were",
             "Do",
-            "Was"
+            "Did"
         ],
-        "answer": 3,
+        "answer": 0,
         "hint": "State/Adjective -> Was/Were"
     },
     {
         "question": "\u4f55\u6642\u3067\u3057\u305f\u304b\uff1f\u2192 What time ( ? ) it?",
         "options": [
-            "do",
-            "did",
             "does",
+            "did",
+            "do",
             "was"
         ],
         "answer": 1,
@@ -13137,8 +13137,8 @@ quizData.english_general_verbs_questions = {
         "question": "Did you ( were ) busy? \u2192 ( ? )",
         "options": [
             "were",
-            "weres",
             "wereing",
+            "weres",
             "were"
         ],
         "answer": 0,
@@ -13158,20 +13158,20 @@ quizData.english_general_verbs_questions = {
     {
         "question": "\u4f55\u6642\u306b\u8d77\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 What time ( ? ) you get up?",
         "options": [
-            "does",
             "did",
-            "do",
-            "was"
+            "was",
+            "does",
+            "do"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "Past tense question."
     },
     {
         "question": "Did you ( was ) sad? \u2192 ( ? )",
         "options": [
-            "wass",
-            "was",
             "wasing",
+            "was",
+            "wass",
             "was"
         ],
         "answer": 1,
@@ -13180,19 +13180,19 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( ? ) she busy?",
         "options": [
-            "Was",
-            "Were",
             "Do",
-            "Did"
+            "Was",
+            "Did",
+            "Were"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "State/Adjective -> Was/Were"
     },
     {
         "question": "\u4f55\u6642\u306b\u5bdd\u307e\u3057\u305f\u304b\uff1f\u2192 What time ( ? ) you sleep?",
         "options": [
-            "does",
             "was",
+            "does",
             "did",
             "do"
         ],
@@ -13202,10 +13202,10 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( Do ) you go yesterday? \u2192 ( ? )",
         "options": [
-            "Does",
+            "Do",
             "Was",
             "Did",
-            "Do"
+            "Does"
         ],
         "answer": 2,
         "hint": "Past tense question -> Did"
@@ -13213,30 +13213,30 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( ? ) she look busy?",
         "options": [
-            "Had",
             "Were",
             "Did",
-            "Was"
+            "Was",
+            "Had"
         ],
-        "answer": 2,
+        "answer": 1,
         "hint": "Action verb 'look' -> Did"
     },
     {
         "question": "\u3069\u3061\u3089\u3092\u8cb7\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Which ( ? ) you buy?",
         "options": [
-            "did",
             "do",
-            "was",
-            "does"
+            "did",
+            "does",
+            "was"
         ],
-        "answer": 0,
+        "answer": 1,
         "hint": "Past tense question."
     },
     {
         "question": "( Do ) he come yesterday? \u2192 ( ? )",
         "options": [
-            "Do",
             "Does",
+            "Do",
             "Was",
             "Did"
         ],
@@ -13246,85 +13246,85 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( ? ) they kind?",
         "options": [
-            "Did",
             "Were",
-            "Was",
-            "Do"
+            "Do",
+            "Did",
+            "Was"
         ],
-        "answer": 1,
+        "answer": 0,
         "hint": "State/Adjective -> Was/Were"
     },
     {
         "question": "\u3069\u3061\u3089\u3092\u98df\u3079\u307e\u3057\u305f\u304b\uff1f\u2192 Which ( ? ) you eat?",
         "options": [
             "does",
+            "was",
             "did",
-            "do",
-            "was"
+            "do"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Past tense question."
     },
     {
         "question": "( Does ) she eat yesterday? \u2192 ( ? )",
         "options": [
-            "Was",
-            "Did",
             "Do",
-            "Does"
+            "Was",
+            "Does",
+            "Did"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "( ? ) they look kind?",
         "options": [
-            "Was",
             "Had",
             "Were",
-            "Did"
+            "Did",
+            "Was"
         ],
-        "answer": 3,
+        "answer": 2,
         "hint": "Action verb 'look' -> Did"
     },
     {
         "question": "\u306a\u305c\u884c\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 Why ( ? ) you go?",
         "options": [
-            "does",
-            "did",
             "was",
-            "do"
+            "does",
+            "do",
+            "did"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "Past tense question."
     },
     {
         "question": "( Are ) you play yesterday? \u2192 ( ? )",
         "options": [
             "Was",
-            "Did",
             "Does",
+            "Did",
             "Do"
         ],
-        "answer": 1,
+        "answer": 2,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "( ? ) it nice?",
         "options": [
-            "Were",
-            "Was",
             "Do",
-            "Did"
+            "Were",
+            "Did",
+            "Was"
         ],
-        "answer": 1,
+        "answer": 3,
         "hint": "State/Adjective -> Was/Were"
     },
     {
         "question": "\u306a\u305c\u6ce3\u304d\u307e\u3057\u305f\u304b\uff1f\u2192 Why ( ? ) you cry?",
         "options": [
-            "does",
             "was",
+            "does",
             "do",
             "did"
         ],
@@ -13334,21 +13334,21 @@ quizData.english_general_verbs_questions = {
     {
         "question": "( Is ) he go yesterday? \u2192 ( ? )",
         "options": [
-            "Does",
-            "Do",
             "Did",
-            "Was"
+            "Does",
+            "Was",
+            "Do"
         ],
-        "answer": 2,
+        "answer": 0,
         "hint": "Past tense question -> Did"
     },
     {
         "question": "( ? ) it look nice?",
         "options": [
-            "Had",
+            "Was",
             "Did",
             "Were",
-            "Was"
+            "Had"
         ],
         "answer": 1,
         "hint": "Action verb 'look' -> Did"
@@ -13358,21 +13358,54 @@ quizData.english_general_verbs_questions = {
         "options": [
             "do",
             "was",
-            "did",
-            "does"
+            "does",
+            "did"
         ],
-        "answer": 2,
+        "answer": 3,
         "hint": "Past tense question."
     },
     {
         "question": "( Were ) you play tennis? \u2192 ( ? )",
         "options": [
+            "Does",
             "Did",
             "Was",
-            "Does",
             "Do"
         ],
-        "answer": 0,
+        "answer": 1,
+        "hint": "Past tense question -> Did"
+    },
+    {
+        "question": "That ( ? ) interesting.",
+        "options": [
+            "look",
+            "looked",
+            "looking",
+            "looks"
+        ],
+        "answer": 3,
+        "hint": "Subject 'That' -> looks"
+    },
+    {
+        "question": "\u3042\u306a\u305f\u306f\u3069\u3053\u306b\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you? (\u203bbe\u52d5\u8a5e)",
+        "options": [
+            "are",
+            "were",
+            "was",
+            "did"
+        ],
+        "answer": 1,
+        "hint": "Past tense question."
+    },
+    {
+        "question": "( Was ) he eat lunch? \u2192 ( ? )",
+        "options": [
+            "Does",
+            "Do",
+            "Did",
+            "Was"
+        ],
+        "answer": 2,
         "hint": "Past tense question -> Did"
     },
     {
@@ -13387,44 +13420,11 @@ quizData.english_general_verbs_questions = {
         "hint": "Subject 'That' -> looks"
     },
     {
-        "question": "\u3042\u306a\u305f\u306f\u3069\u3053\u306b\u3044\u307e\u3057\u305f\u304b\uff1f\u2192 Where ( ? ) you? (\u203bbe\u52d5\u8a5e)",
-        "options": [
-            "are",
-            "were",
-            "did",
-            "was"
-        ],
-        "answer": 1,
-        "hint": "Past tense question."
-    },
-    {
-        "question": "( Was ) he eat lunch? \u2192 ( ? )",
-        "options": [
-            "Does",
-            "Was",
-            "Did",
-            "Do"
-        ],
-        "answer": 2,
-        "hint": "Past tense question -> Did"
-    },
-    {
-        "question": "That ( ? ) interesting.",
-        "options": [
-            "looked",
-            "looks",
-            "look",
-            "looking"
-        ],
-        "answer": 1,
-        "hint": "Subject 'That' -> looks"
-    },
-    {
         "question": "\u5f7c\u306f\u8ab0\u3067\u3057\u305f\u304b\uff1f\u2192 Who ( ? ) he? (\u203bbe\u52d5\u8a5e)",
         "options": [
-            "were",
-            "are",
             "did",
+            "are",
+            "were",
             "was"
         ],
         "answer": 3,
