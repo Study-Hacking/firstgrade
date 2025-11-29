@@ -223,45 +223,103 @@ def parse_line(line):
                     "hint": "Past tense question."
                 })
 
-        # Col 2: 235-267 "( did / what / eat / you )? → ( )" -> Reorder
+        # Col 2: 235-267
         if len(parts) >= 4:
             q_text = parts[3]
             if '→' in q_text:
-                match = re.search(r'\((.*?)\)', q_text.split('→')[0])
-                if match:
-                    words = [w.strip() for w in match.group(1).split('/')]
-                    wh = next((w for w in words if w.lower() in ['what', 'where', 'when', 'who', 'how', 'which']), None)
-                    did = 'did'
-                    not_word = 'not'
-                    subj = next((w for w in words if w.lower() in ['you', 'he', 'she', 'they', 'ken', 'emi', 'it', 'i']), 'you')
-                    verb = next((w for w in words if w not in [wh, did, not_word, subj, 'what', 'where', 'when', 'who', 'how', 'which', 'did', 'not', 'you', 'he', 'she', 'they', 'ken', 'emi', 'it', 'i']), '')
-                    
-                    if not_word in words:
-                        correct = f"{subj.capitalize()} did not {verb}."
-                    elif wh:
-                        correct = f"{wh.capitalize()} did {subj} {verb}?"
-                    elif did in words:
-                        correct = f"Did {subj} {verb}?"
-                    else:
-                        correct = "Unknown"
-
-                    if q_num_col2 >= 261:
-                        correct = "Did"
-                        opts = ["Did", "Do", "Does", "Was"]
+                # 251-260: Correction "Did you ( went )?" -> go
+                if 251 <= q_num_col2 <= 260:
+                    match = re.search(r'\(( [a-z]+ )\)', q_text)
+                    if match:
+                        wrong_verb = match.group(1).strip()
+                        # Reuse heuristic
+                        if wrong_verb == 'lived': base = 'live'
+                        elif wrong_verb == 'used': base = 'use'
+                        elif wrong_verb == 'liked': base = 'like'
+                        elif wrong_verb == 'loved': base = 'love'
+                        elif wrong_verb == 'hoped': base = 'hope'
+                        elif wrong_verb.endswith('ied'): base = wrong_verb[:-3] + 'y'
+                        elif wrong_verb.endswith('ed'): base = wrong_verb[:-2]
+                        elif wrong_verb == 'went': base = 'go'
+                        elif wrong_verb == 'came': base = 'come'
+                        elif wrong_verb == 'had': base = 'have'
+                        elif wrong_verb == 'ate': base = 'eat'
+                        elif wrong_verb == 'saw': base = 'see'
+                        elif wrong_verb == 'bought': base = 'buy'
+                        elif wrong_verb == 'wrote': base = 'write'
+                        elif wrong_verb == 'ran': base = 'run'
+                        elif wrong_verb == 'spoke': base = 'speak'
+                        elif wrong_verb == 'knew': base = 'know'
+                        elif wrong_verb == 'made': base = 'make'
+                        elif wrong_verb == 'took': base = 'take'
+                        elif wrong_verb == 'got': base = 'get'
+                        elif wrong_verb == 'left': base = 'leave'
+                        elif wrong_verb == 'met': base = 'meet'
+                        elif wrong_verb == 'sang': base = 'sing'
+                        elif wrong_verb == 'began': base = 'begin'
+                        elif wrong_verb == 'drank': base = 'drink'
+                        elif wrong_verb == 'slept': base = 'sleep'
+                        elif wrong_verb == 'swam': base = 'swim'
+                        else: base = wrong_verb
+                        
+                        if base.endswith('pp'): base = base[:-1]
+                        if base.endswith('tt'): base = base[:-1]
+                        if base.endswith('gg'): base = base[:-1]
+                        
+                        correct = base
+                        opts = [base, wrong_verb, base+'s', base+'ing']
                         random.shuffle(opts)
                         questions.append({
                             "question": q_text.replace('(          )', '( ? )'),
                             "options": opts,
                             "answer": opts.index(correct),
-                            "hint": "Past tense question -> Did"
+                            "hint": "After Did, use the base form."
                         })
-                    else:
-                        d1 = f"{did.capitalize()} {subj} {verb} {wh}?" if wh else f"{subj.capitalize()} {verb} {did}?"
-                        d2 = f"{wh.capitalize()} {subj} {did} {verb}?" if wh else f"{did.capitalize()} {verb} {subj}?"
-                        d3 = f"{subj.capitalize()} {did} {verb} {wh}?" if wh else f"{verb.capitalize()} {did} {subj}?"
+                
+                # 261-267: Correction "( Do ) you go?" -> Did
+                elif 261 <= q_num_col2 <= 267:
+                    correct = "Did"
+                    opts = ["Did", "Do", "Does", "Was"]
+                    random.shuffle(opts)
+                    questions.append({
+                        "question": q_text.replace('(          )', '( ? )'),
+                        "options": opts,
+                        "answer": opts.index(correct),
+                        "hint": "Past tense question -> Did"
+                    })
+
+                # 235-250: Reorder
+                else: 
+                    match = re.search(r'\((.*?)\)', q_text.split('→')[0])
+                    if match:
+                        words = [w.strip() for w in match.group(1).split('/')]
+                        wh = next((w for w in words if w.lower() in ['what', 'where', 'when', 'who', 'how', 'which']), None)
+                        did = 'did'
+                        not_word = 'not'
+                        subj = next((w for w in words if w.lower() in ['you', 'he', 'she', 'they', 'ken', 'emi', 'it', 'i']), 'you')
+                        verb = next((w for w in words if w not in [wh, did, not_word, subj, 'what', 'where', 'when', 'who', 'how', 'which', 'did', 'not', 'you', 'he', 'she', 'they', 'ken', 'emi', 'it', 'i']), '')
                         
+                        if not_word in words:
+                            correct = f"{subj.capitalize()} did not {verb}."
+                            d1 = f"{subj.capitalize()} not did {verb}."
+                            d2 = f"Did {subj} not {verb}."
+                            d3 = f"{subj.capitalize()} {verb} did not."
+                        elif wh:
+                            correct = f"{wh.capitalize()} did {subj} {verb}?"
+                            d1 = f"{wh.capitalize()} {subj} did {verb}?"
+                            d2 = f"{wh.capitalize()} did {verb} {subj}?"
+                            d3 = f"Did {subj} {verb} {wh}?"
+                        elif did in words:
+                            correct = f"Did {subj} {verb}?"
+                            d1 = f"{did.capitalize()} {verb} {subj}?"
+                            d2 = f"{subj.capitalize()} did {verb}?"
+                            d3 = f"{subj.capitalize()} {verb} did?"
+                        else:
+                            correct = "Unknown"
+                            d1, d2, d3 = "Error", "Error", "Error"
+
                         opts = [correct, d1, d2, d3]
-                        opts = [o for o in opts if o != "Unknown"]
+                        opts = [o for o in opts if o != "Unknown" and o != "Error"]
                         while len(opts) < 4: opts.append("Error")
                         
                         questions.append({
