@@ -4,7 +4,11 @@ document.addEventListener('DOMContentLoaded', () => {
     cards.forEach(card => {
         card.addEventListener('click', () => {
             const subject = card.dataset.subject;
-            window.location.href = `game.html?subject=${subject}`;
+            if (subject === 'english') {
+                window.location.href = 'topics.html';
+            } else {
+                window.location.href = `game.html?subject=${subject}`;
+            }
 
             // Add a simple animation effect
             card.style.transform = 'scale(0.95)';

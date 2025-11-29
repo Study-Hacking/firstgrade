@@ -11,7 +11,7 @@ class QuizGame {
             return;
         }
 
-        this.questions = this.data.questions;
+        this.questions = this.getRandomQuestions(this.data.questions, 10);
         this.currentIndex = 0;
         this.correctCount = 0;
         this.incorrectCount = 0;
@@ -19,6 +19,19 @@ class QuizGame {
 
         this.initDOM();
         this.initGame();
+    }
+
+    getRandomQuestions(allQuestions, count) {
+        if (allQuestions.length <= count) return allQuestions;
+
+        // Fisher-Yates Shuffle
+        const shuffled = [...allQuestions];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+
+        return shuffled.slice(0, count);
     }
 
     initDOM() {

@@ -89,5 +89,813 @@ const quizData = {
                 hint: "「走らない(a)」「走ります(i)」「走る(u)」「走れば(e)」「走ろう(o)」"
             }
         ]
+    },
+    english_be_past: {
+        title: "be動詞の過去形 (was/were)",
+        questions: [
+            {
+                "question": "I ( ) happy.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) you busy?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "I am happy. → I ( ) happy.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "You ( ) sad.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) I wrong?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "You are sad. → You ( ) sad.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "He ( ) busy.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) he right?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "He is busy. → He ( ) busy.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "She ( ) free.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) she pretty?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "She is free. → She ( ) free.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "It ( ) hot.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) it tasty?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "It is hot. → It ( ) hot.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "We ( ) tired.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) we late?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "We are tired. → We ( ) tired.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "They ( ) fine.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) they early?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "They are fine. → They ( ) fine.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Ken ( ) kind.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) Ken tall?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Ken is kind. → Ken ( ) kind.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Emi ( ) cute.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) Emi short?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Emi is cute. → Emi ( ) cute.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "The dog ( ) big.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "( ) the dog white?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "The dog is big. → The dog ( ) big.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "You ( ) a student.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Where ( ) your bag?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "You are a student. → You ( ) a student.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "I ( ) a teacher.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Where ( ) your bags?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "I am a teacher. → I ( ) a teacher.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "He ( ) a doctor.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Who ( ) that man?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "He is a doctor. → He ( ) a doctor.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "She ( ) a nurse.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Who ( ) those men?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "She is a nurse. → She ( ) a nurse.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "It ( ) a cat.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "What ( ) his name?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "It is a cat. → It ( ) a cat.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "We ( ) friends.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "What ( ) those things?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "We are friends. → We ( ) friends.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "They ( ) players.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "How ( ) the test?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "They are players. → They ( ) players.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Mike ( ) strong.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "How ( ) the apples?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Mike is strong. → Mike ( ) strong.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Tom ( ) fast.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "When ( ) his birthday?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Tom is fast. → Tom ( ) fast.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "The cat ( ) small.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "When ( ) the games?",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "The cat is small. → The cat ( ) small.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "I ( ) in Tokyo.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "That ( ) not mine.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "I am in Tokyo. → I ( ) in Tokyo.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "You ( ) in Osaka.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "These ( ) not yours.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "You are in Osaka. → You ( ) in Osaka.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "He ( ) at home.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "This ( ) my desk.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "He is at home. → He ( ) at home.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "She ( ) at school.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "Those ( ) your shoes.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 2,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "She is at school. → She ( ) at school.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            },
+            {
+                "question": "It ( ) in the box.",
+                "options": [
+                    "is",
+                    "was",
+                    "were",
+                    "are"
+                ],
+                "answer": 1,
+                "hint": "過去形: 単数→was, 複数/You→were"
+            }
+        ]
     }
 };
