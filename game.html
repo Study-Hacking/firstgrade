@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Challenge - Study Hacker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&family=Outfit:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="game-container">
+        <!-- Header / Progress -->
+        <header class="game-header">
+            <div class="progress-bar-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            <div class="game-stats">
+                <span id="question-counter">1 / 30</span>
+                <div class="score-badges">
+                    <span class="badge incorrect">× <span id="incorrect-count">0</span></span>
+                    <span class="badge correct">✓ <span id="correct-count">0</span></span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Question Area -->
+        <main class="question-area">
+            <div class="question-text">
+                <span class="q-num" id="q-num">1.</span>
+                <p id="question-content">I ( ) happy yesterday.</p>
+            </div>
+
+            <div class="options-list" id="options-list">
+                <!-- Options will be injected here -->
+                <button class="option-btn">A. is</button>
+                <button class="option-btn">B. was</button>
+                <button class="option-btn">C. were</button>
+                <button class="option-btn">D. are</button>
+            </div>
+
+            <div class="hint-section">
+                <button class="hint-toggle" id="hint-toggle">Show hint ⌄</button>
+                <div class="hint-content hidden" id="hint-content">
+                    過去のことを言っているので、be動詞の過去形を使います。「私(I)」に対応する過去形は？
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer / Navigation -->
+        <footer class="game-footer">
+            <button class="next-btn" id="next-btn" disabled>Next</button>
+        </footer>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="game.js"></script>
+</body>
+
+</html>
