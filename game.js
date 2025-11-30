@@ -9,7 +9,8 @@ class QuizGame {
             return;
         }
 
-        this.questions = this.getRandomQuestions(this.data.questions, 10);
+        this.replenishPool();
+        this.questions = this.fetchNextQuestions(10);
         this.currentIndex = 0;
         this.correctCount = 0;
         this.incorrectCount = 0;
@@ -19,10 +20,25 @@ class QuizGame {
         this.initGame();
     }
 
-    getRandomQuestions(allQuestions, count) {
-        // Fisher-Yates Shuffle
-        const shuffled = this.shuffleArray([...allQuestions]);
-        return shuffled.slice(0, count);
+    replenishPool() {
+        this.questionPool = this.shuffleArray([...this.data.questions]);
+    }
+
+    fetchNextQuestions(count) {
+        if (!this.questionPool || this.questionPool.length === 0) {
+            this.replenishPool();
+        }
+
+        if (this.questionPool.length >= count) {
+            return this.questionPool.splice(0, count);
+        } else {
+            // Not enough questions left, take what's there and replenish
+            const remaining = [...this.questionPool];
+            this.replenishPool();
+            const needed = count - remaining.length;
+            const more = this.questionPool.splice(0, needed);
+            return [...remaining, ...more];
+        }
     }
 
     shuffleArray(array) {
@@ -285,8 +301,8 @@ class QuizGame {
     }
 
     startNewGame() {
-        // Reload fresh random questions
-        this.questions = this.getRandomQuestions(this.data.questions, 10);
+        // Fetch next batch of unique questions
+        this.questions = this.fetchNextQuestions(10);
         this.resetGameLoop();
     }
 
