@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Studies Topics - Study Hacker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&family=Outfit:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="logo">Study Hacker</div>
+        <p class="subtitle">Social Studies Topics</p>
+    </header>
+
+    <main class="container">
+        <div style="margin-bottom: 1rem;">
+            <a href="index.html" style="color: var(--primary-color); text-decoration: none; font-weight: bold;">← Back
+                to Home</a>
+        </div>
+        <section class="hero">
+            <h1>学習する項目を選んでください</h1>
+        </section>
+
+        <nav class="toc-nav">
+            <!-- History Topics -->
+            <div class="subject-card" onclick="selectTopic('history_kamakura_muromachi')">
+                <div class="card-icon" style="background-color: #FFFBEB; color: #D97706;">🏯</div>
+                <div class="topic-card" onclick="selectTopic('history_kamakura_muromachi')">
+                    <h2>歴史 - 鎌倉・室町</h2>
+                    <p>元寇、建武の新政、室町幕府、応仁の乱など</p>
+                </div>
+                <div class="arrow">→</div>
+            </div>
+
+            <!-- Placeholder for future topics -->
+            <div class="subject-card" style="opacity: 0.5; cursor: not-allowed;">
+                <div class="card-icon" style="background-color: #F3F4F6; color: #9CA3AF;">🔒</div>
+                <div class="card-content">
+                    <h2>江戸時代</h2>
+                    <p>Coming Soon...</p>
+                </div>
+            </div>
+        </nav>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2024 Study Hacker</p>
+    </footer>
+
+    <script>
+        function selectTopic(topic) {
+            window.location.href = `game.html?subject=${topic}`;
+        }
+    </script>
+</body>
+
+</html>

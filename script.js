@@ -6,6 +6,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const subject = card.dataset.subject;
             if (subject === 'english') {
                 window.location.href = 'topics.html';
+            } else if (subject === 'social') {
+                window.location.href = 'social_topics.html';
             } else {
                 window.location.href = `game.html?subject=${subject}`;
             }
