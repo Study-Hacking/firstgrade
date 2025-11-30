@@ -28,47 +28,103 @@
             <h1>学習する項目を選んでください</h1>
         </section>
 
+        <section class="learning-guide"
+            style="margin-bottom: 2rem; background: #fff; padding: 1.5rem; border-radius: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <h2 style="font-size: 1.2rem; margin-bottom: 1rem; color: var(--text-color);">重要度ガイド</h2>
+            <div style="display: grid; gap: 0.8rem;">
+                <div style="display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap;">
+                    <span
+                        style="background: #EF4444; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; min-width: 40px; text-align: center;">Lv.5</span>
+                    <span style="font-weight: bold;">時代の転換点</span>
+                    <span style="color: #666; font-size: 0.9rem;">絶対に落とせない超基本。</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap;">
+                    <span
+                        style="background: #F97316; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; min-width: 40px; text-align: center;">Lv.4</span>
+                    <span style="font-weight: bold;">社会の仕組み</span>
+                    <span style="color: #666; font-size: 0.9rem;">記述問題で差がつくポイント。</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap;">
+                    <span
+                        style="background: #EAB308; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; min-width: 40px; text-align: center;">Lv.3</span>
+                    <span style="font-weight: bold;">文化と宗教</span>
+                    <span style="color: #666; font-size: 0.9rem;">ビジュアル資料問題の定番。</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap;">
+                    <span
+                        style="background: #22C55E; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; min-width: 40px; text-align: center;">Lv.2</span>
+                    <span style="font-weight: bold;">対外関係</span>
+                    <span style="color: #666; font-size: 0.9rem;">地図とセットで覚える分野。</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.8rem; flex-wrap: wrap;">
+                    <span
+                        style="background: #3B82F6; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; min-width: 40px; text-align: center;">Lv.1</span>
+                    <span style="font-weight: bold;">詳細知識</span>
+                    <span style="color: #666; font-size: 0.9rem;">高得点を狙うための詰め。</span>
+                </div>
+            </div>
+        </section>
+
         <nav class="toc-nav">
-            <!-- History Topics -->
+            <!-- Lv.5 -->
             <div class="subject-card" onclick="selectTopic('history_kamakura_muromachi')">
                 <div class="card-icon" style="background-color: #FFFBEB; color: #D97706;">🏯</div>
                 <div class="topic-card" onclick="selectTopic('history_kamakura_muromachi')">
+                    <div style="margin-bottom: 0.5rem;"><span
+                            style="background: #EF4444; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">Lv.5
+                            時代の転換点</span></div>
                     <h2>歴史 - 鎌倉・室町</h2>
                     <p>元寇、建武の新政、室町幕府、応仁の乱など</p>
                 </div>
                 <div class="arrow">→</div>
             </div>
 
-            <div class="subject-card" onclick="selectTopic('history_muromachi_foreign')">
-                <div class="card-icon" style="background-color: #DBEAFE; color: #1E40AF;">🚢</div>
-                <div class="topic-card" onclick="selectTopic('history_muromachi_foreign')">
-                    <h2>対外関係 - 日明貿易・琉球・アイヌ</h2>
-                    <p>勘合貿易、尚巴志、コシャマインの戦いなど</p>
-                </div>
-                <div class="arrow">→</div>
-            </div>
-
+            <!-- Lv.4 -->
             <div class="subject-card" onclick="selectTopic('history_muromachi_society')">
                 <div class="card-icon" style="background-color: #ECFCCB; color: #65A30D;">🌾</div>
                 <div class="topic-card" onclick="selectTopic('history_muromachi_society')">
+                    <div style="margin-bottom: 0.5rem;"><span
+                            style="background: #F97316; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">Lv.4
+                            社会の仕組み</span></div>
                     <h2>社会の仕組み - 惣・座・徳政令</h2>
                     <p>土一揆、下克上、分国法、城下町など</p>
                 </div>
                 <div class="arrow">→</div>
             </div>
 
+            <!-- Lv.3 -->
             <div class="subject-card" onclick="selectTopic('history_muromachi_culture')">
                 <div class="card-icon" style="background-color: #E0E7FF; color: #4338CA;">🎨</div>
                 <div class="topic-card" onclick="selectTopic('history_muromachi_culture')">
+                    <div style="margin-bottom: 0.5rem;"><span
+                            style="background: #EAB308; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">Lv.3
+                            文化と宗教</span></div>
                     <h2>文化・宗教 - 金閣・銀閣・鎌倉新仏教</h2>
                     <p>北山・東山文化、能・狂言、禅宗など</p>
                 </div>
                 <div class="arrow">→</div>
             </div>
 
+            <!-- Lv.2 -->
+            <div class="subject-card" onclick="selectTopic('history_muromachi_foreign')">
+                <div class="card-icon" style="background-color: #DBEAFE; color: #1E40AF;">🚢</div>
+                <div class="topic-card" onclick="selectTopic('history_muromachi_foreign')">
+                    <div style="margin-bottom: 0.5rem;"><span
+                            style="background: #22C55E; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">Lv.2
+                            対外関係</span></div>
+                    <h2>対外関係 - 日明貿易・琉球・アイヌ</h2>
+                    <p>勘合貿易、尚巴志、コシャマインの戦いなど</p>
+                </div>
+                <div class="arrow">→</div>
+            </div>
+
+            <!-- Lv.1 -->
             <div class="subject-card" onclick="selectTopic('history_muromachi_details')">
                 <div class="card-icon" style="background-color: #FEE2E2; color: #DC2626;">📚</div>
                 <div class="topic-card" onclick="selectTopic('history_muromachi_details')">
+                    <div style="margin-bottom: 0.5rem;"><span
+                            style="background: #3B82F6; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">Lv.1
+                            詳細知識</span></div>
                     <h2>詳細・応用 - 作品・地名・人物</h2>
                     <p>徒然草、風姿花伝、石見銀山、祇園祭など</p>
                 </div>
