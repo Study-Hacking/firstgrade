@@ -20,16 +20,17 @@ class QuizGame {
     }
 
     getRandomQuestions(allQuestions, count) {
-        if (allQuestions.length <= count) return allQuestions;
-
         // Fisher-Yates Shuffle
-        const shuffled = [...allQuestions];
-        for (let i = shuffled.length - 1; i > 0; i--) {
-            const j = Math.floor(Math.random() * (i + 1));
-            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
-        }
-
+        const shuffled = this.shuffleArray([...allQuestions]);
         return shuffled.slice(0, count);
+    }
+
+    shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
     }
 
     initDOM() {
@@ -94,20 +95,28 @@ class QuizGame {
         // Hide Next Button
         this.dom.nextBtnContainer.classList.add('hidden');
 
+        // Prepare Options (Shuffle)
+        const optionObjects = q.options.map((opt, index) => ({
+            text: opt,
+            isCorrect: index === q.answer
+        }));
+        const shuffledOptions = this.shuffleArray(optionObjects);
+
         // Generate Options
         this.dom.optionsList.innerHTML = '';
-        q.options.forEach((opt, index) => {
+        shuffledOptions.forEach((optObj, index) => {
             const btn = document.createElement('button');
             btn.className = 'option-btn';
+            btn.dataset.isCorrect = optObj.isCorrect;
             // Structure for inline feedback
             btn.innerHTML = `
                 <div class="option-header">
                     <span class="opt-label">${String.fromCharCode(65 + index)}.</span>
-                    <span class="opt-text">${opt}</span>
+                    <span class="opt-text">${optObj.text}</span>
                 </div>
                 <div class="feedback-content"></div>
             `;
-            btn.onclick = () => this.checkAnswer(index, btn);
+            btn.onclick = () => this.checkAnswer(btn);
             this.dom.optionsList.appendChild(btn);
         });
 
@@ -116,13 +125,12 @@ class QuizGame {
         this.updateProgressBar();
     }
 
-    checkAnswer(selectedIndex, btnElement) {
+    checkAnswer(btnElement) {
         if (this.hasAnswered) return;
         this.hasAnswered = true;
 
         const q = this.questions[this.currentIndex];
-        const isCorrect = selectedIndex === q.answer;
-        const options = this.dom.optionsList.querySelectorAll('.option-btn');
+        const isCorrect = btnElement.dataset.isCorrect === 'true';
 
         if (isCorrect) {
             // Correct Case
@@ -150,13 +158,15 @@ class QuizGame {
             `;
 
             // Highlight Correct Answer
-            const correctBtn = options[q.answer];
-            correctBtn.classList.add('correct');
-            const correctFeedback = correctBtn.querySelector('.feedback-content');
-            correctFeedback.innerHTML = `
-                <span class="status-label">正解</span>
-                ${q.hint}
-            `;
+            const correctBtn = this.dom.optionsList.querySelector('[data-is-correct="true"]');
+            if (correctBtn) {
+                correctBtn.classList.add('correct');
+                const correctFeedback = correctBtn.querySelector('.feedback-content');
+                correctFeedback.innerHTML = `
+                    <span class="status-label">正解</span>
+                    ${q.hint}
+                `;
+            }
 
             this.incorrectCount++;
             // Track mistake
