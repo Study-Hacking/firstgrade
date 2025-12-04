@@ -8,6 +8,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 window.location.href = 'topics.html';
             } else if (subject === 'history') {
                 window.location.href = 'history_topics.html';
+            } else if (subject === 'science') {
+                window.location.href = 'science_topics.html';
             } else {
                 window.location.href = `game.html?subject=${subject}`;
             }

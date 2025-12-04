@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science Topics - Study Hacker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;700&family=Outfit:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <div class="logo">Study Hacker</div>
+        <p class="subtitle">Science Topics</p>
+    </header>
+
+    <main class="container">
+        <div style="margin-bottom: 1rem;">
+            <a href="index.html" style="color: var(--primary-color); text-decoration: none; font-weight: bold;">← Back
+                to Home</a>
+        </div>
+        <section class="hero">
+            <h1>学習する項目を選んでください</h1>
+        </section>
+
+
+
+        <nav class="toc-nav">
+            <!-- Basic -->
+            <div class="subject-card" onclick="selectTopic('science_basic')">
+                <div class="card-icon" style="background-color: #E0F2FE; color: #0284C7;">🌱</div>
+                <div class="topic-card" onclick="selectTopic('science_basic')">
+                    <div style="margin-bottom: 0.5rem;"><span
+                            style="background: #0EA5E9; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">Basic
+                            基本編</span></div>
+                    <h2>理科 - テスト頻出・重要語句</h2>
+                    <p>教科書の太字キーワード、基本的な法則など（30問）</p>
+                </div>
+                <div class="arrow">→</div>
+            </div>
+
+            <!-- Advanced -->
+            <div class="subject-card" onclick="selectTopic('science_advanced')">
+                <div class="card-icon" style="background-color: #FEF3C7; color: #D97706;">🔬</div>
+                <div class="topic-card" onclick="selectTopic('science_advanced')">
+                    <div style="margin-bottom: 0.5rem;"><span
+                            style="background: #F59E0B; color: white; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">Advanced
+                            応用・詳細編</span></div>
+                    <h2>理科 - 高得点・細かい知識</h2>
+                    <p>実験の詳細条件、発展的な概念など（20問）</p>
+                </div>
+                <div class="arrow">→</div>
+            </div>
+        </nav>
+    </main>
+
+    <footer class="footer">
+        <p>&copy; 2024 Study Hacker</p>
+    </footer>
+
+    <script>
+        function selectTopic(topic) {
+            window.location.href = `game.html?subject=${topic}`;
+        }
+    </script>
+</body>
+
+</html>
